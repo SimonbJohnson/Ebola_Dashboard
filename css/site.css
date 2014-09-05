@@ -1,0 +1,18 @@
+#pie_country{
+    height:250px;
+}
+
+#line_total{
+    height:250px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.nofocus{
+    fill:#bbbbbb;
+}

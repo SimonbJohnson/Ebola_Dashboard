@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Ebola Dashboard</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/site.css"/>
+        <script src="js/jquery.js"></script>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>   
+        <script src="data/CasesAndDeaths.js"></script>
+        <script src="data/KeyStats.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2>Ebola Dashboard</h2>
+                </div>
+                <div class="col-md-8">
+                    Instructions + other text
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>Proportion of cases by country</h4>
+                    <div id="pie_country"></div>
+                </div>
+                <div class="col-md-3">
+                    <h4 id="key_stats_title">Key Stats for West Africa</h4>
+                    <div id="key_stats"></div>
+                </div>
+                <div class="col-md-5">
+                    <h4 id="cul_tot_title">Cumulative Totals for West Africa</h4>
+                    <div id="line_total"></div>
+                </div>                
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>Map</h4>
+                    <div id="map"></div>
+                </div>
+                <div class="col-md-4">
+                    <h4>Medical Centres</h4>
+                    <div id="medical_centres"></div>
+                </div>                  
+            </div>
+        </div>
+        <script src="js/site.js"></script>        
+    </body>
+</html>
