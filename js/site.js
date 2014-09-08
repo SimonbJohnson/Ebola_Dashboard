@@ -210,17 +210,6 @@ function generateMap(){
     var path = d3.geo.path()
         .projection(projection);
 
-    var g = svg.append("g");
-    
-    g.selectAll("path")
-        .data(westafrica.features)
-        .enter()
-        .append("path")
-        .attr("d", path)
-        .attr("stroke",'#aaaaaa')
-        .attr("fill",'#ffffff')
-        .attr("class","mapgeom");
-
     var g = svg.append("g");    
 
     g.selectAll("path")
@@ -229,14 +218,27 @@ function generateMap(){
         .append("path")
         .attr("d", path)
         .attr("stroke",'#aaaaaa')
-        .attr("fill",'#ff0000')
-        .attr("opacity",0)
-        .attr("id",function(d){return d.properties.NAME_REF;})
-        .attr("class","mapgeom");
+        .attr("stroke-width","0px")
+        .attr("fill",'#ffffff')
+        .attr("id",function(d){return d.properties.NAME_REF.replace(/\s/g, '');})
+        .attr("class","region")
+        .append("svg:title")
+        .text(function(d) { return d.properties.NAME_REF; });
 
     regionsAffected.forEach(function(e) {
-        d3.select("#"+e).attr("opacity",1);
+        d3.select("#"+e.replace(/\s/g, '')).attr("fill",'#ff0000');
     });
+    
+    var g = svg.append("g");
+    
+    g.selectAll("path")
+        .data(westafrica.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+        .attr("stroke",'#aaaaaa')
+        .attr("fill",'none')
+        .attr("class","country");    
 
     var mapLabels = svg.append("g");    
 
@@ -326,6 +328,10 @@ function transitionMap(filter){
         var projection = d3.geo.mercator()
             .center([15,7.7])
             .scale(800);
+        var width = "0";
+    }
+    else {
+        var width = "1";
     }
     if(filter==="Sierra Leone"){
         var projection = d3.geo.mercator()
@@ -351,8 +357,11 @@ function transitionMap(filter){
     var path = d3.geo.path()
         .projection(projection);    
     
-    d3.selectAll('.mapgeom').transition().duration(duration)
-            .attr('d', path);
+    d3.selectAll('.country').transition().duration(duration)
+            .attr('d', path).attr("stroke-width",width*3+1+"px");
+    
+    d3.selectAll('.region').transition().duration(duration)
+            .attr('d', path).attr("stroke-width",width+"px");    
     
     d3.selectAll('.maplabel').transition().duration(duration)
         .attr("x", function(d,i){
