@@ -152,6 +152,33 @@ function generateKeyStats(id,datain){
     $(id).html(html);
 }
 
+function generateMedicalCentres(id,datain,filter){
+    var html ="";
+    if(filter==="Total"){
+        var country =[];
+        var countryTotals = [];
+        datain.forEach(function(e){
+            if($.inArray(e.Country, country)>-1){
+                countryTotals[e.Country] = countryTotals[e.Country]+1;
+            } else {
+                country.push(e.Country);
+                countryTotals[e.Country] = 1;
+            }
+        });
+        
+        country.forEach(function(e){
+           html = html + "<p>" + e +": " + countryTotals[e]+"</p>"; 
+        });
+    } else {
+        datain.forEach(function(e){
+            if(e.Country === filter){
+                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + "</p>";
+            }
+        });
+    }
+    $(id).html(html);
+}
+
 function transitionPieChart(filter){
     if(filter==="Total"){
         d3.select("#Liberia").transition().duration(duration).style("fill",color["Liberia"]);
@@ -342,6 +369,7 @@ function transition(filter){
     generateKeyStats("#key_stats",keyStats[filter]);
     transitionTitles(filter);
     transitionMap(filter);
+    generateMedicalCentres("#medical_centres",medicalCentres,filter);
 }
 
 
@@ -379,3 +407,4 @@ generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
 generateKeyStats("#key_stats",keyStats["Total"]);
 generateMap();
+generateMedicalCentres("#medical_centres",medicalCentres,"Total");
