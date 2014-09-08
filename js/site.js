@@ -110,7 +110,7 @@ function generateLineChart(id,datain){
           
     x.domain(d3.extent(datain, function(d) { 
         return d.date; }));
-    y.domain(d3.extent(datain, function(d) { return d.cases; }));
+    y.domain([0,d3.max(datain, function(d) { return d.cases; })]);
 
     svg.append("g")
         .attr("class", "xaxis axis")
@@ -167,6 +167,69 @@ function transitionPieChart(filter){
     }
 }
 
+function generateMap(){
+    var margin = {top: 10, right: 10, bottom: 10, left: 10},
+    width = $('#map').width() - margin.left - margin.right,
+    height = 325;
+   
+    var projection = d3.geo.mercator()
+        .center([15,7.7])
+        .scale(800);
+
+    var svg = d3.select('#map').append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    var path = d3.geo.path()
+        .projection(projection);
+
+    var g = svg.append("g");
+    
+    g.selectAll("path")
+        .data(westafrica.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+        .attr("stroke",'#aaaaaa')
+        .attr("fill",'#ffffff')
+        .attr("class","mapgeom");
+
+    var g = svg.append("g");    
+
+    g.selectAll("path")
+        .data(regions.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+        .attr("stroke",'#aaaaaa')
+        .attr("fill",'#ff0000')
+        .attr("opacity",0)
+        .attr("id",function(d){return d.properties.NAME_REF;})
+        .attr("class","mapgeom");
+
+    regionsAffected.forEach(function(e) {
+        d3.select("#"+e).attr("opacity",1);
+    });
+
+    var mapLabels = svg.append("g");    
+
+    mapLabels.selectAll('text')
+      .data(westafrica.features)
+         .enter()
+         .append("text")
+         .attr("x", function(d,i){
+                     return path.centroid(d)[0]-20;})
+         .attr("y", function(d,i){
+                     return path.centroid(d)[1];})
+         .attr("dy", ".55em")
+         .attr("class","maplabel")
+         .style("font-size","12px")
+         .attr("opacity",0.4)
+         .text(function(d,i){
+                      return d.properties.NAME_REF;
+                  });
+}
+
 function transitionLineChart(id,datain){
 
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
@@ -198,7 +261,7 @@ function transitionLineChart(id,datain){
         .y(function(d) { return y(d.deaths); });
   
     x.domain(d3.extent(datain, function(d) { return d.date; }));
-    y.domain(d3.extent(datain, function(d) { return d.cases; }));
+    y.domain([0,d3.max(datain, function(d) { return d.cases; })]);
 
     d3.selectAll(".line")
         .datum(datain)
@@ -221,15 +284,54 @@ function transitionLineChart(id,datain){
     d3.selectAll(".xaxis")
         .transition().duration(duration)
         .call(xAxis);
-
-
 }
+
 
 function transitionTitles(filter){
     var title = filter;
     if(filter==="Total"){title = "West Africa";}
     $("#key_stats_title").html("Key Stats for " + title);
     $("#cul_tot_title").html("Cumulative Total for " + title);
+}
+
+function transitionMap(filter){
+    if(filter==="Total"){
+        var projection = d3.geo.mercator()
+            .center([15,7.7])
+            .scale(800);
+    }
+    if(filter==="Sierra Leone"){
+        var projection = d3.geo.mercator()
+            .center([-9,7.9])
+            .scale(6000);
+    }
+    if(filter==="Guinea"){
+        var projection = d3.geo.mercator()
+            .center([-6,8.3])
+            .scale(2800);
+    }    
+    if(filter==="Liberia"){
+        var projection = d3.geo.mercator()
+            .center([-4.5,4.5])
+            .scale(3500);
+    }
+    if(filter==="Nigeria"){
+        var projection = d3.geo.mercator()
+            .center([17,6])
+            .scale(1500);
+    }
+    
+    var path = d3.geo.path()
+        .projection(projection);    
+    
+    d3.selectAll('.mapgeom').transition().duration(duration)
+            .attr('d', path);
+    
+    d3.selectAll('.maplabel').transition().duration(duration)
+        .attr("x", function(d,i){
+                     return path.centroid(d)[0]-20;})
+        .attr("y", function(d,i){
+                     return path.centroid(d)[1];});    
 }
 
 function transition(filter){
@@ -239,6 +341,7 @@ function transition(filter){
     transitionLineChart("#line_total",casesAndDeaths[filter]);
     generateKeyStats("#key_stats",keyStats[filter]);
     transitionTitles(filter);
+    transitionMap(filter);
 }
 
 
@@ -275,3 +378,4 @@ casesAndDeaths["Nigeria"].forEach(function(d){
 generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
 generateKeyStats("#key_stats",keyStats["Total"]);
+generateMap();
