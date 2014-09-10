@@ -148,7 +148,7 @@ function generateKeyStats(id,datain){
     var html = "<p>Population: "+datain["population"] + "<p>";
     html = html + "<p>Cases: "+datain["cases"] + "<p>";
     html = html + "<p>Deaths: "+datain["deaths"] + "<p>";
-    html = html + "<p>Mortality Rate: "+datain["mortality rate"] + "<p>";
+    html = html + "<p>Crude Mortality Rate: "+datain["mortality rate"] + "<p>";
     $(id).html(html);
 }
 
