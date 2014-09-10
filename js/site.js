@@ -226,7 +226,7 @@ function generateMap(){
         .text(function(d) { return d.properties.NAME_REF; });
 
     regionsAffected.forEach(function(e) {
-        d3.select("#"+e.replace(/\s/g, '')).attr("fill",'#ff0000');
+        d3.select("#"+e.replace(/\s/g, '')).attr("fill",'#ff3333');
     });
     
     var g = svg.append("g");
@@ -255,7 +255,7 @@ function generateMap(){
          .style("font-size","12px")
          .attr("opacity",0.4)
          .text(function(d,i){
-                      return d.properties.NAME_REF;
+                      return d.properties.NAME;
                   });
 }
 
@@ -358,7 +358,7 @@ function transitionMap(filter){
         .projection(projection);    
     
     d3.selectAll('.country').transition().duration(duration)
-            .attr('d', path).attr("stroke-width",width*3+1+"px");
+            .attr('d', path).attr("stroke-width",width*2+1+"px");
     
     d3.selectAll('.region').transition().duration(duration)
             .attr('d', path).attr("stroke-width",width+"px");    
