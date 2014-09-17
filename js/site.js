@@ -200,8 +200,8 @@ function generateMap(){
     height = 325;
    
     var projection = d3.geo.mercator()
-        .center([15,7.7])
-        .scale(800);
+        .center([0,5])
+        .scale(1800);
 
     var svg = d3.select('#map').append("svg")
         .attr("width", width)
@@ -224,9 +224,9 @@ function generateMap(){
         .attr("class","region")
         .append("svg:title")
         .text(function(d) { return d.properties.NAME_REF; });
-
+    
     regionsAffected.forEach(function(e) {
-        d3.select("#"+e.replace(/\s/g, '')).attr("fill",'#ff3333');
+        d3.select("#"+e.Region.replace(/\s/g, '')).attr("fill","#ff8f00");
     });
     
     var g = svg.append("g");
@@ -326,8 +326,8 @@ function transitionTitles(filter){
 function transitionMap(filter){
     if(filter==="Total"){
         var projection = d3.geo.mercator()
-            .center([15,7.7])
-            .scale(800);
+            .center([0,5])
+            .scale(1800);
         var width = "0";
     }
     else {
@@ -335,30 +335,30 @@ function transitionMap(filter){
     }
     if(filter==="Sierra Leone"){
         var projection = d3.geo.mercator()
-            .center([-9,7.9])
+            .center([-11,7.7])
             .scale(6000);
     }
     if(filter==="Guinea"){
         var projection = d3.geo.mercator()
-            .center([-6,8.3])
-            .scale(2800);
+            .center([-10,8.3])
+            .scale(3200);
     }    
     if(filter==="Liberia"){
         var projection = d3.geo.mercator()
-            .center([-4.5,4.5])
-            .scale(3500);
+            .center([-8,5])
+            .scale(4000);
     }
     if(filter==="Nigeria"){
         var projection = d3.geo.mercator()
-            .center([17,6])
-            .scale(1500);
+            .center([11,6])
+            .scale(1800);
     }
     
     var path = d3.geo.path()
         .projection(projection);    
     
     d3.selectAll('.country').transition().duration(duration)
-            .attr('d', path).attr("stroke-width",width*2+1+"px");
+            .attr('d', path).attr("stroke-width",width*3+1+"px");
     
     d3.selectAll('.region').transition().duration(duration)
             .attr('d', path).attr("stroke-width",width+"px");    
