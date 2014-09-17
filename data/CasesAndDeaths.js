@@ -1,6 +1,7 @@
 var casesAndDeaths =
 {"Total":[
-{"date":"06/09/2014","cases":"4293","deaths":"2296"},
+{"date":"10/09/2014","cases":"4846","deaths":"2375"},
+{"date":"07/09/2014","cases":"4366","deaths":"2177"},
 {"date":"05/09/2014","cases":"3967","deaths":"2105"},
 {"date":"31/08/2014","cases":"3706","deaths":"1847"},
 {"date":"26/08/2014","cases":"3069","deaths":"1552"},
@@ -45,7 +46,8 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"86","deaths":"59"}
 ],
 "Guinea":[
-{"date":"06/09/2014","cases":"862","deaths":"555"},
+{"date":"10/09/2014","cases":"899","deaths":"568"},
+{"date":"07/09/2014","cases":"861","deaths":"557"},
 {"date":"05/09/2014","cases":"812","deaths":"517"},
 {"date":"31/08/2014","cases":"771","deaths":"494"},
 {"date":"26/08/2014","cases":"648","deaths":"430"},
@@ -90,7 +92,8 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"86","deaths":"59"}
 ],
 "Liberia":[
-{"date":"06/09/2014","cases":"2046","deaths":"1224"},    
+{"date":"10/09/2014","cases":"2415","deaths":"1307"},
+{"date":"07/09/2014","cases":"2081","deaths":"1137"},   
 {"date":"05/09/2014","cases":"1871","deaths":"1089"},
 {"date":"31/08/2014","cases":"1698","deaths":"871"},
 {"date":"26/08/2014","cases":"1378","deaths":"694"},
@@ -135,9 +138,10 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"0","deaths":"0"}
 ],
 "Sierra Leone":[
-{"date":"06/09/2014","cases":"1361","deaths":"509"},
-{"date":"05/09/2014","cases":"1261","deaths":"491"},
-{"date":"31/08/2014","cases":"1216","deaths":"476"},
+{"date":"10/09/2014","cases":"1509","deaths":"493"},
+{"date":"07/09/2014","cases":"1424","deaths":"476"},
+{"date":"05/09/2014","cases":"1261","deaths":"452"},
+{"date":"31/08/2014","cases":"1216","deaths":"436"},
 {"date":"26/08/2014","cases":"1026","deaths":"422"},
 {"date":"20/08/2014","cases":"910","deaths":"392"},
 {"date":"18/08/2014","cases":"907","deaths":"374"},
@@ -180,8 +184,9 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"0","deaths":"0"}
 ],
 "Nigeria":[
-{"date":"06/09/2014","cases":"21","deaths":"8"},
-{"date":"05/09/2014","cases":"21","deaths":"8"},
+{"date":"10/09/2014","cases":"22","deaths":"8"},
+{"date":"07/09/2014","cases":"22","deaths":"7"},
+{"date":"05/09/2014","cases":"22","deaths":"7"},
 {"date":"31/08/2014","cases":"21","deaths":"6"},
 {"date":"26/08/2014","cases":"17","deaths":"6"},
 {"date":"20/08/2014","cases":"16","deaths":"5"},

@@ -9,7 +9,7 @@ var medicalCentres = [	{"Country":"Liberia","Region":"Lofa","Town":"Foya","Name"
 	{"Country":"Liberia","Region":"Montserrado","Town":"Monrovia","Name":"Redemption Hospital"},
 	{"Country":"Liberia","Region":"Bomi","Town":"Tubmanburg","Name":"Tubmanburg Government Hospital - Holding Centre"},
 	{"Country":"Guinea","Region":"Conakry","Town":"Conakry","Name":"Donka Hospital"},
-	{"Country":"Guinea","Region":"Nzerekore","Town":"Gu�ck�dou","Name":"Guinee Forestiere (?)"},
+	{"Country":"Guinea","Region":"Nzerekore","Town":"Guéckédou","Name":"Guinee Forestiere (?)"},
 	{"Country":"Guinea","Region":"Nzerekore","Town":"Macenta","Name":"Macenta Transit Centre"},
 	{"Country":"Sierra Leone","Region":"Kenema","Town":"Kenema","Name":"Kenema Government Hospital"},
 	{"Country":"Sierra Leone","Region":"Kailahun","Town":"Kailahun","Name":"Kailahun ETC"},
@@ -20,5 +20,5 @@ var medicalCentres = [	{"Country":"Liberia","Region":"Lofa","Town":"Foya","Name"
 	{"Country":"Sierra Leone","Region":"Pujehun","Town":"Gondama","Name":"Gondama Referral Center"},
 	{"Country":"Nigeria","Region":"Lagos","Town":"Yaba","Name":"Mainland Hospital"},
 	{"Country":"Nigeria","Region":"Rivers","Town":"Oduoha, Emohua Local Government Area","Name":"Oduoha Isolation Unit"},
-	{"Country":"Senegal","Region":"","Town":"Dakar","Name":"Central Hospital of University of Fann"},
-	{"Country":"Togo","Region":"Maratime","Town":"Lome","Name":"University Hospital of Lome"}];
+	{"Country":"Senegal","Region":"","Town":"Dakar","Name":"Central Hospital of University of Fann (Dakar (Clinique des Maladies Infectieuses/CHU Fann)"},
+	{"Country":"Togo","Region":"Maratime","Town":"Lomé","Name":"University Hospital of Lomé"}];

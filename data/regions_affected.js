@@ -28,9 +28,11 @@ var regionsAffected = [
 "Kailahun",
 "Kenema",
 "Koinadugu",
+"Kono",
 "Moyamba",
 "Port Loko",
 "Pujehun",
 "Tonkolili",
-"Western Area"
+"Western Area Rural",
+"Western Area Urban"
 ];
