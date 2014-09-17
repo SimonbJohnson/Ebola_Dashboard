@@ -358,7 +358,7 @@ function transitionMap(filter){
         .projection(projection);    
     
     d3.selectAll('.country').transition().duration(duration)
-            .attr('d', path).attr("stroke-width",width*2+1+"px");
+            .attr('d', path).attr("stroke-width",width*3+1+"px");
     
     d3.selectAll('.region').transition().duration(duration)
             .attr('d', path).attr("stroke-width",width+"px");    
