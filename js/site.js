@@ -66,7 +66,10 @@ function generateCountryPieChart(id,datain){
         .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
         .attr("dy", ".35em")
         .style("text-anchor", "middle")
-        .text(function(d) {return d.data.country; });
+        .text(function(d) {return d.data.country; })
+        .on("click",function(d){
+            transition(d.data.country);
+        });
 }
 
 function generateLineChart(id,datain){
@@ -144,11 +147,11 @@ function generateLineChart(id,datain){
         .attr("stroke-width","1px");
 }
 
-function generateKeyStats(id,datain){
-    var html = "<p>Population: "+datain["population"] + "<p>";
-    html = html + "<p>Cases: "+datain["cases"] + "<p>";
-    html = html + "<p>Deaths: "+datain["deaths"] + "<p>";
-    html = html + "<p>Crude Mortality Rate: "+datain["mortality rate"] + "<p>";
+function generateKeyStats(id,keystats,datain){
+    var html = "<p>Population: "+keystats["population"] + "<p>";
+    html = html + "<p>Cases: "+datain[0]["cases"] + "<p>";
+    html = html + "<p>Deaths: "+datain[0]["deaths"] + "<p>";
+    html = html + "<p>Crude Mortality Rate: "+Math.round(datain[0]["deaths"]/datain[0]["cases"]*100) + "%<p>";
     $(id).html(html);
 }
 
@@ -375,7 +378,7 @@ function transition(filter){
     currentFilter=filter;
     transitionPieChart(filter);
     transitionLineChart("#line_total",casesAndDeaths[filter]);
-    generateKeyStats("#key_stats",keyStats[filter]);
+    generateKeyStats("#key_stats",keyStats[filter],casesAndDeaths[filter]);
     transitionTitles(filter);
     transitionMap(filter);
     generateMedicalCentres("#medical_centres",medicalCentres,filter);
@@ -414,6 +417,6 @@ casesAndDeaths["Nigeria"].forEach(function(d){
 
 generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
-generateKeyStats("#key_stats",keyStats["Total"]);
+generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
 generateMap();
 generateMedicalCentres("#medical_centres",medicalCentres,"Total");

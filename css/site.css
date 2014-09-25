@@ -16,3 +16,12 @@
 .nofocus{
     fill:#bbbbbb;
 }
+
+#pie_country path {
+    cursor: pointer;
+}
+
+
+#pie_country text {
+    cursor: pointer;
+}
