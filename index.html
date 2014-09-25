@@ -26,18 +26,16 @@
         </script>         
     </head>
     <body>
-        <div class="container">
+        <div class="container dashboard">
             <div class="row">
                 <div class="col-md-4">
                     <h2>Ebola Dashboard</h2>
                 </div>
-                <div class="col-md-8">
-                    <p></p>
-                    <p>Click the "Proportion of cases by country" pie chart
-                        segments to filter the dashboard by that country.</p>
-                    <p>For feedback try <a href="https://github.com/SimonbJohnson/Ebola_Dashboard">github</a> or tweet me <a href="https://twitter.com/Simon_B_Johnson">@simon_b_johnson</a>.</p>
+                <div class="col-md-8 spacersm">
+                        <p>Nigeria removed as no new cases for 21 days. For feedback email <a href="mailto:sjohnson@redcross.org.uk">sjohnson@redcross.org.uk</a></p>
+                        <p>Last Update: <span id="update_date"></span></p>
                 </div>
-            </div>
+            </div>            
             <div class="row">
                 <div class="col-md-4">
                     <h4>Proportion of cases by country (Clickable)</h4>
@@ -53,11 +51,11 @@
                 </div>                
             </div>
             <div class="row">
-                <div class="col-md-9">
+                <div class="col-md-5">
                     <h4>Map - Confirmed case in the last month</h4>
                     <div id="map"></div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <h4>Medical Centres</h4>
                     <div id="medical_centres"></div>
                 </div>                  
