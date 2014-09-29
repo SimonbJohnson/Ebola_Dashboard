@@ -174,7 +174,7 @@ function generateMedicalCentres(id,datain,filter){
     } else {
         datain.forEach(function(e){
             if(e.Country === filter){
-                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + "</p>";
+                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + " ("+e.Organisation+")</p>";
             }
         });
     }
@@ -332,7 +332,7 @@ function transitionLineChart(id,datain){
 
 function transitionTitles(filter){
     var title = filter;
-    if(filter==="Total"){title = "West Africa";}
+    if(filter==="Total"){title = "Guinea, Liberia and Sierra Leone";}
     $("#key_stats_title").html("Key Stats for " + title);
     $("#cul_tot_title").html("Cumulative Total for " + title);
 }
