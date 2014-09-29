@@ -16,3 +16,51 @@
 .nofocus{
     fill:#bbbbbb;
 }
+
+#pie_country path {
+    cursor: pointer;
+}
+
+
+#pie_country text {
+    cursor: pointer;
+}
+
+.hlfigure{
+    font-size:3em;
+}
+
+.hlsmfigure{
+    font-size:1.8em;
+}
+
+.redslide{
+    background-color:#b0120a;
+    color: #FFF;
+}
+
+.redslide a {
+    color:#FFF;
+    text-decoration: underline;
+}
+
+.spacer {
+    margin-top:40px;
+}
+
+.spacersm {
+    margin-top:20px;
+}
+
+.spacerbottom {
+    margin-bottom:40px;
+}
+
+.dashboard {
+    color:#000;
+}       
+
+#pie_country text {
+    fill:#fff;
+    font-size:1.2em;
+}

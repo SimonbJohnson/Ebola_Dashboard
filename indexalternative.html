@@ -1,0 +1,118 @@
+<html>
+    <head>
+        <title>Ebola Dashboard</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/site.css"/>
+        <script src="js/jquery.js"></script>
+        <script src="js/d3.js" charset="utf-8"></script>   
+        <script src="data/CasesAndDeaths.js"></script>
+        <script src="data/KeyStats.js"></script>
+        <script src="data/regions.js"></script>
+        <script src="data/westafrica.js"></script>
+        <script src="data/regions_affected.js"></script>
+        <script src="data/medical_centres.js"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-46399763-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>         
+    </head>
+    <body>
+        <div class="container-fluid redslide">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center spacer">
+                        <p class="hlfigure">Ebola Dashboard</p>
+                    </div>
+                    <div class="col-xs-12  text-center">
+                        <p>For feedback email <a mailto:"sjohnson@redcross.org.uk">sjohnson@redcross.org.uk</a></p>
+                        <p>Last Update</p>
+                        <p id="update_date"></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3 spacer">
+                        <div class="col-sm-6 text-center">
+                            <p class="hlfigure">Total Deaths</p>
+                            <p id="total_deaths" class="hlfigure"></p>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlfigure">Total Cases</p>
+                            <p id="total_cases" class="hlfigure"></p>
+                        </div>                    
+                    </div>
+                </div>
+                <div class="row spacer spacerbottom">
+                    <div class="col-sm-4 text-center">
+                        <p class="hlfigure">Guinea</p>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Deaths</p>
+                            <p id="gu_deaths" class="hlsmfigure"></p>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Cases</p>
+                            <p id="gu_cases" class="hlsmfigure"></p>
+                        </div>                         
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <p class="hlfigure">Liberia</p>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Deaths</p>
+                            <p id="li_deaths" class="hlsmfigure"></p>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Cases</p>
+                            <p id="li_cases" class="hlsmfigure"></p>
+                        </div>                         
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <p class="hlfigure">Sierra Leone</p>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Deaths</p>
+                            <p id="sl_deaths" class="hlsmfigure"></p>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                            <p class="hlsmfigure">Total Cases</p>
+                            <p id="sl_cases" class="hlsmfigure"></p>
+                        </div>                         
+                    </div>                    
+                </div>
+            </div>
+        </div>    
+        <div class="container dashboard">
+            <div class="row spacer">
+                <div class="col-md-4">
+                    <h4>Proportion of cases by country (Clickable)</h4>
+                    <div id="pie_country"></div>
+                </div>
+                <div class="col-md-3">
+                    <h4 id="key_stats_title">Key Stats for West Africa</h4>
+                    <div id="key_stats"></div>
+                </div>
+                <div class="col-md-5">
+                    <h4 id="cul_tot_title">Cumulative Totals for West Africa</h4>
+                    <div id="line_total"></div>
+                </div>                
+            </div>
+            <div class="row">
+                <div class="col-md-9">
+                    <h4>Map - Confirmed case in the last month</h4>
+                    <div id="map"></div>
+                </div>
+                <div class="col-md-3">
+                    <h4>Medical Centres</h4>
+                    <div id="medical_centres"></div>
+                </div>                  
+            </div>
+        </div>
+        <script src="js/site.js"></script>        
+    </body>
+</html>

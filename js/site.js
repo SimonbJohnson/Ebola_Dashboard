@@ -19,8 +19,7 @@ function generateCountryPieChart(id,datain){
     var data = [
         {"country":"Guinea","cases":datain["Guinea"][0].cases},
         {"country":"Liberia","cases":datain["Liberia"][0].cases},
-        {"country":"Sierra Leone","cases":datain["Sierra Leone"][0].cases},
-        {"country":"Nigeria","cases":datain["Nigeria"][0].cases}
+        {"country":"Sierra Leone","cases":datain["Sierra Leone"][0].cases}
     ];
     
     data.forEach(function(d) {
@@ -66,7 +65,10 @@ function generateCountryPieChart(id,datain){
         .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
         .attr("dy", ".35em")
         .style("text-anchor", "middle")
-        .text(function(d) {return d.data.country; });
+        .text(function(d) {return d.data.country; })
+        .on("click",function(d){
+            transition(d.data.country);
+        });
 }
 
 function generateLineChart(id,datain){
@@ -144,11 +146,11 @@ function generateLineChart(id,datain){
         .attr("stroke-width","1px");
 }
 
-function generateKeyStats(id,datain){
-    var html = "<p>Population: "+datain["population"] + "<p>";
-    html = html + "<p>Cases: "+datain["cases"] + "<p>";
-    html = html + "<p>Deaths: "+datain["deaths"] + "<p>";
-    html = html + "<p>Crude Mortality Rate: "+datain["mortality rate"] + "<p>";
+function generateKeyStats(id,keystats,datain){
+    var html = "<p>Population: "+keystats["population"] + "<p>";
+    html = html + "<p>Cases: "+datain[0]["cases"] + "<p>";
+    html = html + "<p>Deaths: "+datain[0]["deaths"] + "<p>";
+    html = html + "<p>Crude Mortality Rate: "+Math.round(datain[0]["deaths"]/datain[0]["cases"]*100) + "%<p>";
     $(id).html(html);
 }
 
@@ -172,7 +174,7 @@ function generateMedicalCentres(id,datain,filter){
     } else {
         datain.forEach(function(e){
             if(e.Country === filter){
-                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + "</p>";
+                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + " ("+e.Organisation+")</p>";
             }
         });
     }
@@ -259,6 +261,18 @@ function generateMap(){
                   });
 }
 
+function generateHeadLineFigures(data){
+    $('#total_deaths').html(data['Total'][0]['deaths']);
+    $('#total_cases').html(data['Total'][0]['cases']);
+    $('#gu_deaths').html(data['Guinea'][0]['deaths']);
+    $('#gu_cases').html(data['Guinea'][0]['cases']);
+    $('#li_deaths').html(data['Liberia'][0]['deaths']);
+    $('#li_cases').html(data['Liberia'][0]['cases']);
+    $('#sl_deaths').html(data['Sierra Leone'][0]['deaths']);
+    $('#sl_cases').html(data['Sierra Leone'][0]['cases']);
+    $('#update_date').html(data['Total'][0]['date'].toDateString()); 
+}
+
 function transitionLineChart(id,datain){
 
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
@@ -318,7 +332,7 @@ function transitionLineChart(id,datain){
 
 function transitionTitles(filter){
     var title = filter;
-    if(filter==="Total"){title = "West Africa";}
+    if(filter==="Total"){title = "Guinea, Liberia and Sierra Leone";}
     $("#key_stats_title").html("Key Stats for " + title);
     $("#cul_tot_title").html("Cumulative Total for " + title);
 }
@@ -326,7 +340,7 @@ function transitionTitles(filter){
 function transitionMap(filter){
     if(filter==="Total"){
         var projection = d3.geo.mercator()
-            .center([0,5])
+            .center([-3,5])
             .scale(1800);
         var width = "0";
     }
@@ -335,17 +349,17 @@ function transitionMap(filter){
     }
     if(filter==="Sierra Leone"){
         var projection = d3.geo.mercator()
-            .center([-11,7.7])
+            .center([-9,7.7])
             .scale(6000);
     }
     if(filter==="Guinea"){
         var projection = d3.geo.mercator()
-            .center([-10,8.3])
+            .center([-6.5,8.3])
             .scale(3200);
     }    
     if(filter==="Liberia"){
         var projection = d3.geo.mercator()
-            .center([-8,5])
+            .center([-6,5])
             .scale(4000);
     }
     if(filter==="Nigeria"){
@@ -375,7 +389,7 @@ function transition(filter){
     currentFilter=filter;
     transitionPieChart(filter);
     transitionLineChart("#line_total",casesAndDeaths[filter]);
-    generateKeyStats("#key_stats",keyStats[filter]);
+    generateKeyStats("#key_stats",keyStats[filter],casesAndDeaths[filter]);
     transitionTitles(filter);
     transitionMap(filter);
     generateMedicalCentres("#medical_centres",medicalCentres,filter);
@@ -383,7 +397,8 @@ function transition(filter){
 
 
 var currentFilter = "Total";
-var color = {"Sierra Leone":"#5677fc","Liberia":"#e51c23","Guinea":"#ffeb3b","Nigeria":"#259b24"};
+//var color = {"Sierra Leone":"#5677fc","Liberia":"#e51c23","Guinea":"#ffeb3b","Nigeria":"#259b24"};
+var color = {"Sierra Leone":"#f36c60","Liberia":"#b0120a","Guinea":"#dd191d"};
 var duration = 1500;
 var parseDate = d3.time.format("%d/%m/%Y").parse;
 casesAndDeaths["Total"].forEach(function(d){
@@ -412,8 +427,9 @@ casesAndDeaths["Nigeria"].forEach(function(d){
     d.deaths = +d.deaths;    
 });
 
+generateHeadLineFigures(casesAndDeaths);
 generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
-generateKeyStats("#key_stats",keyStats["Total"]);
+generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
 generateMap();
 generateMedicalCentres("#medical_centres",medicalCentres,"Total");
