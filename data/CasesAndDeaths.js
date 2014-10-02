@@ -1,5 +1,7 @@
 var casesAndDeaths =
 {"Total":[
+{"date":"29/09/2014","cases":"7192","deaths":"3338"},
+{"date":"25/09/2014","cases":"6808","deaths":"3159"},
 {"date":"23/09/2014","cases":"6574","deaths":"3091"},
 {"date":"21/09/2014","cases":"6263","deaths":"2900"},
 {"date":"17/09/2014","cases":"5762","deaths":"2746"},
@@ -50,6 +52,8 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"86","deaths":"59"}
 ],
 "Guinea":[
+{"date":"29/09/2014","cases":"1157","deaths":"710"},
+{"date":"25/09/2014","cases":"1103","deaths":"668"},    
 {"date":"23/09/2014","cases":"1074","deaths":"648"},
 {"date":"21/09/2014","cases":"1022","deaths":"635"},
 {"date":"17/09/2014","cases":"965","deaths":"623"},
@@ -100,6 +104,8 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"86","deaths":"59"}
 ],
 "Liberia":[
+{"date":"29/09/2014","cases":"3696","deaths":"1998"},
+{"date":"25/09/2014","cases":"3564","deaths":"1922"},
 {"date":"23/09/2014","cases":"3458","deaths":"1830"},
 {"date":"21/09/2014","cases":"3280","deaths":"1707"},
 {"date":"17/09/2014","cases":"3022","deaths":"1578"},
@@ -150,6 +156,8 @@ var casesAndDeaths =
 {"date":"25/03/2014","cases":"0","deaths":"0"}
 ],
 "Sierra Leone":[
+{"date":"29/09/2014","cases":"2317","deaths":"570"},
+{"date":"25/09/2014","cases":"2120","deaths":"561"},    
 {"date":"23/09/2014","cases":"2021","deaths":"557"},
 {"date":"21/09/2014","cases":"1940","deaths":"550"},
 {"date":"17/09/2014","cases":"1753","deaths":"537"},
