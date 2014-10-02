@@ -222,13 +222,13 @@ function generateMap(){
         .attr("stroke",'#aaaaaa')
         .attr("stroke-width","0px")
         .attr("fill",'#ffffff')
-        .attr("id",function(d){return d.properties.NAME_REF.replace(/\s/g, '');})
+        .attr("id",function(d){console.log(d.properties);return d.properties.PCODE_REF;})
         .attr("class","region")
         .append("svg:title")
         .text(function(d) { return d.properties.NAME_REF; });
     
     regionsAffected.forEach(function(e) {
-        d3.select("#"+e.Region.replace(/\s/g, '')).attr("fill","#ff8f00");
+        d3.select("#"+e.Pcode).attr("fill","#ff8f00");
     });
     
     var g = svg.append("g");
