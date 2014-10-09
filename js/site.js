@@ -186,12 +186,10 @@ function transitionPieChart(filter){
         d3.select("#Liberia").transition().duration(duration).style("fill",color["Liberia"]);
         d3.select("#SierraLeone").transition().duration(duration).style("fill",color["Sierra Leone"]);
         d3.select("#Guinea").transition().duration(duration).style("fill",color["Guinea"]);
-        d3.select("#Nigeria").transition().duration(duration).style("fill",color["Nigeria"]);
     } else {
         d3.select("#Liberia").transition().duration(duration).style("fill","#cccccc");
         d3.select("#SierraLeone").transition().duration(duration).style("fill","#cccccc");
         d3.select("#Guinea").transition().duration(duration).style("fill","#cccccc");
-        d3.select("#Nigeria").transition().duration(duration).style("fill","#cccccc");
         d3.select("#"+filter.replace(/\s/g, '')).transition().duration(duration).style("fill",color[filter]);
     }
 }
@@ -362,11 +360,6 @@ function transitionMap(filter){
             .center([-6,5])
             .scale(4000);
     }
-    if(filter==="Nigeria"){
-        var projection = d3.geo.mercator()
-            .center([11,6])
-            .scale(1800);
-    }
     
     var path = d3.geo.path()
         .projection(projection);    
@@ -417,11 +410,6 @@ casesAndDeaths["Liberia"].forEach(function(d){
     d.deaths = +d.deaths;    
 });
 casesAndDeaths["Sierra Leone"].forEach(function(d){
-    d.date = parseDate(d.date);
-    d.cases = +d.cases;
-    d.deaths = +d.deaths;    
-});
-casesAndDeaths["Nigeria"].forEach(function(d){
     d.date = parseDate(d.date);
     d.cases = +d.cases;
     d.deaths = +d.deaths;    
