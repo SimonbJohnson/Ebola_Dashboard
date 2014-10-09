@@ -64,3 +64,9 @@
     fill:#fff;
     font-size:1.2em;
 }
+
+.row {
+    border-bottom-style:solid;
+    border-bottom-color:#cccccc;
+    border-bottom-width:1px;
+}
