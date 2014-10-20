@@ -1,4 +1,4 @@
-var medicalCentres = [
+[
   {
     "Country":"Liberia",
     "Region":"Bomi",
@@ -133,6 +133,15 @@ var medicalCentres = [
     "Organisation":"MOH Liberia",
     "Type1":"Triage",
     "OpenStreetMap URL":"http://www.openstreetmap.org/search?query=west%20point%20montserrado#map=17/6.32552/-10.80584"
+  },
+  {
+    "Country":"Liberia",
+    "Region":"Montserrado",
+    "Town":"Monrovia",
+    "Name":"Childfund International",
+    "Organisation":"Childfund International",
+    "Type1":"Triage",
+    "OpenStreetMap URL":"http://www.openstreetmap.org/search?query=6.3279815%09-10.79777#map=14/6.3280/-10.7978"
   },
   {
     "Country":"Liberia",
@@ -390,7 +399,7 @@ var medicalCentres = [
     "Country":"Sierra Leone",
     "Region":"Western",
     "Town":"Freetown",
-    "Name":"Maculy Street Hospital",
+    "Name":"Macauley Street Hospital",
     "Organisation":"No Partner Identified",
     "Type1":"Triage",
     "OpenStreetMap URL":"http://www.openstreetmap.org/search?query=8.4790017%2C%20-13.2680158#map=11/8.4792/-13.2681"
@@ -440,4 +449,4 @@ var medicalCentres = [
     "Type1":"Triage",
     "OpenStreetMap URL":"http://www.openstreetmap.org/node/2195276463#map=19/6.12586/1.22485"
   }
-];
+]
