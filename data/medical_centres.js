@@ -1,4 +1,4 @@
-[
+var medicalCentres = [
   {
     "Country":"Liberia",
     "Region":"Bomi",
