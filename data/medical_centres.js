@@ -412,41 +412,5 @@ var medicalCentres = [
     "Organisation":"",
     "Type1":"",
     "OpenStreetMap URL":"http://www.openstreetmap.org/search?query=PCMH#map=12/8.4902/-13.2189"
-  },
-  {
-    "Country":"Nigeria",
-    "Region":"Lagos",
-    "Town":"Yaba",
-    "Name":"Mainland Hospital MDR Ward",
-    "Organisation":"MOH Nigeria",
-    "Type1":"ETC",
-    "OpenStreetMap URL":"http://www.openstreetmap.org/node/501513526#map=15/6.5216/3.3811"
-  },
-  {
-    "Country":"Nigeria",
-    "Region":"Rivers",
-    "Town":"Oduoha, Emohua Local Government Area",
-    "Name":"Port Harcourt (PHC Emuoha, Obiakpor LGA)",
-    "Organisation":"MOH Nigeria",
-    "Type1":"Triage",
-    "OpenStreetMap URL":"http://www.openstreetmap.org/node/501512993#map=12/4.7927/6.8871"
-  },
-  {
-    "Country":"Senegal",
-    "Region":"Dakar",
-    "Town":"",
-    "Name":"Central Hospital of University of Fann (Dakar (Clinique des Maladies Infectieuses/CHU Fann)",
-    "Organisation":"MOH Senegal",
-    "Type1":"Hospital",
-    "OpenStreetMap URL":"http://www.openstreetmap.org/way/44213911#map=17/14.69287/-17.46638"
-  },
-  {
-    "Country":"Togo",
-    "Region":"Maratime",
-    "Town":"",
-    "Name":"University Hospital of Lomé",
-    "Organisation":"",
-    "Type1":"Triage",
-    "OpenStreetMap URL":"http://www.openstreetmap.org/node/2195276463#map=19/6.12586/1.22485"
   }
 ];
