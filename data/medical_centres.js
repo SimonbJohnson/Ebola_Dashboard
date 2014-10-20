@@ -449,4 +449,4 @@ var medicalCentres = [
     "Type1":"Triage",
     "OpenStreetMap URL":"http://www.openstreetmap.org/node/2195276463#map=19/6.12586/1.22485"
   }
-]
+];
