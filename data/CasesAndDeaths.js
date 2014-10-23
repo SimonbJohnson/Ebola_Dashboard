@@ -1,7 +1,8 @@
 var casesAndDeaths =
 {"Total":[
-{"date":"14/10/2014","cases":"9216","deaths":"4555"},
-{"date":"12/10/2014","cases":"8997","deaths":"4485"},
+{"date":"19/10/2014","cases":"9964","deaths":"4881"},
+{"date":"17/10/2014","cases":"9693","deaths":"4811"},
+{"date":"12/10/2014","cases":"8997","deaths":"4493"},
 {"date":"07/10/2014","cases":"8386","deaths":"3988"},
 {"date":"05/10/2014","cases":"8033","deaths":"3865"},
 {"date":"01/10/2014","cases":"7492","deaths":"3439"},
