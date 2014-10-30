@@ -1,139 +1,139 @@
 var regionsAffected = [
   {
     "Region":"Boffa",
-    "Pcode":"GIN001"
+    "Pcode":"GIN001001"
   },
   {
     "Region":"Boke",
-    "Pcode":"GIN001"
+    "Pcode":"GIN001002"
   },
   {
     "Region":"Conakry",
-    "Pcode":"GIN002"
+    "Pcode":"GIN002001"
   },
   {
     "Region":"Coyah",
-    "Pcode":"GIN005"
+    "Pcode":"GIN005001"
   },
   {
     "Region":"Dabola",
-    "Pcode":"GIN003"
+    "Pcode":"GIN003001"
   },
   {
     "Region":"Dubreka",
-    "Pcode":"GIN005"
+    "Pcode":"GIN005002"
   },
   {
     "Region":"Forecariah",
-    "Pcode":"GIN005"
+    "Pcode":"GIN005003"
   },
   {
     "Region":"Guéckédou",
-    "Pcode":"GIN008"
+    "Pcode":"GIN008002"
   },
   {
     "Region":"Kerouane",
-    "Pcode":"GIN004"
+    "Pcode":"GIN004002"
   },
   {
     "Region":"Kissidougou",
-    "Pcode":"GIN003"
+    "Pcode":"GIN003004"
   },
   {
     "Region":"Macenta",
-    "Pcode":"GIN008"
+    "Pcode":"GIN008004"
   },
   {
     "Region":"Nzékékoré",
-    "Pcode":"GIN008"
+    "Pcode":"GIN008005"
   },
   {
     "Region":"Pita",
-    "Pcode":"GIN007"
+    "Pcode":"GIN007003"
   },
   {
     "Region":"Siguiri",
-    "Pcode":"GIN004"
+    "Pcode":"GIN004005"
   },
   {
     "Region":"Dalaba",
-    "Pcode":"GIN007"
+    "Pcode":"GIN007001"
   },
   {
     "Region":"Kindia",
-    "Pcode":"GIN005"
+    "Pcode":"GIN005005"
   },
   {
     "Region":"Beyla",
-    "Pcode":"GIN008"
+    "Pcode":"GIN008001"
   },
   {
     "Region":"Lola",
-    "Pcode":"GIN008"
+    "Pcode":"GIN008002"
   },
   {
     "Region":"Faranah",
-    "Pcode":"GIN003"
+    "Pcode":"GIN003003"
   },
   {
     "Region":"Kankan",
-    "Pcode":"GIN004"
+    "Pcode":"GIN004001"
   },
   {
     "Region":"Bo",
-    "Pcode":"SLE03"
+    "Pcode":"SLE0301"
   },
   {
     "Region":"Bombali",
-    "Pcode":"SLE02"
+    "Pcode":"SLE0201"
   },
   {
     "Region":"Bonthe",
-    "Pcode":"SLE03"
+    "Pcode":"SLE0302"
   },
   {
     "Region":"Kailahun",
-    "Pcode":"SLE01"
+    "Pcode":"SLE0101"
   },
   {
     "Region":"Kambia",
-    "Pcode":"SLE02"
+    "Pcode":"SLE0202"
   },
   {
     "Region":"Kenema",
-    "Pcode":"SLE01"
+    "Pcode":"SLE0102"
   },
   {
     "Region":"Kono",
-    "Pcode":"SLE01"
+    "Pcode":"SLE0103"
   },
   {
     "Region":"Moyamba",
-    "Pcode":"SLE03"
+    "Pcode":"SLE0303"
   },
   {
     "Region":"Port Loko",
-    "Pcode":"SLE02"
+    "Pcode":"SLE0204"
   },
   {
     "Region":"Pujehun",
-    "Pcode":"SLE03"
+    "Pcode":"SLE0304"
   },
   {
     "Region":"Tonkolili",
-    "Pcode":"SLE02"
+    "Pcode":"SLE0205"
   },
   {
     "Region":"Western Area Rural",
-    "Pcode":"SLE04"
+    "Pcode":"SLE0401"
   },
   {
     "Region":"Western Area Urban",
-    "Pcode":"SLE04"
+    "Pcode":"SLE0402"
   },
   {
     "Region":"Koinadugu",
-    "Pcode":"SLE02"
+    "Pcode":"SLE0203"
   },
   {
     "Region":"Bomi",
