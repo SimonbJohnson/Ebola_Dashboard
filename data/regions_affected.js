@@ -1,15 +1,139 @@
 var regionsAffected = [
   {
-    "Region":"Bo",
-    "Pcode":"SLE0301"
+    "Region":"Boffa",
+    "Pcode":"GIN001"
   },
   {
     "Region":"Boke",
-    "Pcode":"GIN001002"
+    "Pcode":"GIN001"
+  },
+  {
+    "Region":"Conakry",
+    "Pcode":"GIN002"
+  },
+  {
+    "Region":"Coyah",
+    "Pcode":"GIN005"
+  },
+  {
+    "Region":"Dabola",
+    "Pcode":"GIN003"
+  },
+  {
+    "Region":"Dubreka",
+    "Pcode":"GIN005"
+  },
+  {
+    "Region":"Forecariah",
+    "Pcode":"GIN005"
+  },
+  {
+    "Region":"Guéckédou",
+    "Pcode":"GIN008"
+  },
+  {
+    "Region":"Kerouane",
+    "Pcode":"GIN004"
+  },
+  {
+    "Region":"Kissidougou",
+    "Pcode":"GIN003"
+  },
+  {
+    "Region":"Macenta",
+    "Pcode":"GIN008"
+  },
+  {
+    "Region":"Nzékékoré",
+    "Pcode":"GIN008"
+  },
+  {
+    "Region":"Pita",
+    "Pcode":"GIN007"
+  },
+  {
+    "Region":"Siguiri",
+    "Pcode":"GIN004"
+  },
+  {
+    "Region":"Dalaba",
+    "Pcode":"GIN007"
+  },
+  {
+    "Region":"Kindia",
+    "Pcode":"GIN005"
+  },
+  {
+    "Region":"Beyla",
+    "Pcode":"GIN008"
+  },
+  {
+    "Region":"Lola",
+    "Pcode":"GIN008"
+  },
+  {
+    "Region":"Faranah",
+    "Pcode":"GIN003"
+  },
+  {
+    "Region":"Kankan",
+    "Pcode":"GIN004"
+  },
+  {
+    "Region":"Bo",
+    "Pcode":"SLE03"
   },
   {
     "Region":"Bombali",
-    "Pcode":"SLE0201"
+    "Pcode":"SLE02"
+  },
+  {
+    "Region":"Bonthe",
+    "Pcode":"SLE03"
+  },
+  {
+    "Region":"Kailahun",
+    "Pcode":"SLE01"
+  },
+  {
+    "Region":"Kambia",
+    "Pcode":"SLE02"
+  },
+  {
+    "Region":"Kenema",
+    "Pcode":"SLE01"
+  },
+  {
+    "Region":"Kono",
+    "Pcode":"SLE01"
+  },
+  {
+    "Region":"Moyamba",
+    "Pcode":"SLE03"
+  },
+  {
+    "Region":"Port Loko",
+    "Pcode":"SLE02"
+  },
+  {
+    "Region":"Pujehun",
+    "Pcode":"SLE03"
+  },
+  {
+    "Region":"Tonkolili",
+    "Pcode":"SLE02"
+  },
+  {
+    "Region":"Western Area Rural",
+    "Pcode":"SLE04"
+  },
+  {
+    "Region":"Western Area Urban",
+    "Pcode":"SLE04"
+  },
+  {
+    "Region":"Koinadugu",
+    "Pcode":"SLE02"
   },
   {
     "Region":"Bomi",
@@ -18,26 +142,6 @@ var regionsAffected = [
   {
     "Region":"Bong",
     "Pcode":"LBR02"
-  },
-  {
-    "Region":"Bonthe",
-    "Pcode":"SLE0302"
-  },
-  {
-    "Region":"Conakry",
-    "Pcode":"GIN002001"
-  },
-  {
-    "Region":"Coyah",
-    "Pcode":"GIN005001"
-  },
-  {
-    "Region":"Dabola",
-    "Pcode":"GIN003001"
-  },
-  {
-    "Region":"Forecariah",
-    "Pcode":"GIN005003"
   },
   {
     "Region":"Gbarpolu",
@@ -52,40 +156,12 @@ var regionsAffected = [
     "Pcode":"LBR05"
   },
   {
-    "Region":"Guéckédou",
-    "Pcode":"GIN008002"
-  },
-  {
-    "Region":"Kailahun",
-    "Pcode":"SLE0101"
-  },
-  {
-    "Region":"Kambia",
-    "Pcode":"SLE0202"
-  },
-  {
-    "Region":"Kenema",
-    "Pcode":"SLE0102"
-  },
-  {
-    "Region":"Kerouane",
-    "Pcode":"GIN004002"
-  },
-  {
-    "Region":"Kissidougou",
-    "Pcode":"GIN003004"
-  },
-  {
-    "Region":"Kono",
-    "Pcode":"SLE0103"
+    "Region":"Grand Gedeh",
+    "Pcode":"LBR06"
   },
   {
     "Region":"Lofa",
     "Pcode":"LBR08"
-  },
-  {
-    "Region":"Macenta",
-    "Pcode":"GIN008004"
   },
   {
     "Region":"Margibi",
@@ -96,79 +172,23 @@ var regionsAffected = [
     "Pcode":"LBR11"
   },
   {
-    "Region":"Moyamba",
-    "Pcode":"SLE0303"
-  },
-  {
     "Region":"Nimba",
     "Pcode":"LBR12"
-  },
-  {
-    "Region":"Nzékékoré",
-    "Pcode":"GIN008005"
-  },
-  {
-    "Region":"Pita",
-    "Pcode":"GIN007003"
-  },
-  {
-    "Region":"Port Loko",
-    "Pcode":"SLE0204"
-  },
-  {
-    "Region":"Pujehun",
-    "Pcode":"SLE0304"
   },
   {
     "Region":"River Gee",
     "Pcode":"LBR13"
   },
   {
-    "Region":"Siguiri",
-    "Pcode":"GIN004005"
-  },
-  {
     "Region":"Sinoe",
     "Pcode":"LBR15"
   },
   {
-    "Region":"Tonkolili",
-    "Pcode":"SLE0205"
-  },
-  {
-    "Region":"Western Area Rural",
-    "Pcode":"SLE0401"
-  },
-  {
-    "Region":"Western Area Urban",
-    "Pcode":"SLE0402"
-  },
-  {
-    "Region":"Dalaba",
-    "Pcode":"GIN007001"
-  },
-  {
-    "Region":"Beyla",
-    "Pcode":"GIN008001"
+    "Region":"Maryland",
+    "Pcode":"LBR10"
   },
   {
     "Region":"Grand Kru",
     "Pcode":"LBR07"
-  },
-  {
-    "Region":"Lola",
-    "Pcode":"GIN008002"
-  },
-  {
-    "Region":"Faranah",
-    "Pcode":"GIN003003"
-  },
-  {
-    "Region":"Kankan",
-    "Pcode":"GIN004001"
-  },
-  {
-    "Region":"Koinadugu",
-    "Pcode":"SLE0203"
   }
 ];
