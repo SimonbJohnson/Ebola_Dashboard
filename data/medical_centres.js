@@ -120,15 +120,6 @@ var medicalCentres = [
     "Country":"Liberia",
     "Region":"Montserrado",
     "Town":"Monrovia",
-    "Name":"Ministry of Health",
-    "Organisation":"",
-    "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=6.26472%09-10.71278#map=19/6.26472/-10.71278"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Montserrado",
-    "Town":"Monrovia",
     "Name":"Redemption Hospital",
     "Organisation":"MOH Liberia",
     "Type1":"Triage",
