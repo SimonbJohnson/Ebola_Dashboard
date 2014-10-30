@@ -1,27 +1,11 @@
 var regionsAffected = [
   {
-    "Region":"Bo",
-    "Pcode":"SLE0301"
+    "Region":"Boffa",
+    "Pcode":"GIN001001"
   },
   {
     "Region":"Boke",
     "Pcode":"GIN001002"
-  },
-  {
-    "Region":"Bombali",
-    "Pcode":"SLE0201"
-  },
-  {
-    "Region":"Bomi",
-    "Pcode":"LBR01"
-  },
-  {
-    "Region":"Bong",
-    "Pcode":"LBR02"
-  },
-  {
-    "Region":"Bonthe",
-    "Pcode":"SLE0302"
   },
   {
     "Region":"Conakry",
@@ -36,36 +20,16 @@ var regionsAffected = [
     "Pcode":"GIN003001"
   },
   {
+    "Region":"Dubreka",
+    "Pcode":"GIN005002"
+  },
+  {
     "Region":"Forecariah",
     "Pcode":"GIN005003"
   },
   {
-    "Region":"Gbarpolu",
-    "Pcode":"LBR03"
-  },
-  {
-    "Region":"Grand Bassa",
-    "Pcode":"LBR04"
-  },
-  {
-    "Region":"Grand Cape Mount",
-    "Pcode":"LBR05"
-  },
-  {
     "Region":"Guéckédou",
     "Pcode":"GIN008002"
-  },
-  {
-    "Region":"Kailahun",
-    "Pcode":"SLE0101"
-  },
-  {
-    "Region":"Kambia",
-    "Pcode":"SLE0202"
-  },
-  {
-    "Region":"Kenema",
-    "Pcode":"SLE0102"
   },
   {
     "Region":"Kerouane",
@@ -76,32 +40,8 @@ var regionsAffected = [
     "Pcode":"GIN003004"
   },
   {
-    "Region":"Kono",
-    "Pcode":"SLE0103"
-  },
-  {
-    "Region":"Lofa",
-    "Pcode":"LBR08"
-  },
-  {
     "Region":"Macenta",
     "Pcode":"GIN008004"
-  },
-  {
-    "Region":"Margibi",
-    "Pcode":"LBR09"
-  },
-  {
-    "Region":"Montserrado",
-    "Pcode":"LBR11"
-  },
-  {
-    "Region":"Moyamba",
-    "Pcode":"SLE0303"
-  },
-  {
-    "Region":"Nimba",
-    "Pcode":"LBR12"
   },
   {
     "Region":"Nzékékoré",
@@ -112,48 +52,20 @@ var regionsAffected = [
     "Pcode":"GIN007003"
   },
   {
-    "Region":"Port Loko",
-    "Pcode":"SLE0204"
-  },
-  {
-    "Region":"Pujehun",
-    "Pcode":"SLE0304"
-  },
-  {
-    "Region":"River Gee",
-    "Pcode":"LBR13"
-  },
-  {
     "Region":"Siguiri",
     "Pcode":"GIN004005"
-  },
-  {
-    "Region":"Sinoe",
-    "Pcode":"LBR15"
-  },
-  {
-    "Region":"Tonkolili",
-    "Pcode":"SLE0205"
-  },
-  {
-    "Region":"Western Area Rural",
-    "Pcode":"SLE0401"
-  },
-  {
-    "Region":"Western Area Urban",
-    "Pcode":"SLE0402"
   },
   {
     "Region":"Dalaba",
     "Pcode":"GIN007001"
   },
   {
-    "Region":"Beyla",
-    "Pcode":"GIN008001"
+    "Region":"Kindia",
+    "Pcode":"GIN005005"
   },
   {
-    "Region":"Grand Kru",
-    "Pcode":"LBR07"
+    "Region":"Beyla",
+    "Pcode":"GIN008001"
   },
   {
     "Region":"Lola",
@@ -168,7 +80,115 @@ var regionsAffected = [
     "Pcode":"GIN004001"
   },
   {
+    "Region":"Bo",
+    "Pcode":"SLE0301"
+  },
+  {
+    "Region":"Bombali",
+    "Pcode":"SLE0201"
+  },
+  {
+    "Region":"Bonthe",
+    "Pcode":"SLE0302"
+  },
+  {
+    "Region":"Kailahun",
+    "Pcode":"SLE0101"
+  },
+  {
+    "Region":"Kambia",
+    "Pcode":"SLE0202"
+  },
+  {
+    "Region":"Kenema",
+    "Pcode":"SLE0102"
+  },
+  {
+    "Region":"Kono",
+    "Pcode":"SLE0103"
+  },
+  {
+    "Region":"Moyamba",
+    "Pcode":"SLE0303"
+  },
+  {
+    "Region":"Port Loko",
+    "Pcode":"SLE0204"
+  },
+  {
+    "Region":"Pujehun",
+    "Pcode":"SLE0304"
+  },
+  {
+    "Region":"Tonkolili",
+    "Pcode":"SLE0205"
+  },
+  {
+    "Region":"Western Area Rural",
+    "Pcode":"SLE0401"
+  },
+  {
+    "Region":"Western Area Urban",
+    "Pcode":"SLE0402"
+  },
+  {
     "Region":"Koinadugu",
     "Pcode":"SLE0203"
+  },
+  {
+    "Region":"Bomi",
+    "Pcode":"LBR01"
+  },
+  {
+    "Region":"Bong",
+    "Pcode":"LBR02"
+  },
+  {
+    "Region":"Gbarpolu",
+    "Pcode":"LBR03"
+  },
+  {
+    "Region":"Grand Bassa",
+    "Pcode":"LBR04"
+  },
+  {
+    "Region":"Grand Cape Mount",
+    "Pcode":"LBR05"
+  },
+  {
+    "Region":"Grand Gedeh",
+    "Pcode":"LBR06"
+  },
+  {
+    "Region":"Lofa",
+    "Pcode":"LBR08"
+  },
+  {
+    "Region":"Margibi",
+    "Pcode":"LBR09"
+  },
+  {
+    "Region":"Montserrado",
+    "Pcode":"LBR11"
+  },
+  {
+    "Region":"Nimba",
+    "Pcode":"LBR12"
+  },
+  {
+    "Region":"River Gee",
+    "Pcode":"LBR13"
+  },
+  {
+    "Region":"Sinoe",
+    "Pcode":"LBR15"
+  },
+  {
+    "Region":"Maryland",
+    "Pcode":"LBR10"
+  },
+  {
+    "Region":"Grand Kru",
+    "Pcode":"LBR07"
   }
 ];
