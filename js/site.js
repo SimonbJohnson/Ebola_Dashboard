@@ -17,9 +17,9 @@ function loadJsonFileSynch(file){
 function generateCountryPieChart(id,datain){
 
     var data = [
-        {"country":"Guinea","cases":datain["Guinea"][0].cases},
         {"country":"Liberia","cases":datain["Liberia"][0].cases},
-        {"country":"Sierra Leone","cases":datain["Sierra Leone"][0].cases}
+        {"country":"Sierra Leone","cases":datain["Sierra Leone"][0].cases},
+        {"country":"Guinea","cases":datain["Guinea"][0].cases}
     ];
     
     data.forEach(function(d) {
