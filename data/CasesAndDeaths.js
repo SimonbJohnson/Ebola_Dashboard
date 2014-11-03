@@ -61,7 +61,7 @@ var casesAndDeaths =
 ],
 "Guinea":[
 {"date":"29/10/2014","cases":"1667","deaths":"1018"},
-{"date":"24/10/2014","cases":"1598","deaths":"98"},
+{"date":"24/10/2014","cases":"1598","deaths":"981"},
 {"date":"19/10/2014","cases":"1540","deaths":"904"},
 {"date":"17/10/2014","cases":"1501","deaths":"886"},
 {"date":"12/10/2014","cases":"1472","deaths":"843"},
