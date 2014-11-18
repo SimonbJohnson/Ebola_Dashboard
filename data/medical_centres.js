@@ -3,10 +3,10 @@ var medicalCentres = [
     "Country":"Liberia",
     "Region":"Bomi",
     "Town":"Tubmanburg",
-    "Name":"Tubmanburg Government Hospital - Holding Centre",
-    "Organisation":"MOH Liberia",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/476645658"
+    "Name":"Tubmanburg ETC",
+    "Organisation":"IOM",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/search?query=6.86734%09-10.83094#map=10/6.8673/-10.8309"
   },
   {
     "Country":"Liberia",
@@ -46,30 +46,12 @@ var medicalCentres = [
   },
   {
     "Country":"Liberia",
-    "Region":"Lofa",
-    "Town":"Vonjama",
-    "Name":"Telewowan Hospital",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=8.42277%09-9.7532264#map=14/8.4029/-9.7648"
-  },
-  {
-    "Country":"Liberia",
     "Region":"Margibi",
     "Town":"Firestone",
     "Name":"Firestone Medical Center",
     "Organisation":"Firestone Company",
     "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/search?query=6.35306%09-10.46972#map=17/6.35306/-10.46972"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Maryland",
-    "Town":"Pleebo City",
-    "Name":"Pleebo Health Center",
-    "Organisation":"",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/476544399#map=19/4.58508/-7.67479"
   },
   {
     "Country":"Liberia",
@@ -111,64 +93,19 @@ var medicalCentres = [
     "Country":"Liberia",
     "Region":"Montserrado",
     "Town":"Monrovia",
-    "Name":"JFK Hospital",
-    "Organisation":"MOH Liberia",
+    "Name":"Monrovia Medical Unit",
+    "Organisation":"USPHS",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/way/94957267#map=18/6.28723/-10.77325"
+    "OSM":""
   },
   {
     "Country":"Liberia",
     "Region":"Montserrado",
     "Town":"Monrovia",
-    "Name":"Redemption Hospital",
-    "Organisation":"MOH Liberia",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/3003566637"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Montserrado",
-    "Town":"Monrovia",
-    "Name":"West Point holding unit",
-    "Organisation":"MOH Liberia",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=west%20point%20montserrado#map=17/6.32552/-10.80584"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Montserrado",
-    "Town":"Monrovia",
-    "Name":"Childfund International",
-    "Organisation":"Childfund International",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=6.3279815%09-10.79777#map=14/6.3280/-10.7978"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Nimba",
-    "Town":"Ganta City",
-    "Name":"Ganta Hospital",
-    "Organisation":"No Partner Identified",
+    "Name":"Monrovia, Congo Town - Old Ministry of Defence ETU 1",
+    "Organisation":"FMT",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/321350077#map=14/7.2203/-8.9813"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Nimba",
-    "Town":"Tappita",
-    "Name":"JFD Hospital",
-    "Organisation":"",
-    "Type1":"Hospital",
-    "OSM":"http://www.openstreetmap.org/node/321350088"
-  },
-  {
-    "Country":"Liberia",
-    "Region":"Sinoe",
-    "Town":"Greenville",
-    "Name":"F.J. Grante Hospital Temporary Holding Centre",
-    "Organisation":"",
-    "Type1":"Holding Centre",
-    "OSM":"http://www.openstreetmap.org/node/2189929542"
+    "OSM":"http://www.openstreetmap.org/search?query=6.27028%09-10.73417#map=19/6.27028/-10.73417"
   },
   {
     "Country":"Guinea",
@@ -181,48 +118,12 @@ var medicalCentres = [
   },
   {
     "Country":"Guinea",
-    "Region":"Faranah",
-    "Town":"",
-    "Name":"Dabola",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/2134625027#map=17/10.74207/-11.10646"
-  },
-  {
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "Town":"",
-    "Name":"Hôpital de Kissidougou",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/2774629273#map=19/9.19844/-10.10352"
-  },
-  {
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "Town":"",
-    "Name":"",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/1717503541"
-  },
-  {
-    "Country":"Guinea",
     "Region":"Nzerekore",
     "Town":"",
     "Name":"Guinee Forestiere (CMC Gueckedou MSF)",
     "Organisation":"MSF",
     "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/search?query=8.552229%09-10.120623#map=19/8.55223/-10.12062"
-  },
-  {
-    "Country":"Guinea",
-    "Region":"Nzerekore",
-    "Town":"",
-    "Name":"Macenta Transit Centre",
-    "Organisation":"MOH Guinea",
-    "Type1":"Transit Centre",
-    "OSM":"http://www.openstreetmap.org/node/1885664824#map=19/8.53688/-9.46481"
   },
   {
     "Country":"Sierra Leone",
@@ -232,42 +133,6 @@ var medicalCentres = [
     "Organisation":"MSF",
     "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/search?query=8.297871%09-10.556686#map=19/8.29787/-10.55669"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Eastern",
-    "Town":"Kailahun",
-    "Name":"Buedu",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/1660977014"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Eastern",
-    "Town":"Kailahun",
-    "Name":"Daru",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=7.991518%2C%20-10.845919#map=12/7.9916/-10.8459"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Eastern",
-    "Town":"Kailahun",
-    "Name":"Koindu",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=8.4616449%09-10.3363192#map=9/8.4615/-10.3354"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Eastern",
-    "Town":"Kenema",
-    "Name":"Kenema Government Hospital (KGH)",
-    "Organisation":"MOH Sierra Leone",
-    "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/2959065474"
   },
   {
     "Country":"Sierra Leone",
@@ -282,82 +147,37 @@ var medicalCentres = [
     "Country":"Sierra Leone",
     "Region":"Northern",
     "Town":"",
-    "Name":"Arab Hospital",
-    "Organisation":"",
-    "Type1":"Holding Centre",
-    "OSM":"http://www.openstreetmap.org/relation/3230900"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Northern",
-    "Town":"",
-    "Name":"Paramedical School",
-    "Organisation":"",
-    "Type1":"Holding Centre",
-    "OSM":"http://www.openstreetmap.org/relation/3230900"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Northern",
-    "Town":"",
-    "Name":"Regional Government Hospital",
-    "Organisation":"",
-    "Type1":"Holding Centre",
-    "OSM":"http://www.openstreetmap.org/relation/3230900"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Northern",
-    "Town":"",
-    "Name":"Port Loko Holding Centre (Port Loko Hospital)",
-    "Organisation":"",
-    "Type1":"Holding Centre",
+    "Name":"Port Loko Gov. Hospital ETU",
+    "Organisation":"MOH Sierra Leone",
+    "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/way/307587088#map=19/8.76574/-12.78503"
+  },
+  {
+    "Country":"Sierra Leone",
+    "Region":"Northern",
+    "Town":"",
+    "Name":"Red Cross Vocational Centre ETU",
+    "Organisation":"MoH Sierra Leone",
+    "Type1":"ETC",
+    "OSM":""
   },
   {
     "Country":"Sierra Leone",
     "Region":"Southern",
     "Town":"Bo",
-    "Name":"Bo",
+    "Name":"Bo Town SLRA",
     "Organisation":"MSF",
     "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/search?query=7.9620299%09-11.7364775#map=9/7.9613/-11.7361"
   },
   {
     "Country":"Sierra Leone",
-    "Region":"Southern",
-    "Town":"Gondama",
-    "Name":"Gondama Referral Center",
-    "Organisation":"MSF",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/2089687982#map=19/7.86568/-11.70837"
-  },
-  {
-    "Country":"Sierra Leone",
     "Region":"Western",
     "Town":"Hastings",
-    "Name":"Hasting Police Centre (Police Training School)",
+    "Name":"Hasting Police Training School",
     "Organisation":"MOH Sierra Leone",
     "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/node/391778904#map=19/8.38730/-13.13872"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Newton",
-    "Name":"Newton Police Centre",
-    "Organisation":"",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/node/626927447#map=19/8.33625/-13.00714"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Rokupa",
-    "Name":"Rokupa Hospital",
-    "Organisation":"",
-    "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/3065143470"
   },
   {
     "Country":"Sierra Leone",
@@ -371,46 +191,28 @@ var medicalCentres = [
   {
     "Country":"Sierra Leone",
     "Region":"Western",
+    "Town":"Kerry Town",
+    "Name":"Kerry Town ETC",
+    "Organisation":"Save the Children",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/node/401475917"
+  },
+  {
+    "Country":"Sierra Leone",
+    "Region":"Western",
+    "Town":"Kerry Town",
+    "Name":"Kerry Town ETC - Section for care of Health Care Workers",
+    "Organisation":"UK MoD",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/node/401475917"
+  },
+  {
+    "Country":"Sierra Leone",
+    "Region":"Western",
     "Town":"Lakka",
-    "Name":"Lakka Isolation Hospital",
+    "Name":"Lakka Hospital ETU",
     "Organisation":"EMERGENCY Italian NGO",
-    "Type1":"Holding Centre",
+    "Type1":"ETC",
     "OSM":"http://www.openstreetmap.org/node/2201774621#map=19/8.39737/-13.26355"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Freetown",
-    "Name":"34 Military Hospital",
-    "Organisation":"",
-    "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/370496125#map=15/8.4741/-13.2653"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Freetown",
-    "Name":"Connaught Hospital",
-    "Organisation":"King's Health Partners UK",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/way/32975779"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Freetown",
-    "Name":"Macauley Street Hospital",
-    "Organisation":"No Partner Identified",
-    "Type1":"Triage",
-    "OSM":"http://www.openstreetmap.org/search?query=8.4790017%2C%20-13.2680158#map=11/8.4792/-13.2681"
-  },
-  {
-    "Country":"Sierra Leone",
-    "Region":"Western",
-    "Town":"Freetown",
-    "Name":"PCMH (Princess Christian Maternity) Hospital",
-    "Organisation":"",
-    "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=PCMH#map=12/8.4902/-13.2189"
   }
 ];
