@@ -60,6 +60,10 @@ var regionsAffected = [
     "Pcode":"GIN003004"
   },
   {
+    "Region":"Kouroussa",
+    "Pcode":"GIN004003"
+  },
+  {
     "Region":"Lola",
     "Pcode":"GIN008002"
   },
