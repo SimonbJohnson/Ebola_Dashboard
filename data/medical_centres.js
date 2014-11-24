@@ -6,7 +6,7 @@ var medicalCentres = [
     "Name":"Tubmanburg ETC",
     "Organisation":"IOM",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=6.86734%09-10.83094#map=10/6.8673/-10.8309"
+    "OSM":"http://www.openstreetmap.org/search?query=6.8673361%09-10.8309449#map=11/6.8673/-10.8309"
   },
   {
     "Country":"Liberia",
@@ -15,7 +15,7 @@ var medicalCentres = [
     "Name":"Bong County ETC",
     "Organisation":"IMC",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=7.00472%09-9.55500#map=13/7.0047/-9.5550"
+    "OSM":"http://www.openstreetmap.org/search?query=6.9999996%09-9.5549977#map=11/7.0000/-9.5550"
   },
   {
     "Country":"Liberia",
@@ -51,7 +51,25 @@ var medicalCentres = [
     "Name":"Firestone Medical Center",
     "Organisation":"Firestone Company",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=6.35306%09-10.46972#map=17/6.35306/-10.46972"
+    "OSM":"http://www.openstreetmap.org/search?query=06.3530546%2C%20-010.4697211#map=15/6.3511/-10.4675"
+  },
+  {
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "Town":"Kakata 1",
+    "Name":"Kakata 1 (Save the Children)",
+    "Organisation":"IMC",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/search?query=6.56250%09-10.32194#map=19/6.56250/-10.32194"
+  },
+  {
+    "Country":"Liberia",
+    "Region":"Montserrado",
+    "Town":"Banjao",
+    "Name":"Unity Convention Centre",
+    "Organisation":"MoH Liberia",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/way/142141782#map=19/6.38906/-10.79286"
   },
   {
     "Country":"Liberia",
@@ -108,6 +126,15 @@ var medicalCentres = [
     "OSM":"http://www.openstreetmap.org/search?query=6.27028%09-10.73417#map=19/6.27028/-10.73417"
   },
   {
+    "Country":"Liberia",
+    "Region":"Montserrado",
+    "Town":"Monrovia",
+    "Name":"Redemption Hospital",
+    "Organisation":"MOH Liberia",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/node/3003566637"
+  },
+  {
     "Country":"Guinea",
     "Region":"Conakry",
     "Town":"",
@@ -146,20 +173,20 @@ var medicalCentres = [
   {
     "Country":"Sierra Leone",
     "Region":"Northern",
-    "Town":"",
-    "Name":"Port Loko Gov. Hospital ETU",
-    "Organisation":"MOH Sierra Leone",
+    "Town":"Makeni",
+    "Name":"Magbenteh Hospital",
+    "Organisation":"MoH Sierra Leone",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/way/307587088#map=19/8.76574/-12.78503"
+    "OSM":"http://www.openstreetmap.org/search?query=8.84611%09-12.058447#map=12/8.8461/-12.0584"
   },
   {
     "Country":"Sierra Leone",
     "Region":"Northern",
     "Town":"",
-    "Name":"Red Cross Vocational Centre ETU",
+    "Name":"Maforki ETU",
     "Organisation":"MoH Sierra Leone",
     "Type1":"ETC",
-    "OSM":""
+    "OSM":"http://www.openstreetmap.org/search?query=8.773571%09-12.796859#map=12/8.7735/-12.7970"
   },
   {
     "Country":"Sierra Leone",
@@ -168,7 +195,7 @@ var medicalCentres = [
     "Name":"Bo Town SLRA",
     "Organisation":"MSF",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/search?query=7.9620299%09-11.7364775#map=9/7.9613/-11.7361"
+    "OSM":"http://www.openstreetmap.org/search?query=7.957269%09-11.732060#map=14/7.9572/-11.7320"
   },
   {
     "Country":"Sierra Leone",
@@ -177,7 +204,7 @@ var medicalCentres = [
     "Name":"Hasting Police Training School",
     "Organisation":"MOH Sierra Leone",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/391778904#map=19/8.38730/-13.13872"
+    "OSM":"http://www.openstreetmap.org/search?query=8.382705%09-13.125851#map=16/8.3827/-13.1259"
   },
   {
     "Country":"Sierra Leone",
@@ -186,7 +213,7 @@ var medicalCentres = [
     "Name":"Sierra Leone-China Friendship Hospital (Jui Hospital)",
     "Organisation":"Chinese CDC",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/3065142730"
+    "OSM":"http://www.openstreetmap.org/search?query=8.386861%09-13.149548#map=16/8.3869/-13.1495"
   },
   {
     "Country":"Sierra Leone",
@@ -195,7 +222,7 @@ var medicalCentres = [
     "Name":"Kerry Town ETC",
     "Organisation":"Save the Children",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/401475917"
+    "OSM":"http://www.openstreetmap.org/search?query=8.257095%09-13.086371#map=16/8.2571/-13.0864"
   },
   {
     "Country":"Sierra Leone",
@@ -204,7 +231,16 @@ var medicalCentres = [
     "Name":"Kerry Town ETC - Section for care of Health Care Workers",
     "Organisation":"UK MoD",
     "Type1":"ETC",
-    "OSM":"http://www.openstreetmap.org/node/401475917"
+    "OSM":"http://www.openstreetmap.org/search?query=8.257095%09-13.086371#map=16/8.2571/-13.0864"
+  },
+  {
+    "Country":"Sierra Leone",
+    "Region":"Western",
+    "Town":"",
+    "Name":"AHS - Waterloo Hospital",
+    "Organisation":"MOH Sierra Leone",
+    "Type1":"ETC",
+    "OSM":"http://www.openstreetmap.org/search?query=8.335621%09-13.073548#map=16/8.3356/-13.0735"
   },
   {
     "Country":"Sierra Leone",
