@@ -75,5 +75,7 @@
   position: absolute;           
   text-align: center;                  
   font: 12px sans-serif;        
-  background: lightsteelblue;       
+  background: #f3f3f3;
+  padding:10px;
+  border-radius:5px;
 }

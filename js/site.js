@@ -277,7 +277,9 @@ function generateMap(){
             tooltip.html(tooltipText(d.Name, d.Country, d.Town, d.Organisation));
         })
         .on('mouseout', function () {
-            tooltip      
+            tooltip
+                .style("left", -50)     
+                .style("top", -50)
                 .style("opacity", 0); 
         });  
 }
