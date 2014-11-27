@@ -70,3 +70,10 @@
     border-bottom-color:#cccccc;
     border-bottom-width:1px;
 }
+
+.tooltip {   
+  position: absolute;           
+  text-align: center;                  
+  font: 12px sans-serif;        
+  background: lightsteelblue;       
+}
