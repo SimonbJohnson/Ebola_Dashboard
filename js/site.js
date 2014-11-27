@@ -188,6 +188,10 @@ function generateMap(){
         .center([0,5])
         .scale(1800);
 
+    var tooltip = d3.select("#map").append("tooltip")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+        
     var svg = d3.select('#map').append("svg")
         .attr("width", width)
         .attr("height", height);
@@ -244,6 +248,53 @@ function generateMap(){
          .text(function(d,i){
                       return d.properties.NAME;
                   });
+                  
+    var g = svg.append("g"); 
+    
+    g.selectAll("circles").data(medicalCentres)
+        .enter()
+        .append("circle")
+        .attr('cx',function(d){
+            var point = projection([ d.Longitude, d.Latitude ]);
+            return point[0];
+         })
+        .attr('cy',function(d){
+            var point = projection([ d.Longitude, d.Latitude ]);
+            return point[1];
+         })
+        .attr("r", 5)
+        .attr("class","medical_centres")
+        .attr("fill", "purple")
+        .attr("opacity",0.7)
+        .on('mouseover', function (d) {
+            var xPos = parseFloat(d3.select(this).attr('cx'));
+            var yPos = parseFloat(d3.select(this).attr('cy'));
+
+            tooltip.transition()        
+                .duration(200)      
+                .style("opacity", .9) 
+                .style("left", xPos + 30)     
+                .style("top", yPos);
+            tooltip.html(tooltipText(d.Name, d.Country, d.Town, d.Organisation));
+        })
+        .on('mouseout', function () {
+            tooltip.transition()        
+                .duration(200)      
+                .style("opacity", 0); 
+        });  
+}
+
+function tooltipText(name, country, town, organisation) {
+    text = "";
+    if (name !== "")
+        text += "Name: " + name + "<br/>";
+    if (country !== "")
+        text += "Country: " + country + "<br/>";
+    if (town !== "")
+        text += "Town: " + town + "<br/>";
+    if (organisation !== "")
+        text += "Organisation: " + organisation + "<br/>";
+    return text;
 }
 
 function transitionLineChart(id,datain){
@@ -346,6 +397,22 @@ function transitionMap(filter){
                      return path.centroid(d)[0]-20;})
         .attr("y", function(d,i){
                      return path.centroid(d)[1];});    
+
+    d3.selectAll(".medical_centres")
+        .data(medicalCentres)
+        .transition().duration(duration)
+        .attr('cx',function(d){
+            if (filter === d.Country) {
+                var point = projection([ d.Longitude, d.Latitude ]);
+                return point[0];
+            }
+         })
+        .attr('cy',function(d){
+            if (filter === d.Country) {
+                var point = projection([ d.Longitude, d.Latitude ]);
+                return point[1];
+            }
+         });
 }
 
 function transition(filter){
