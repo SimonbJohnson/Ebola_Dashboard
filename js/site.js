@@ -178,7 +178,7 @@ function generateMap(){
       return last4Weeks.indexOf(d) > -1;
     });
     
-    console.log();
+
     
     var margin = {top: 10, right: 10, bottom: 10, left: 10},
     width = $('#map').width() - margin.left - margin.right,
@@ -270,16 +270,14 @@ function generateMap(){
             var xPos = parseFloat(d3.select(this).attr('cx'));
             var yPos = parseFloat(d3.select(this).attr('cy'));
 
-            tooltip.transition()        
-                .duration(200)      
+            tooltip     
                 .style("opacity", .9) 
                 .style("left", xPos + 30)     
                 .style("top", yPos);
             tooltip.html(tooltipText(d.Name, d.Country, d.Town, d.Organisation));
         })
         .on('mouseout', function () {
-            tooltip.transition()        
-                .duration(200)      
+            tooltip      
                 .style("opacity", 0); 
         });  
 }
@@ -402,16 +400,12 @@ function transitionMap(filter){
         .data(medicalCentres)
         .transition().duration(duration)
         .attr('cx',function(d){
-            if (filter === d.Country) {
                 var point = projection([ d.Longitude, d.Latitude ]);
                 return point[0];
-            }
          })
         .attr('cy',function(d){
-            if (filter === d.Country) {
                 var point = projection([ d.Longitude, d.Latitude ]);
                 return point[1];
-            }
          });
 }
 
