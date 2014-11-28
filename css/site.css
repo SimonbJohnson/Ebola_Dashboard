@@ -70,3 +70,12 @@
     border-bottom-color:#cccccc;
     border-bottom-width:1px;
 }
+
+.tooltip {   
+  position: absolute;           
+  text-align: center;                  
+  font: 12px sans-serif;        
+  background: #f3f3f3;
+  padding:10px;
+  border-radius:5px;
+}

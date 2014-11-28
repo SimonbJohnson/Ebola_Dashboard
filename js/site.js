@@ -154,33 +154,6 @@ function generateKeyStats(id,keystats,datain){
     $(id).html(html);
 }
 
-function generateMedicalCentres(id,datain,filter){
-    var html ="";
-    if(filter==="Total"){
-        var country =[];
-        var countryTotals = [];
-        datain.forEach(function(e){
-            if($.inArray(e.Country, country)>-1){
-                countryTotals[e.Country] = countryTotals[e.Country]+1;
-            } else {
-                country.push(e.Country);
-                countryTotals[e.Country] = 1;
-            }
-        });
-        
-        country.forEach(function(e){
-           html = html + "<p>" + e +": " + countryTotals[e]+"</p>"; 
-        });
-    } else {
-        datain.forEach(function(e){
-            if(e.Country === filter){
-                html = html + "<p>" + e.Name + ", " + e.Town + ", " + e.Region + " ("+e.Organisation+")</p>";
-            }
-        });
-    }
-    $(id).html(html);
-}
-
 function transitionPieChart(filter){
     if(filter==="Total"){
         d3.select("#Liberia").transition().duration(duration).style("fill",color["Liberia"]);
@@ -195,6 +168,17 @@ function transitionPieChart(filter){
 }
 
 function generateMap(){
+    
+    byWeek.filterAll();
+    byCountry.filterAll();
+    byRegion.filterAll();
+        
+    byWeek.filter(function(d){
+      return lastWeeks.indexOf(d) > -1;
+    });
+    
+
+    
     var margin = {top: 10, right: 10, bottom: 10, left: 10},
     width = $('#map').width() - margin.left - margin.right,
     height = 325;
@@ -203,6 +187,10 @@ function generateMap(){
         .center([0,5])
         .scale(1800);
 
+    var tooltip = d3.select("#map").append("tooltip")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+        
     var svg = d3.select('#map').append("svg")
         .attr("width", width)
         .attr("height", height);
@@ -220,13 +208,15 @@ function generateMap(){
         .attr("stroke",'#aaaaaa')
         .attr("stroke-width","0px")
         .attr("fill",'#ffffff')
-        .attr("id",function(d){console.log(d.properties);return d.properties.PCODE_REF;})
+        .attr("id",function(d){return d.properties.PCODE_REF;})
         .attr("class","region")
         .append("svg:title")
         .text(function(d) { return d.properties.NAME_REF; });
     
-    regionsAffected.forEach(function(e) {
-        d3.select("#"+e.Pcode).attr("fill","#ff8f00");
+    sumNewCasesByRegion.all().forEach(function(e) {
+        if(e.value>0){
+            d3.select("#"+e.key).attr("fill","#ff8f00");
+        }
     });
     
     var g = svg.append("g");
@@ -257,18 +247,53 @@ function generateMap(){
          .text(function(d,i){
                       return d.properties.NAME;
                   });
+                  
+    var g = svg.append("g"); 
+    
+    g.selectAll("circles").data(medicalCentres)
+        .enter()
+        .append("circle")
+        .attr('cx',function(d){
+            var point = projection([ d.Longitude, d.Latitude ]);
+            return point[0];
+         })
+        .attr('cy',function(d){
+            var point = projection([ d.Longitude, d.Latitude ]);
+            return point[1];
+         })
+        .attr("r", 5)
+        .attr("class","medical_centres")
+        .attr("fill", "purple")
+        .attr("opacity",0.7)
+        .on('mouseover', function (d) {
+            var xPos = parseFloat(d3.select(this).attr('cx'));
+            var yPos = parseFloat(d3.select(this).attr('cy'));
+
+            tooltip     
+                .style("opacity", .9) 
+                .style("left", xPos + 30)     
+                .style("top", yPos);
+            tooltip.html(tooltipText(d.Name, d.Country, d.Town, d.Organisation));
+        })
+        .on('mouseout', function () {
+            tooltip
+                .style("left", -50)     
+                .style("top", -50)
+                .style("opacity", 0); 
+        });  
 }
 
-function generateHeadLineFigures(data){
-    $('#total_deaths').html(data['Total'][0]['deaths']);
-    $('#total_cases').html(data['Total'][0]['cases']);
-    $('#gu_deaths').html(data['Guinea'][0]['deaths']);
-    $('#gu_cases').html(data['Guinea'][0]['cases']);
-    $('#li_deaths').html(data['Liberia'][0]['deaths']);
-    $('#li_cases').html(data['Liberia'][0]['cases']);
-    $('#sl_deaths').html(data['Sierra Leone'][0]['deaths']);
-    $('#sl_cases').html(data['Sierra Leone'][0]['cases']);
-    $('#update_date').html(data['Total'][0]['date'].toDateString()); 
+function tooltipText(name, country, town, organisation) {
+    text = "";
+    if (name !== "")
+        text += "Name: " + name + "<br/>";
+    if (country !== "")
+        text += "Country: " + country + "<br/>";
+    if (town !== "")
+        text += "Town: " + town + "<br/>";
+    if (organisation !== "")
+        text += "Organisation: " + organisation + "<br/>";
+    return text;
 }
 
 function transitionLineChart(id,datain){
@@ -309,15 +334,11 @@ function transitionLineChart(id,datain){
         .transition().duration(duration)
         .attr("d", line);
         
-
     d3.selectAll(".line2")
         .datum(datain)
         .transition().duration(duration)
         .attr("d", line2);    
-        
-
-        
-        
+           
     d3.selectAll(".yaxis")
         .transition().duration(duration)
         .call(yAxis);
@@ -375,6 +396,18 @@ function transitionMap(filter){
                      return path.centroid(d)[0]-20;})
         .attr("y", function(d,i){
                      return path.centroid(d)[1];});    
+
+    d3.selectAll(".medical_centres")
+        .data(medicalCentres)
+        .transition().duration(duration)
+        .attr('cx',function(d){
+                var point = projection([ d.Longitude, d.Latitude ]);
+                return point[0];
+         })
+        .attr('cy',function(d){
+                var point = projection([ d.Longitude, d.Latitude ]);
+                return point[1];
+         });
 }
 
 function transition(filter){
@@ -385,9 +418,19 @@ function transition(filter){
     generateKeyStats("#key_stats",keyStats[filter],casesAndDeaths[filter]);
     transitionTitles(filter);
     transitionMap(filter);
-    generateMedicalCentres("#medical_centres",medicalCentres,filter);
 }
 
+function getNewCasesByCountry(){
+    byWeek.filterAll();
+    byCountry.filterAll();
+    byRegion.filterAll();
+        
+    byWeek.filter(function(d){
+      return lastWeeks.indexOf(d) > -1;
+    });
+    
+    return sumNewCasesByCountry.all();
+}
 
 var currentFilter = "Total";
 //var color = {"Sierra Leone":"#5677fc","Liberia":"#e51c23","Guinea":"#ffeb3b","Nigeria":"#259b24"};
@@ -415,9 +458,19 @@ casesAndDeaths["Sierra Leone"].forEach(function(d){
     d.deaths = +d.deaths;    
 });
 
-generateHeadLineFigures(casesAndDeaths);
+var cf = crossfilter(data);
+
+byCountry = cf.dimension(function(d){return d.Country;});
+byWeek = cf.dimension(function(d){return d.WeekDate;});
+byRegion = cf.dimension(function(d){return d.PCodeUse;});
+
+var sumNewCasesByRegion = byRegion.group().reduceSum(function(d){return d.NewCases;});
+var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewCases;});
+
+var lastWeeks = ["17/11/2014","10/11/2014","03/11/2014","27/10/2014"];
+
+$('#update_date').html(casesAndDeaths['Total'][0]['date'].toDateString()); 
 generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
 generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
 generateMap();
-generateMedicalCentres("#medical_centres",medicalCentres,"Total");
