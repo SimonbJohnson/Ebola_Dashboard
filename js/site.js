@@ -172,10 +172,9 @@ function generateMap(){
     byWeek.filterAll();
     byCountry.filterAll();
     byRegion.filterAll();
-    
-    
+        
     byWeek.filter(function(d){
-      return last4Weeks.indexOf(d) > -1;
+      return lastWeeks.indexOf(d) > -1;
     });
     
 
@@ -421,6 +420,17 @@ function transition(filter){
     transitionMap(filter);
 }
 
+function getNewCasesByCountry(){
+    byWeek.filterAll();
+    byCountry.filterAll();
+    byRegion.filterAll();
+        
+    byWeek.filter(function(d){
+      return lastWeeks.indexOf(d) > -1;
+    });
+    
+    return sumNewCasesByCountry.all();
+}
 
 var currentFilter = "Total";
 //var color = {"Sierra Leone":"#5677fc","Liberia":"#e51c23","Guinea":"#ffeb3b","Nigeria":"#259b24"};
@@ -455,9 +465,11 @@ byWeek = cf.dimension(function(d){return d.WeekDate;});
 byRegion = cf.dimension(function(d){return d.PCodeUse;});
 
 var sumNewCasesByRegion = byRegion.group().reduceSum(function(d){return d.NewCases;});
+var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewCases;});
 
-var last4Weeks = ["17/11/2014","10/11/2014","03/11/2014","27/10/2014"];
-        
+var lastWeeks = ["17/11/2014","10/11/2014","03/11/2014","27/10/2014"];
+
+$('#update_date').html(casesAndDeaths['Total'][0]['date'].toDateString()); 
 generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
 generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
