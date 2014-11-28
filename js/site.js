@@ -432,6 +432,10 @@ function getNewCasesByCountry(){
     return sumNewCasesByCountry.all();
 }
 
+function generateBarChart(){
+    
+}
+
 var currentFilter = "Total";
 //var color = {"Sierra Leone":"#5677fc","Liberia":"#e51c23","Guinea":"#ffeb3b","Nigeria":"#259b24"};
 var color = {"Sierra Leone":"#f36c60","Liberia":"#b0120a","Guinea":"#dd191d"};
