@@ -176,9 +176,7 @@ function generateMap(){
     byWeek.filter(function(d){
       return lastWeeks.indexOf(d) > -1;
     });
-    
-
-    
+ 
     var margin = {top: 10, right: 10, bottom: 10, left: 10},
     width = $('#map').width() - margin.left - margin.right,
     height = 325;
@@ -471,7 +469,7 @@ byRegion = cf.dimension(function(d){return d.PCodeUse;});
 var sumNewCasesByRegion = byRegion.group().reduceSum(function(d){return d.NewCases;});
 var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewCases;});
 
-var lastWeeks = ["17/11/2014","10/11/2014","03/11/2014","27/10/2014"];
+var lastWeeks = ["08/12/2014","01/12/2014","24/11/2014","17/11/2014"];
 
 $('#update_date').html(casesAndDeaths['Total'][0]['date'].toDateString()); 
 generateCountryPieChart("#pie_country",casesAndDeaths);
