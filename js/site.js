@@ -1,82 +1,7 @@
-// function to load JSON file synchonously before d3 rendering
-
-function loadJsonFileSynch(file){
-    var ajaxresponse
-    $.ajax({
-        url: "data/"+file+".json",
-        async: false,
-        dataType: "json",
-        success: function (response) {
-            ajaxresponse= response;
-        }
-    });
-    return ajaxresponse;       
-}
-
-
-function generateCountryPieChart(id,datain){
-
-    var data = [
-        {"country":"Liberia","cases":datain["Liberia"][0].cases},
-        {"country":"Sierra Leone","cases":datain["Sierra Leone"][0].cases},
-        {"country":"Guinea","cases":datain["Guinea"][0].cases}
-    ];
-    
-    data.forEach(function(d) {
-      d.cases = +d.cases;
-    });    
-
-    var margin = {top: 0, right: 0, bottom: 0, left: 0},
-        width = $(id).width() - margin.left - margin.right,
-        height = $(id).height() - margin.top - margin.bottom,
-        radius = Math.min(width, height) / 2;
-
-    var arc = d3.svg.arc()
-        .outerRadius(radius - 10)
-        .innerRadius(0);
-
-
-    var pie = d3.layout.pie()
-        .sort(null)
-        .value(function(d) { return d.cases; });
-
-    var svg = d3.select(id).append("svg")
-        .attr("width", width)
-        .attr("height", height)
-        .append("g")
-        .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-
-    var g = svg.selectAll(".arc")
-        .data(pie(data))
-        .enter().append("g")
-
-
-    g.append("path")
-        .attr("d", arc)
-        .style("fill", function(d,i) { return color[d.data.country]; })
-        .attr("id",function(d){
-            return d.data.country.replace(/\s/g, '');
-        })
-        .on("click",function(d){
-            transition(d.data.country);
-        });
-
-    g.append("text")
-        .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
-        .attr("dy", ".35em")
-        .style("text-anchor", "middle")
-        .text(function(d) {return d.data.country; })
-        .on("click",function(d){
-            transition(d.data.country);
-        });
-}
-
 function generateLineChart(id,datain){
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
         width = $(id).width() - margin.left - margin.right,
         height = $(id).height() - margin.top - margin.bottom;
-
-
 
     var x = d3.time.scale()
         .range([0, width]);
@@ -154,20 +79,8 @@ function generateKeyStats(id,keystats,datain){
     $(id).html(html);
 }
 
-function transitionPieChart(filter){
-    if(filter==="Total"){
-        d3.select("#Liberia").transition().duration(duration).style("fill",color["Liberia"]);
-        d3.select("#SierraLeone").transition().duration(duration).style("fill",color["Sierra Leone"]);
-        d3.select("#Guinea").transition().duration(duration).style("fill",color["Guinea"]);
-    } else {
-        d3.select("#Liberia").transition().duration(duration).style("fill","#cccccc");
-        d3.select("#SierraLeone").transition().duration(duration).style("fill","#cccccc");
-        d3.select("#Guinea").transition().duration(duration).style("fill","#cccccc");
-        d3.select("#"+filter.replace(/\s/g, '')).transition().duration(duration).style("fill",color[filter]);
-    }
-}
-
 function generateMap(){
+    var color = ["#ffffff","#ffe082","#ffbd13","#ff8053","#ff493d"];
     
     byWeek.filterAll();
     byCountry.filterAll();
@@ -212,9 +125,18 @@ function generateMap(){
         .text(function(d) { return d.properties.NAME_REF; });
     
     sumNewCasesByRegion.all().forEach(function(e) {
-        if(e.value>0){
-            d3.select("#"+e.key).attr("fill","#ff8f00");
-        }
+        
+            if(e.value==0){
+                d3.select("#"+e.key).attr("fill",color[0]);
+            } else if(e.value<25){
+                d3.select("#"+e.key).attr("fill",color[1]);
+            } else if(e.value<50){
+                d3.select("#"+e.key).attr("fill",color[2]);
+            } else if(e.value<100){
+                d3.select("#"+e.key).attr("fill",color[3]);
+            } else {
+                d3.select("#"+e.key).attr("fill",color[4]);
+            }            
     });
     
     var g = svg.append("g");
@@ -259,10 +181,10 @@ function generateMap(){
             var point = projection([ d.Longitude, d.Latitude ]);
             return point[1];
          })
-        .attr("r", 5)
+        .attr("r", 4)
         .attr("class","medical_centres")
-        .attr("fill", "purple")
-        .attr("opacity",0.7)
+        .attr("fill", "steelblue")
+        .attr("opacity",0.5)
         .on('mouseover', function (d) {
             var xPos = parseFloat(d3.select(this).attr('cx'));
             var yPos = parseFloat(d3.select(this).attr('cy'));
@@ -409,29 +331,107 @@ function transitionMap(filter){
 }
 
 function transition(filter){
-    if(filter===currentFilter){filter="Total";}
-    currentFilter=filter;
-    transitionPieChart(filter);
     transitionLineChart("#line_total",casesAndDeaths[filter]);
     generateKeyStats("#key_stats",keyStats[filter],casesAndDeaths[filter]);
+    generateBarChart(filter);
     transitionTitles(filter);
     transitionMap(filter);
 }
 
-function getNewCasesByCountry(){
-    byWeek.filterAll();
-    byCountry.filterAll();
-    byRegion.filterAll();
-        
-    byWeek.filter(function(d){
-      return lastWeeks.indexOf(d) > -1;
-    });
-    
-    return sumNewCasesByCountry.all();
-}
+function generateBarChart(filter){
+    $("#bar_chart").html("");
+    if(filter=="Total"){
+        byWeek.filterAll();
+        byCountry.filterAll();
+        byRegion.filterAll();
 
-function generateBarChart(){
+        byWeek.filter(function(d){
+          return lastWeeks.indexOf(d) > -1;
+        });
+
+        var data=sumNewCasesByCountry.all();        
+    } else {
+        byWeek.filterAll();
+        byCountry.filterAll();
+        byRegion.filterAll();
+        byCountry.filter(filter);
+        byWeek.filter(function(d){
+          return lastWeeks.indexOf(d) > -1;
+        });
+
+        var data=sumNewCasesByRegionName.all();
+        
+        for(var i = data.length - 1; i >= 0; i--) {
+            if(data[i].value === 0) {
+               data.splice(i, 1);
+            }
+        }
+    }
+
+    var margin = {top: 10, right: 75, bottom: 80, left: 70},
+        width = $("#bar_chart").width() - margin.left - margin.right,
+        height =  $("#bar_chart").height() - margin.top - margin.bottom;
     
+    var x = d3.scale.ordinal()
+        .rangeRoundBands([0, width]);
+
+    var y = d3.scale.linear()
+        .range([0,height]); 
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .ticks(5);
+      
+    x.domain(data.map(function(d) {return d.key; }));
+    var ydomain=d3.extent(data,function(d){return d.value;});
+    y.domain([ydomain[1]*1.1,0]);
+    
+    var svg = d3.select("#bar_chart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    svg.append("g")
+        .attr("class", "x axis baraxis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+        .selectAll("text")  
+            .style("text-anchor", "start")
+            //.attr("dx", "-.8em")
+            //.attr("dy", ".15em")
+            .attr("transform", function(d) {
+                return "rotate(35)" 
+                });
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);    
+
+    svg.selectAll("rect")
+            .data(data)
+            .enter()
+            .append("rect") 
+            .attr("x", function(d,i) { return x(d.key); })
+            .attr("width", x.rangeBand()-1)
+            .attr("y", function(d){
+                           return y(d.value);            
+            })
+            .attr("height", function(d) {
+                           return height-y(d.value);
+            })
+            .on("click",function(d){
+                if(currentFilter=="Total"){
+                    currentFilter=d.key;
+                    transition(currentFilter);
+                }
+            })
+            .attr("fill","steelblue");
 }
 
 var currentFilter = "Total";
@@ -465,14 +465,16 @@ var cf = crossfilter(data);
 byCountry = cf.dimension(function(d){return d.Country;});
 byWeek = cf.dimension(function(d){return d.WeekDate;});
 byRegion = cf.dimension(function(d){return d.PCodeUse;});
+byRegionName = cf.dimension(function(d){return d.Region;});
 
+var sumNewCasesByRegionName = byRegionName.group().reduceSum(function(d){return d.NewCases;});
 var sumNewCasesByRegion = byRegion.group().reduceSum(function(d){return d.NewCases;});
 var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewCases;});
 
-var lastWeeks = ["08/12/2014","01/12/2014","24/11/2014","17/11/2014"];
+var lastWeeks = ["08/12/2014","01/12/2014"];
 
 $('#update_date').html(casesAndDeaths['Total'][0]['date'].toDateString()); 
-generateCountryPieChart("#pie_country",casesAndDeaths);
 generateLineChart("#line_total",casesAndDeaths["Total"]);
 generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
+generateBarChart(currentFilter);
 generateMap();
