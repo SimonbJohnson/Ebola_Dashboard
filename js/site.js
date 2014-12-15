@@ -23,10 +23,6 @@ function generateLineChart(){
         })
         .y(function(d) { return y(d.value); });
 
-    //var line2 = d3.svg.line()
-    //    .x(function(d) {            
-    //        return (x(d.date)); })
-    //    .y(function(d) { return y(d.deaths); });
 
     var svg = d3.select("#line_total").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -75,7 +71,7 @@ function generateKeyStats(id,keystats,cases,deaths){
     var html = "<p>Population: "+keystats["population"] + "<p>";
     html = html + "<p>Cases: "+cases[0]["value"] + "<p>";
     html = html + "<p>Deaths: "+deaths[0]["value"] + "<p>";
-    html = html + "<p>Crude Mortality Rate: "+Math.round(cases[0]["value"]/deaths[0]["value"]*100) + "%<p>";
+    html = html + "<p>Crude Mortality Rate: "+Math.round(deaths[0]["value"]/cases[0]["value"]*100) + "%<p>";
     $(id).html(html);
 }
 
@@ -95,7 +91,7 @@ function generateMap(){
     height = 325;
    
     var projection = d3.geo.mercator()
-        .center([0,5])
+        .center([-3,5])
         .scale(1800);
 
     var tooltip = d3.select("#map").append("tooltip")
@@ -103,7 +99,7 @@ function generateMap(){
         .style("opacity", 0);
         
     var svg = d3.select('#map').append("svg")
-        .attr("width", width)
+        .attr("width", width+margin.left+margin.right)
         .attr("height", height);
 
     var path = d3.geo.path()
@@ -200,7 +196,100 @@ function generateMap(){
                 .style("left", -50)     
                 .style("top", -50)
                 .style("opacity", 0); 
-        });  
+        });
+    
+    var legendx=450;
+    var legendy=20;
+        
+    var g = svg.append("g");
+    
+    g.append("rect")
+        .attr("x", legendx-10)
+        .attr("y", 0)
+        .attr("width", 500)
+        .attr("height", height)
+        .attr("fill","#ffffff");    
+    
+    g.append("rect")
+        .attr("x", 0+legendx)
+        .attr("y", 20+legendy)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill",color[0])
+        .attr("stroke","#000000")
+        .attr("stroke-width",1);
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",28+legendy)
+        .text("No cases")
+        .attr("font-size","10px");    
+        
+    g.append("rect")
+        .attr("x", 0+legendx)
+        .attr("y", 40+legendy)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill",color[1]);
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",48+legendy)
+        .text("1 to 25 cases in the last 2 weeks")
+        .attr("font-size","10px");
+
+    g.append("rect")
+        .attr("x", 0+legendx)
+        .attr("y", 60+legendy)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill",color[2]);
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",68+legendy)
+        .text("25 to 49 cases in the last 2 weeks")
+        .attr("font-size","10px");
+
+    g.append("rect")
+        .attr("x", 0+legendx)
+        .attr("y", 80+legendy)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill",color[3]);
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",88+legendy)
+        .text("50 to 99 cases in the last 2 weeks")
+        .attr("font-size","10px");
+
+    g.append("rect")
+        .attr("x", 0+legendx)
+        .attr("y", 100+legendy)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill",color[4]);
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",108+legendy)
+        .text("100+ cases in the last 2 weeks")
+        .attr("font-size","10px");
+
+
+    g.append("circle")
+        .attr("cx",5+legendx)
+        .attr("cy",125+legendy)
+        .attr("r",5)
+        .attr("fill","steelblue");
+
+    g.append("text")
+        .attr("x",15+legendx)
+        .attr("y",128+legendy)
+        .text("Referral Centre")
+        .attr("font-size","10px");        
+        
 }
 
 function tooltipText(name, country, town, organisation) {
