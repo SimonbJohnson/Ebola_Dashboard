@@ -1,7 +1,7 @@
-function generateLineChart(id,datain){
+function generateLineChart(){
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
-        width = $(id).width() - margin.left - margin.right,
-        height = $(id).height() - margin.top - margin.bottom;
+        width = $("#line_total").width() - margin.left - margin.right,
+        height = $("#line_total").height() - margin.top - margin.bottom;
 
     var x = d3.time.scale()
         .range([0, width]);
@@ -19,25 +19,25 @@ function generateLineChart(id,datain){
 
     var line = d3.svg.line()
         .x(function(d) { 
-            return x(d.date);
+            return x(parseDate(d.key));
         })
-        .y(function(d) { return y(d.cases); });
+        .y(function(d) { return y(d.value); });
 
-    var line2 = d3.svg.line()
-        .x(function(d) {            
-            return (x(d.date)); })
-        .y(function(d) { return y(d.deaths); });
+    //var line2 = d3.svg.line()
+    //    .x(function(d) {            
+    //        return (x(d.date)); })
+    //    .y(function(d) { return y(d.deaths); });
 
-    var svg = d3.select(id).append("svg")
+    var svg = d3.select("#line_total").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
           
-    x.domain(d3.extent(datain, function(d) { 
-        return d.date; }));
-    y.domain([0,d3.max(datain, function(d) { return d.cases; })]);
+    x.domain(d3.extent(cases['Total'], function(d) { 
+        return parseDate(d.key); }));
+    y.domain([0,d3.max(cases['Total'], function(d) { return d.value; })]);
 
     svg.append("g")
         .attr("class", "xaxis axis")
@@ -55,27 +55,27 @@ function generateLineChart(id,datain){
         .text("Cases");
 
     svg.append("path")
-        .datum(datain)
+        .datum(cases['Total'])
         .attr("class", "line")
         .attr("d", line)
         .attr("fill","none")
         .attr("stroke","steelblue")
-        .attr("stroke-width","1px");
+        .attr("stroke-width","2px");
 
     svg.append("path")
-        .datum(datain)
+        .datum(deaths['Total'])
         .attr("class", "line2")
-        .attr("d", line2)
+        .attr("d", line)
         .attr("fill","none")
         .attr("stroke","red")
-        .attr("stroke-width","1px");
+        .attr("stroke-width","2px");
 }
 
-function generateKeyStats(id,keystats,datain){
+function generateKeyStats(id,keystats,cases,deaths){
     var html = "<p>Population: "+keystats["population"] + "<p>";
-    html = html + "<p>Cases: "+datain[0]["cases"] + "<p>";
-    html = html + "<p>Deaths: "+datain[0]["deaths"] + "<p>";
-    html = html + "<p>Crude Mortality Rate: "+Math.round(datain[0]["deaths"]/datain[0]["cases"]*100) + "%<p>";
+    html = html + "<p>Cases: "+cases[0]["value"] + "<p>";
+    html = html + "<p>Deaths: "+deaths[0]["value"] + "<p>";
+    html = html + "<p>Crude Mortality Rate: "+Math.round(cases[0]["value"]/deaths[0]["value"]*100) + "%<p>";
     $(id).html(html);
 }
 
@@ -90,7 +90,7 @@ function generateMap(){
       return lastWeeks.indexOf(d) > -1;
     });
  
-    var margin = {top: 10, right: 10, bottom: 10, left: 10},
+    var margin = {top: 10, right: 210, bottom: 10, left: 10},
     width = $('#map').width() - margin.left - margin.right,
     height = 325;
    
@@ -216,13 +216,14 @@ function tooltipText(name, country, town, organisation) {
     return text;
 }
 
-function transitionLineChart(id,datain){
+function transitionLineChart(filter){
+
+    var casesdata = cases[filter];
+    var deathsdata = deaths[filter];
 
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
-        width = $(id).width() - margin.left - margin.right,
-        height = $(id).height() - margin.top - margin.bottom;
-
-    var parseDate = d3.time.format("%d/%m/%Y").parse;
+        width = $("#line_total").width() - margin.left - margin.right,
+        height = $("#line_total").height() - margin.top - margin.bottom;
 
     var x = d3.time.scale()
         .range([0, width]);
@@ -239,25 +240,21 @@ function transitionLineChart(id,datain){
         .orient("left");
 
     var line = d3.svg.line()
-        .x(function(d) { return x(d.date); })
-        .y(function(d) { return y(d.cases); });
-
-    var line2 = d3.svg.line()
-        .x(function(d) { return x(d.date); })
-        .y(function(d) { return y(d.deaths); });
+        .x(function(d) { return x(parseDate(d.key)); })
+        .y(function(d) { return y(d.value); });
   
-    x.domain(d3.extent(datain, function(d) { return d.date; }));
-    y.domain([0,d3.max(datain, function(d) { return d.cases; })]);
+    x.domain(d3.extent(casesdata,function(d) { return parseDate(d.key); }));
+    y.domain([0,d3.max(casesdata, function(d) { return d.value; })]);
 
     d3.selectAll(".line")
-        .datum(datain)
+        .datum(casesdata)
         .transition().duration(duration)
         .attr("d", line);
         
     d3.selectAll(".line2")
-        .datum(datain)
+        .datum(deathsdata)
         .transition().duration(duration)
-        .attr("d", line2);    
+        .attr("d", line);    
            
     d3.selectAll(".yaxis")
         .transition().duration(duration)
@@ -331,8 +328,8 @@ function transitionMap(filter){
 }
 
 function transition(filter){
-    transitionLineChart("#line_total",casesAndDeaths[filter]);
-    generateKeyStats("#key_stats",keyStats[filter],casesAndDeaths[filter]);
+    transitionLineChart(filter);
+    generateKeyStats("#key_stats",keyStats[filter],cases[filter],deaths[filter]);
     generateBarChart(filter);
     transitionTitles(filter);
     transitionMap(filter);
@@ -439,26 +436,6 @@ var currentFilter = "Total";
 var color = {"Sierra Leone":"#f36c60","Liberia":"#b0120a","Guinea":"#dd191d"};
 var duration = 1500;
 var parseDate = d3.time.format("%d/%m/%Y").parse;
-casesAndDeaths["Total"].forEach(function(d){
-    d.date = parseDate(d.date);
-    d.cases = +d.cases;
-    d.deaths = +d.deaths;
-});
-casesAndDeaths["Guinea"].forEach(function(d){
-    d.date = parseDate(d.date);
-    d.cases = +d.cases;
-    d.deaths = +d.deaths;    
-});
-casesAndDeaths["Liberia"].forEach(function(d){
-    d.date = parseDate(d.date);
-    d.cases = +d.cases;
-    d.deaths = +d.deaths;    
-});
-casesAndDeaths["Sierra Leone"].forEach(function(d){
-    d.date = parseDate(d.date);
-    d.cases = +d.cases;
-    d.deaths = +d.deaths;    
-});
 
 var cf = crossfilter(data);
 
@@ -473,8 +450,8 @@ var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewC
 
 var lastWeeks = ["08/12/2014","01/12/2014"];
 
-$('#update_date').html(casesAndDeaths['Total'][0]['date'].toDateString()); 
-generateLineChart("#line_total",casesAndDeaths["Total"]);
-generateKeyStats("#key_stats",keyStats["Total"],casesAndDeaths["Total"]);
+$('#update_date').html(parseDate(cases['Total'][0]['key']).toDateString()); 
+generateLineChart();
+generateKeyStats("#key_stats",keyStats["Total"],cases["Total"],deaths['Total']);
 generateBarChart(currentFilter);
 generateMap();
