@@ -68,10 +68,14 @@ function generateLineChart(){
 }
 
 function generateKeyStats(id,keystats,cases,deaths){
-    var html = "<p>Population: "+keystats["population"] + "<p>";
-    html = html + "<p>Cases: "+cases[0]["value"] + "<p>";
-    html = html + "<p>Deaths: "+deaths[0]["value"] + "<p>";
-    html = html + "<p>Crude Mortality Rate: "+Math.round(deaths[0]["value"]/cases[0]["value"]*100) + "%<p>";
+    
+    var html = '<div class="col-xs-6">';
+    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+cases[0]["value"] + '<p>';
+    html = html + '<p class="stat_title">Population</p><p class="stat">'+keystats["population"] + '<p>';   
+    html = html + '</div><div class="col-xs-6">';
+    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+deaths[0]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Crude Mortality Rate</p><p class="stat">'+Math.round(deaths[0]["value"]/cases[0]["value"]*100) + '%<p>';
+    html=html+'</div>';
     $(id).html(html);
 }
 
@@ -81,6 +85,7 @@ function generateMap(){
     byWeek.filterAll();
     byCountry.filterAll();
     byRegion.filterAll();
+    byRegionName.filterAll();
         
     byWeek.filter(function(d){
       return lastWeeks.indexOf(d) > -1;
@@ -122,7 +127,7 @@ function generateMap(){
     
     sumNewCasesByRegion.all().forEach(function(e) {
         
-            if(e.value==0){
+    if(e.value==0){
                 d3.select("#"+e.key).attr("fill",color[0]);
             } else if(e.value<25){
                 d3.select("#"+e.key).attr("fill",color[1]);
@@ -277,7 +282,6 @@ function generateMap(){
         .text("100+ cases in the last 2 weeks")
         .attr("font-size","10px");
 
-
     g.append("circle")
         .attr("cx",5+legendx)
         .attr("cy",125+legendy)
@@ -287,7 +291,7 @@ function generateMap(){
     g.append("text")
         .attr("x",15+legendx)
         .attr("y",128+legendy)
-        .text("Referral Centre")
+        .text("Ebola Treatment Centre")
         .attr("font-size","10px");        
         
 }
@@ -419,7 +423,7 @@ function transitionMap(filter){
 function transition(filter){
     transitionLineChart(filter);
     generateKeyStats("#key_stats",keyStats[filter],cases[filter],deaths[filter]);
-    generateBarChart(filter);
+    generateBarChart(filter);    
     transitionTitles(filter);
     transitionMap(filter);
 }
@@ -430,26 +434,28 @@ function generateBarChart(filter){
         byWeek.filterAll();
         byCountry.filterAll();
         byRegion.filterAll();
-
-        byWeek.filter(function(d){
+        byRegionName.filterAll();
+         
+        byWeek.filter(function(d){        
           return lastWeeks.indexOf(d) > -1;
         });
-
         var data=sumNewCasesByCountry.all();        
     } else {
         byWeek.filterAll();
         byCountry.filterAll();
         byRegion.filterAll();
+        byRegionName.filterAll();
+        
         byCountry.filter(filter);
         byWeek.filter(function(d){
           return lastWeeks.indexOf(d) > -1;
         });
 
-        var data=sumNewCasesByRegionName.all();
-        
-        for(var i = data.length - 1; i >= 0; i--) {
-            if(data[i].value === 0) {
-               data.splice(i, 1);
+        var datatemp=sumNewCasesByRegionName.all();
+        var data =[];
+        for(var i = datatemp.length - 1; i >= 0; i--) {
+            if(datatemp[i].value !== 0) {
+              data.push(datatemp[i]);
             }
         }
     }
@@ -489,8 +495,6 @@ function generateBarChart(filter){
         .call(xAxis)
         .selectAll("text")  
             .style("text-anchor", "start")
-            //.attr("dx", "-.8em")
-            //.attr("dy", ".15em")
             .attr("transform", function(d) {
                 return "rotate(35)" 
                 });
@@ -514,6 +518,12 @@ function generateBarChart(filter){
             .on("click",function(d){
                 if(currentFilter=="Total"){
                     currentFilter=d.key;
+                    $("#barchartfilter").html('<button id="filterbarbutton" class="filterbutton">'+ currentFilter +' X</button>');
+                    $("#filterbarbutton").on("click",function(){
+                        $("#barchartfilter").html("");
+                        currentFilter = "Total";
+                        transition(currentFilter);
+                    });
                     transition(currentFilter);
                 }
             })

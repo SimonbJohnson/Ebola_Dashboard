@@ -79,3 +79,31 @@
   padding:10px;
   border-radius:5px;
 }
+
+.filtertable {
+    display:inline-block;
+}
+
+.filterbox {
+    display:inline-block;
+    margin-left:10px;
+}
+
+.filterbutton {
+    background-color:steelblue;
+    color:white;
+    padding: 5;
+    border: none;
+}
+
+body {
+    font-family: 'Gotham-Light', sans-serif;
+}
+
+.stat_title{
+    font-size:18px;
+}
+
+.stat {
+    font-size:48px;
+}
