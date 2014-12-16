@@ -19,7 +19,7 @@ function generateLineChart(){
 
     var line = d3.svg.line()
         .x(function(d) { 
-            return x(parseDate(d.key));
+            return x(d.key);
         })
         .y(function(d) { return y(d.value); });
 
@@ -32,7 +32,7 @@ function generateLineChart(){
 
           
     x.domain(d3.extent(cases['Total'], function(d) { 
-        return parseDate(d.key); }));
+        return d.key; }));
     y.domain([0,d3.max(cases['Total'], function(d) { return d.value; })]);
 
     svg.append("g")
@@ -70,11 +70,11 @@ function generateLineChart(){
 function generateKeyStats(id,keystats,cases,deaths){
     
     var html = '<div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+cases[0]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+cases[cases.length-1]["value"] + '<p>';
     html = html + '<p class="stat_title">Population</p><p class="stat">'+keystats["population"] + '<p>';   
     html = html + '</div><div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+deaths[0]["value"] + '<p>';
-    html = html + '<p  class="stat_title">Crude Mortality Rate</p><p class="stat">'+Math.round(deaths[0]["value"]/cases[0]["value"]*100) + '%<p>';
+    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+deaths[deaths.length-1]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Crude Mortality Rate</p><p class="stat">'+Math.round(deaths[deaths.length-1]["value"]/cases[cases.length-1]["value"]*100) + '%<p>';
     html=html+'</div>';
     $(id).html(html);
 }
@@ -88,8 +88,8 @@ function generateMap(){
     byRegionName.filterAll();
         
     byWeek.filter(function(d){
-      return lastWeeks.indexOf(d) > -1;
-    });
+        return $.inArray(d.valueOf(), lastWeeks) > -1;
+    });    
  
     var margin = {top: 10, right: 210, bottom: 10, left: 10},
     width = $('#map').width() - margin.left - margin.right,
@@ -122,11 +122,25 @@ function generateMap(){
         .attr("fill",'#ffffff')
         .attr("id",function(d){return d.properties.PCODE_REF;})
         .attr("class","region")
+        .on("mouseover",function(d){
+            d3.select(this).attr("stroke-width",7);
+            d3.select(this).attr("stroke","steelblue");
+            transitionLineChart(d.properties.PCODE_REF,true);
+            transitionTitles(d.properties.NAME_REF,true);
+        })
+        .on("mouseout",function(d){
+            d3.select(this).attr("stroke","#aaaaaa");
+            transitionLineChart(currentFilter,false);
+            transitionTitles(currentFilter,false);
+            if(currentFilter=="Total"){
+                d3.select(this).attr("stroke-width",0);
+            } else {
+                d3.select(this).attr("stroke-width",1);
+            }
+        })        
         .append("svg:title")
-        .text(function(d) { return d.properties.NAME_REF; });
-    
-    sumNewCasesByRegion.all().forEach(function(e) {
-        
+        .text(function(d) { return d.properties.NAME_REF; });   
+    sumNewCasesByRegion.all().forEach(function(e) {  
     if(e.value==0){
                 d3.select("#"+e.key).attr("fill",color[0]);
             } else if(e.value<25){
@@ -309,10 +323,23 @@ function tooltipText(name, country, town, organisation) {
     return text;
 }
 
-function transitionLineChart(filter){
+function transitionLineChart(filter,region){
 
-    var casesdata = cases[filter];
-    var deathsdata = deaths[filter];
+    if(region){
+        byWeek.filterAll();
+        byCountry.filterAll();
+        byRegion.filterAll();
+        byRegionName.filterAll();
+        
+        byRegion.filter(filter);
+        console.log(byWeek.top(Infinity));
+        var casesdata = totalCasesByDate.all();
+        var deathsdata = totalDeathsByDate.all();
+        console.log(casesdata);
+    } else {
+        var casesdata = cases[filter];
+        var deathsdata = deaths[filter];       
+    }
 
     var margin = {top: 20, right: 20, bottom: 25, left: 50},
         width = $("#line_total").width() - margin.left - margin.right,
@@ -333,10 +360,10 @@ function transitionLineChart(filter){
         .orient("left");
 
     var line = d3.svg.line()
-        .x(function(d) { return x(parseDate(d.key)); })
+        .x(function(d) { return x(d.key); })
         .y(function(d) { return y(d.value); });
   
-    x.domain(d3.extent(casesdata,function(d) { return parseDate(d.key); }));
+    x.domain(d3.extent(casesdata,function(d) { return d.key; }));
     y.domain([0,d3.max(casesdata, function(d) { return d.value; })]);
 
     d3.selectAll(".line")
@@ -359,10 +386,10 @@ function transitionLineChart(filter){
 }
 
 
-function transitionTitles(filter){
+function transitionTitles(filter,region){
     var title = filter;
     if(filter==="Total"){title = "Guinea, Liberia and Sierra Leone";}
-    $("#key_stats_title").html("Key Stats for " + title);
+    if(!region){$("#key_stats_title").html("Key Stats for " + title);}
     $("#cul_tot_title").html("Cumulative Total for " + title);
 }
 
@@ -421,10 +448,10 @@ function transitionMap(filter){
 }
 
 function transition(filter){
-    transitionLineChart(filter);
+    transitionLineChart(filter,false);
     generateKeyStats("#key_stats",keyStats[filter],cases[filter],deaths[filter]);
     generateBarChart(filter);    
-    transitionTitles(filter);
+    transitionTitles(filter,false);
     transitionMap(filter);
 }
 
@@ -435,10 +462,9 @@ function generateBarChart(filter){
         byCountry.filterAll();
         byRegion.filterAll();
         byRegionName.filterAll();
-         
-        byWeek.filter(function(d){        
-          return lastWeeks.indexOf(d) > -1;
-        });
+        byWeek.filter(function(d){
+          return $.inArray(d.valueOf(), lastWeeks) > -1;
+        });             
         var data=sumNewCasesByCountry.all();        
     } else {
         byWeek.filterAll();
@@ -448,8 +474,8 @@ function generateBarChart(filter){
         
         byCountry.filter(filter);
         byWeek.filter(function(d){
-          return lastWeeks.indexOf(d) > -1;
-        });
+          return $.inArray(d.valueOf(), lastWeeks) > -1;
+        });        
 
         var datatemp=sumNewCasesByRegionName.all();
         var data =[];
@@ -535,6 +561,21 @@ var currentFilter = "Total";
 var color = {"Sierra Leone":"#f36c60","Liberia":"#b0120a","Guinea":"#dd191d"};
 var duration = 1500;
 var parseDate = d3.time.format("%d/%m/%Y").parse;
+var i;
+for(i=0;i<cases["Total"].length;i++){
+    cases["Total"][i].key = parseDate(cases["Total"][i].key);
+    cases["Liberia"][i].key = parseDate(cases["Liberia"][i].key);
+    cases["Sierra Leone"][i].key = parseDate(cases["Sierra Leone"][i].key);
+    cases["Guinea"][i].key = parseDate(cases["Guinea"][i].key);
+    deaths["Total"][i].key = parseDate(deaths["Total"][i].key);
+    deaths["Liberia"][i].key = parseDate(deaths["Liberia"][i].key);
+    deaths["Sierra Leone"][i].key = parseDate(deaths["Sierra Leone"][i].key);
+    deaths["Guinea"][i].key = parseDate(deaths["Guinea"][i].key);    
+}
+
+for(i=0;i<data.length;i++){
+    data[i].WeekDate=parseDate(data[i].WeekDate)
+}
 
 var cf = crossfilter(data);
 
@@ -542,14 +583,18 @@ byCountry = cf.dimension(function(d){return d.Country;});
 byWeek = cf.dimension(function(d){return d.WeekDate;});
 byRegion = cf.dimension(function(d){return d.PCodeUse;});
 byRegionName = cf.dimension(function(d){return d.Region;});
+byDate = cf.dimension(function(d){return d.WeekDate;});
 
 var sumNewCasesByRegionName = byRegionName.group().reduceSum(function(d){return d.NewCases;});
 var sumNewCasesByRegion = byRegion.group().reduceSum(function(d){return d.NewCases;});
 var sumNewCasesByCountry = byCountry.group().reduceSum(function(d){return d.NewCases;});
+var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeCases;});
+//var totalCasesByDate = byDate.group();
+var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
-var lastWeeks = ["08/12/2014","01/12/2014"];
+var lastWeeks = [parseDate("08/12/2014").valueOf(),parseDate("01/12/2014").valueOf()];
 
-$('#update_date').html(parseDate(cases['Total'][0]['key']).toDateString()); 
+$('#update_date').html(cases['Total'][cases['Total'].length-1]['key'].toDateString()); 
 generateLineChart();
 generateKeyStats("#key_stats",keyStats["Total"],cases["Total"],deaths['Total']);
 generateBarChart(currentFilter);
