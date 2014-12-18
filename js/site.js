@@ -43,12 +43,34 @@ function generateLineChart(){
     svg.append("g")
         .attr("class", "yaxis axis")
         .call(yAxis)
-        .append("text")
-        .attr("transform", "rotate(-90)")
-        .attr("y", 6)
+
+    var g = svg.append("g");
+        
+    g.append("text")
+        .attr("x", 40)
+        .attr("y", 0)
         .attr("dy", ".71em")
-        .style("text-anchor", "end")
         .text("Cases");
+
+    g.append("rect")
+        .attr("x", 25)
+        .attr("y", 0)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill","steelblue");
+
+    g.append("text")
+        .attr("x", 40)
+        .attr("y", 20)
+        .attr("dy", ".71em")
+        .text("Deaths");
+
+    g.append("rect")
+        .attr("x", 25)
+        .attr("y", 20)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill","red");
 
     svg.append("path")
         .datum(cases['Total'])
