@@ -266,7 +266,7 @@ var cases =
   },
   {
     "key":"14/12/2014",
-    "value":18569
+    "value":18590
   }
 ],
 "Guinea":[
@@ -806,7 +806,7 @@ var cases =
   },
   {
     "key":"14/12/2014",
-    "value":7797
+    "value":7819
   }
 ],
 "Sierra Leone":[
@@ -1347,7 +1347,7 @@ var deaths =
   },
   {
     "key":"14/12/2014",
-    "value":7323
+    "value":7288
   }
 ],
 "Guinea":[
@@ -1887,7 +1887,7 @@ var deaths =
   },
   {
     "key":"14/12/2014",
-    "value":3290
+    "value":3346
   }
 ],
 "Sierra Leone":[

@@ -614,7 +614,7 @@ var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeC
 //var totalCasesByDate = byDate.group();
 var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
-var lastWeeks = [parseDate("08/12/2014").valueOf(),parseDate("01/12/2014").valueOf()];
+var lastWeeks = [parseDate("15/12/2014").valueOf(),parseDate("08/12/2014").valueOf()];
 
 $('#update_date').html(cases['Total'][cases['Total'].length-1]['key'].toDateString()); 
 generateLineChart();
