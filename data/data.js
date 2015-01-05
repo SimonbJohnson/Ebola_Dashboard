@@ -7,7 +7,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -19,7 +19,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":58.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -31,7 +31,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":44.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -43,7 +43,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.4,
+    "MortalityRate":47.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -55,7 +55,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81.2,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -67,7 +67,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.2,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -79,7 +79,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -91,7 +91,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.5,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -103,7 +103,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.1,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -115,7 +115,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.8,
+    "MortalityRate":52,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -127,7 +127,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.8,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -139,7 +139,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":61.5,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -151,7 +151,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -163,7 +163,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":64.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -175,7 +175,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -187,7 +187,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -199,7 +199,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81.8,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -211,7 +211,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -223,7 +223,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":48.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -235,7 +235,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -247,7 +247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -259,7 +259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.3,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -271,7 +271,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.3,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -283,7 +283,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.7,
+    "MortalityRate":71.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -295,7 +295,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.8,
+    "MortalityRate":81.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -307,7 +307,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":56.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -319,7 +319,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -331,7 +331,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":58.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -343,7 +343,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":57.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -355,7 +355,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52,
+    "MortalityRate":55.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -367,7 +367,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":56.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -379,7 +379,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":57.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -391,7 +391,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":57.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -403,7 +403,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":64.3,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -415,7 +415,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.3,
+    "MortalityRate":64.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -439,7 +439,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -451,7 +451,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -463,7 +463,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.3,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008001"
   },
@@ -636,6 +636,18 @@ var data = [
     "PCodeUse":"GIN008001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Beyla",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":46.6,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Bo",
@@ -643,7 +655,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -655,7 +667,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.8,
+    "MortalityRate":33.5,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -667,7 +679,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.5,
+    "MortalityRate":31.2,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -679,7 +691,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.3,
+    "MortalityRate":32.5,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -691,7 +703,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":40,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -703,7 +715,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -1003,7 +1015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -1268,6 +1280,18 @@ var data = [
     "CumulativeCases":483,
     "CumulativeDeaths":157,
     "MortalityRate":32.5,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0301"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bo",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":31.5,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0301"
   },
@@ -1908,6 +1932,18 @@ var data = [
     "PCodeUse":"GIN001001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Boffa",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Boke",
@@ -1915,7 +1951,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1927,7 +1963,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1939,7 +1975,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":90,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1951,7 +1987,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":12.5,
+    "MortalityRate":60.2,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1963,7 +1999,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1975,7 +2011,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1987,7 +2023,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":18.2,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -1999,7 +2035,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2011,7 +2047,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":63.5,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2023,7 +2059,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2035,7 +2071,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2047,7 +2083,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2059,7 +2095,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2119,7 +2155,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2131,7 +2167,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2143,7 +2179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":90,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2155,7 +2191,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2191,7 +2227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":22.2,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2203,7 +2239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2215,7 +2251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":63.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2227,7 +2263,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2239,7 +2275,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2251,7 +2287,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2263,7 +2299,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.8,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2383,7 +2419,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":12.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2395,7 +2431,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":12.5,
     "PCodeAdmin1":"GIN001",
     "PCodeUse":"GIN001002"
   },
@@ -2544,6 +2580,18 @@ var data = [
     "PCodeUse":"GIN001002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Boke",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001002"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Bombali",
@@ -2551,7 +2599,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.6,
+    "MortalityRate":26.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2563,7 +2611,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.1,
+    "MortalityRate":25.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2575,7 +2623,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.3,
+    "MortalityRate":25.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2587,7 +2635,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.5,
+    "MortalityRate":25.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2599,7 +2647,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2611,7 +2659,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.4,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2623,7 +2671,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.8,
+    "MortalityRate":27.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2635,7 +2683,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.1,
+    "MortalityRate":27.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2647,7 +2695,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24,
+    "MortalityRate":25.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2659,7 +2707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.2,
+    "MortalityRate":24.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2671,7 +2719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":23.9,
+    "MortalityRate":24.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2683,7 +2731,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.4,
+    "MortalityRate":25,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2695,7 +2743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.5,
+    "MortalityRate":24,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2707,7 +2755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.7,
+    "MortalityRate":21,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2719,7 +2767,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.7,
+    "MortalityRate":21.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2731,7 +2779,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.2,
+    "MortalityRate":22.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2743,7 +2791,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":23.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2755,7 +2803,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":27.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2767,7 +2815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":35.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -2779,7 +2827,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0201"
   },
@@ -3180,6 +3228,18 @@ var data = [
     "PCodeUse":"SLE0201"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bombali",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":25.8,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0201"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"Bomi",
@@ -3187,7 +3247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":32,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3199,7 +3259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3211,7 +3271,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.6,
+    "MortalityRate":10.5,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3223,7 +3283,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.3,
+    "MortalityRate":34.5,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3235,7 +3295,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30.8,
+    "MortalityRate":31.7,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3247,7 +3307,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.6,
+    "MortalityRate":34.1,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3259,7 +3319,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":52.7,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3271,7 +3331,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.8,
+    "MortalityRate":54,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3283,7 +3343,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.8,
+    "MortalityRate":63.5,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3295,7 +3355,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.4,
+    "MortalityRate":65.5,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3307,7 +3367,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":67.1,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3319,7 +3379,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.3,
+    "MortalityRate":77.6,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3331,7 +3391,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":79.3,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3343,7 +3403,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":73.4,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3355,7 +3415,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":72.6,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3367,7 +3427,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":45.1,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3379,7 +3439,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":48.4,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3391,7 +3451,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.3,
+    "MortalityRate":48.7,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3403,7 +3463,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":20,
+    "MortalityRate":55.1,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3415,7 +3475,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.4,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3427,7 +3487,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":54.1,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3439,7 +3499,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":53.9,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3451,7 +3511,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.9,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3463,7 +3523,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":56.4,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3475,7 +3535,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":41.3,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3487,7 +3547,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":35.2,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3499,7 +3559,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":25.5,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3511,7 +3571,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.8,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3809,9 +3869,21 @@ var data = [
     "Region":"Bomi",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":296,
+    "CumulativeDeaths":167,
+    "MortalityRate":56.4,
+    "PCodeAdmin1":"LBR01",
+    "PCodeUse":"LBR01"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Bomi",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR01",
     "PCodeUse":"LBR01"
   },
@@ -3823,7 +3895,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":76.9,
+    "MortalityRate":20.5,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3835,7 +3907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":18.6,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3847,7 +3919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.2,
+    "MortalityRate":26.2,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3859,7 +3931,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.5,
+    "MortalityRate":29,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3871,7 +3943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.6,
+    "MortalityRate":32,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3883,7 +3955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.4,
+    "MortalityRate":29.1,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3895,7 +3967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.7,
+    "MortalityRate":26.6,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3907,7 +3979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.9,
+    "MortalityRate":29.3,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3919,7 +3991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.9,
+    "MortalityRate":30.8,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3931,7 +4003,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.2,
+    "MortalityRate":33.6,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3943,7 +4015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3955,7 +4027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":37.8,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3967,7 +4039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":37.8,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3979,7 +4051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":25.4,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -3991,7 +4063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":29.9,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4087,7 +4159,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4099,7 +4171,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.3,
+    "MortalityRate":81.8,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4111,7 +4183,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":13.3,
+    "MortalityRate":87.5,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4123,7 +4195,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":13.3,
+    "MortalityRate":79.3,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4135,7 +4207,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30,
+    "MortalityRate":59.1,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4147,7 +4219,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR02",
     "PCodeUse":"LBR02"
   },
@@ -4443,6 +4515,18 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Bong",
+    "NewCases":2,
+    "NewDeaths":0,
+    "CumulativeCases":562,
+    "CumulativeDeaths":137,
+    "MortalityRate":24.4,
+    "PCodeAdmin1":"LBR02",
+    "PCodeUse":"LBR02"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Bong",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -4459,7 +4543,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4471,7 +4555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4747,7 +4831,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4771,7 +4855,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":100,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4783,7 +4867,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4795,7 +4879,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":100,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -4819,7 +4903,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0302"
   },
@@ -5088,6 +5172,18 @@ var data = [
     "PCodeUse":"SLE0302"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bonthe",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0302"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Conakry",
@@ -5203,7 +5299,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":45.3,
     "PCodeAdmin1":"GIN002",
     "PCodeUse":"GIN002001"
   },
@@ -5215,7 +5311,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30,
+    "MortalityRate":43.4,
     "PCodeAdmin1":"GIN002",
     "PCodeUse":"GIN002001"
   },
@@ -5227,7 +5323,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN002",
     "PCodeUse":"GIN002001"
   },
@@ -5239,7 +5335,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.4,
+    "MortalityRate":30,
     "PCodeAdmin1":"GIN002",
     "PCodeUse":"GIN002001"
   },
@@ -5275,7 +5371,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48,
+    "MortalityRate":45.3,
     "PCodeAdmin1":"GIN002",
     "PCodeUse":"GIN002001"
   },
@@ -5724,6 +5820,18 @@ var data = [
     "PCodeUse":"GIN002001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Conakry",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":75,
+    "PCodeAdmin1":"GIN002",
+    "PCodeUse":"GIN002001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Coyah",
@@ -5755,7 +5863,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":12.5,
+    "MortalityRate":46.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5767,7 +5875,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5779,7 +5887,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":90,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5791,7 +5899,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":59.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5803,7 +5911,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":83.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5815,7 +5923,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5827,7 +5935,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":62.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5839,7 +5947,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.7,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5851,7 +5959,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.7,
+    "MortalityRate":59.8,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5863,7 +5971,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.4,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5875,7 +5983,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.7,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5887,7 +5995,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.4,
+    "MortalityRate":64.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5899,7 +6007,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49.3,
+    "MortalityRate":31.9,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5911,7 +6019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.8,
+    "MortalityRate":46.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5923,7 +6031,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5935,7 +6043,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.2,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5947,7 +6055,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.3,
+    "MortalityRate":null,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5959,7 +6067,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5971,7 +6079,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":90,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5983,7 +6091,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.2,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -5995,7 +6103,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.5,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6007,7 +6115,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6019,7 +6127,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":62.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6031,7 +6139,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":31.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6043,7 +6151,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.8,
+    "MortalityRate":46.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6055,7 +6163,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":40.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6067,7 +6175,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":40.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6079,7 +6187,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":64.7,
+    "MortalityRate":48.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6091,7 +6199,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.9,
+    "MortalityRate":49.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6103,7 +6211,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.7,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6115,7 +6223,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":48.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6127,7 +6235,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":48.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6139,7 +6247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":46.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005001"
   },
@@ -6360,6 +6468,18 @@ var data = [
     "PCodeUse":"GIN005001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Coyah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Dabola",
@@ -6451,7 +6571,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003001"
   },
@@ -6463,7 +6583,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003001"
   },
@@ -6487,7 +6607,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003001"
   },
@@ -6499,7 +6619,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003001"
   },
@@ -6996,223 +7116,19 @@ var data = [
     "PCodeUse":"GIN003001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Dabola",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003001"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":12.5,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"03/02/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":22.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"10/02/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":22.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"17/02/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":18.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"24/02/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":18.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"03/03/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":16.7,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"10/03/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":16.7,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"17/03/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":20,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"24/03/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":22.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"31/03/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":22.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"07/04/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":22.2,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"14/04/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":40,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"21/04/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"28/04/2014",
-    "Country":"Guinea",
-    "Region":"Dalaba",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN007",
-    "PCodeUse":"GIN007001"
-  },
-  {
-    "WeekDate":"05/05/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7224,7 +7140,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"12/05/2014",
+    "WeekDate":"06/01/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7236,7 +7152,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"19/05/2014",
+    "WeekDate":"13/01/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7248,7 +7164,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"26/05/2014",
+    "WeekDate":"20/01/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7260,7 +7176,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"02/06/2014",
+    "WeekDate":"27/01/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7272,7 +7188,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"09/06/2014",
+    "WeekDate":"03/02/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7284,7 +7200,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"16/06/2014",
+    "WeekDate":"10/02/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7296,7 +7212,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"23/06/2014",
+    "WeekDate":"17/02/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7308,7 +7224,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"30/06/2014",
+    "WeekDate":"24/02/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7320,7 +7236,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"07/07/2014",
+    "WeekDate":"03/03/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7332,7 +7248,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"14/07/2014",
+    "WeekDate":"10/03/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7344,7 +7260,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"21/07/2014",
+    "WeekDate":"17/03/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7356,7 +7272,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"28/07/2014",
+    "WeekDate":"24/03/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7368,7 +7284,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"04/08/2014",
+    "WeekDate":"31/03/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7380,7 +7296,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"11/08/2014",
+    "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7392,7 +7308,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"18/08/2014",
+    "WeekDate":"14/04/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7404,7 +7320,7 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
-    "WeekDate":"25/08/2014",
+    "WeekDate":"21/04/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -7412,6 +7328,222 @@ var data = [
     "CumulativeCases":0,
     "CumulativeDeaths":0,
     "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"28/04/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"05/05/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"12/05/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"19/05/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"26/05/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"02/06/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":12.5,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"09/06/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"16/06/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"23/06/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":18.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"30/06/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":18.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"07/07/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":16.7,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"14/07/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":16.7,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"21/07/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":20,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"28/07/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"04/08/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"11/08/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"18/08/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"25/08/2014",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":22.2,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007001"
   },
@@ -7632,6 +7764,18 @@ var data = [
     "PCodeUse":"GIN007001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":61.3,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Dinguiraye",
@@ -8268,6 +8412,18 @@ var data = [
     "PCodeUse":"GIN003002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Dinguiraye",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003002"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Dubreka",
@@ -8359,7 +8515,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8371,7 +8527,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8383,7 +8539,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8395,7 +8551,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":19,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8407,7 +8563,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":19,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8419,7 +8575,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":83.1,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8431,7 +8587,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8443,7 +8599,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8455,7 +8611,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.8,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8467,7 +8623,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":58,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8479,7 +8635,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8491,7 +8647,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8503,7 +8659,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":56.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8515,7 +8671,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8551,7 +8707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":19,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8563,7 +8719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":19,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8575,7 +8731,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.1,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8587,7 +8743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8599,7 +8755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8611,7 +8767,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":31.8,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8623,7 +8779,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8635,7 +8791,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8647,7 +8803,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8659,7 +8815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.2,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005002"
   },
@@ -8904,271 +9060,19 @@ var data = [
     "PCodeUse":"GIN005002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Dubreka",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":58.8,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005002"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":47.1,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":54.3,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":59.5,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"03/02/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":72.2,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"10/02/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":75.4,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"17/02/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":54.3,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"24/02/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":18.8,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"03/03/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"10/03/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":66.7,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"17/03/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":58.3,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"24/03/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":44.3,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"31/03/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":47.7,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"07/04/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.8,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"14/04/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"21/04/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"28/04/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":45.5,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"05/05/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"12/05/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"19/05/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":49.8,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"26/05/2014",
-    "Country":"Guinea",
-    "Region":"Faranah",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":51,
-    "PCodeAdmin1":"GIN003",
-    "PCodeUse":"GIN003003"
-  },
-  {
-    "WeekDate":"02/06/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9180,7 +9084,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"09/06/2014",
+    "WeekDate":"06/01/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9192,7 +9096,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"16/06/2014",
+    "WeekDate":"13/01/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9204,7 +9108,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"23/06/2014",
+    "WeekDate":"20/01/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9216,7 +9120,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"30/06/2014",
+    "WeekDate":"27/01/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9228,7 +9132,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"07/07/2014",
+    "WeekDate":"03/02/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9240,7 +9144,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"14/07/2014",
+    "WeekDate":"10/02/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9252,7 +9156,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"21/07/2014",
+    "WeekDate":"17/02/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9264,7 +9168,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"28/07/2014",
+    "WeekDate":"24/02/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9276,7 +9180,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"04/08/2014",
+    "WeekDate":"03/03/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9288,7 +9192,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"11/08/2014",
+    "WeekDate":"10/03/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9300,7 +9204,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"18/08/2014",
+    "WeekDate":"17/03/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9312,7 +9216,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"25/08/2014",
+    "WeekDate":"24/03/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9324,7 +9228,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"01/09/2014",
+    "WeekDate":"31/03/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9336,7 +9240,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"08/09/2014",
+    "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9348,7 +9252,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"15/09/2014",
+    "WeekDate":"14/04/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9360,7 +9264,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"22/09/2014",
+    "WeekDate":"21/04/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9372,7 +9276,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"29/09/2014",
+    "WeekDate":"28/04/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9384,7 +9288,7 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
-    "WeekDate":"06/10/2014",
+    "WeekDate":"05/05/2014",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -9392,6 +9296,270 @@ var data = [
     "CumulativeCases":0,
     "CumulativeDeaths":0,
     "MortalityRate":55.4,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"12/05/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"19/05/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"26/05/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"02/06/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"09/06/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":47.1,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"16/06/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":52,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"23/06/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":54.3,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"30/06/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":59.5,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"07/07/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":72.2,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"14/07/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":75.4,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"21/07/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":74.2,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"28/07/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":77.8,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"04/08/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":11.1,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"11/08/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":18.8,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"18/08/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":34.8,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"25/08/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":44.4,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"01/09/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":57.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"08/09/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"15/09/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":58.3,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"22/09/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":44.3,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"29/09/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":47.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"06/10/2014",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003003"
   },
@@ -9540,6 +9708,18 @@ var data = [
     "PCodeUse":"GIN003003"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":55.3,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Forecariah",
@@ -9631,7 +9811,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.9,
+    "MortalityRate":51.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9643,7 +9823,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":61.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9655,7 +9835,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":55.9,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9667,7 +9847,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70,
+    "MortalityRate":82,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9679,7 +9859,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.2,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9691,7 +9871,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.2,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9703,7 +9883,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.8,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9715,7 +9895,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":64.7,
+    "MortalityRate":51.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9727,7 +9907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9739,7 +9919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.2,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9751,7 +9931,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":63.6,
+    "MortalityRate":56.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9763,7 +9943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":63.6,
+    "MortalityRate":21.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9775,7 +9955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.2,
+    "MortalityRate":62.5,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9787,7 +9967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.7,
+    "MortalityRate":18.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9799,7 +9979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.5,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9811,7 +9991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":61.5,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9823,7 +10003,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.9,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9835,7 +10015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82,
+    "MortalityRate":70,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9847,7 +10027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":56.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9859,7 +10039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":56.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9871,7 +10051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":58.8,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9883,7 +10063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.4,
+    "MortalityRate":64.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9895,7 +10075,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9907,7 +10087,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":72.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9919,7 +10099,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.2,
+    "MortalityRate":63.6,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9931,7 +10111,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.2,
+    "MortalityRate":63.6,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9943,7 +10123,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":62.5,
+    "MortalityRate":65.2,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -9955,7 +10135,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":18.2,
+    "MortalityRate":57.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005003"
   },
@@ -10176,6 +10356,18 @@ var data = [
     "PCodeUse":"GIN005003"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Forecariah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.8,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005003"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"Gbarpolu",
@@ -10183,7 +10375,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10195,7 +10387,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10207,7 +10399,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10219,7 +10411,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10231,7 +10423,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.2,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10243,7 +10435,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.7,
+    "MortalityRate":30,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10255,7 +10447,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.3,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10267,7 +10459,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.6,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10279,7 +10471,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10291,7 +10483,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.1,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10315,7 +10507,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.6,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10327,7 +10519,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10339,7 +10531,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":27,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10351,7 +10543,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10363,7 +10555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10375,7 +10567,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10387,7 +10579,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":112.5,
+    "MortalityRate":32.9,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10399,7 +10591,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":112.5,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10411,7 +10603,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":125,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10423,7 +10615,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":68.8,
+    "MortalityRate":60.5,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10435,7 +10627,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.8,
+    "MortalityRate":46.7,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10447,7 +10639,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.8,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10459,7 +10651,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81,
+    "MortalityRate":78,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10471,7 +10663,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10483,7 +10675,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81,
+    "MortalityRate":49.4,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10495,7 +10687,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81,
+    "MortalityRate":27.8,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10507,7 +10699,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.6,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10519,7 +10711,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10531,7 +10723,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":39.7,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10543,7 +10735,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44,
+    "MortalityRate":62.5,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10555,7 +10747,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.2,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10567,7 +10759,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10579,7 +10771,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":41.5,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10591,7 +10783,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":74.1,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10805,9 +10997,21 @@ var data = [
     "Region":"Gbarpolu",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":34,
+    "CumulativeDeaths":12,
+    "MortalityRate":35.3,
+    "PCodeAdmin1":"LBR03",
+    "PCodeUse":"LBR03"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Gbarpolu",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR03",
     "PCodeUse":"LBR03"
   },
@@ -10819,7 +11023,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81.8,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10831,7 +11035,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":87.5,
+    "MortalityRate":14.3,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10843,7 +11047,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":79.3,
+    "MortalityRate":13.3,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10855,7 +11059,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.1,
+    "MortalityRate":13.3,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10867,7 +11071,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":30,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10879,7 +11083,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":41.3,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10891,7 +11095,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":35.2,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10903,7 +11107,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49.8,
+    "MortalityRate":25.5,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10915,7 +11119,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":68.6,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10927,7 +11131,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.8,
+    "MortalityRate":29.1,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10939,7 +11143,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.7,
+    "MortalityRate":29,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10951,7 +11155,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.1,
+    "MortalityRate":28.6,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10963,7 +11167,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":32,
+    "MortalityRate":40.5,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10975,7 +11179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":13.3,
+    "MortalityRate":40,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10987,7 +11191,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":87.5,
+    "MortalityRate":39,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -10999,7 +11203,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":40.4,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11011,7 +11215,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":44.6,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11023,7 +11227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":43.2,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11035,7 +11239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":42.2,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11047,7 +11251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":43.4,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11059,7 +11263,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":44,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11071,7 +11275,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11083,7 +11287,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11095,7 +11299,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":87.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11107,7 +11311,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11119,7 +11323,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":85.7,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11131,7 +11335,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.4,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11143,7 +11347,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11155,7 +11359,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11167,7 +11371,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":76.9,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11179,7 +11383,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":45.1,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11439,11 +11643,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Grand Bassa",
+    "NewCases":2,
+    "NewDeaths":2,
+    "CumulativeCases":177,
+    "CumulativeDeaths":79,
+    "MortalityRate":44.6,
+    "PCodeAdmin1":"LBR04",
+    "PCodeUse":"LBR04"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Grand Bassa",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR04",
     "PCodeUse":"LBR04"
   },
@@ -11455,7 +11671,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":60,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11467,7 +11683,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11479,7 +11695,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":87.5,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11491,7 +11707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11503,7 +11719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":85.7,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11515,7 +11731,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":82.4,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11527,7 +11743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":82.4,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11539,7 +11755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":82.4,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11551,7 +11767,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.1,
+    "MortalityRate":76.9,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11563,7 +11779,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.2,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11575,7 +11791,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":73.2,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11587,7 +11803,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":47.5,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11599,7 +11815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":56.6,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11611,7 +11827,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":76.2,
+    "MortalityRate":55.4,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11623,7 +11839,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":55.7,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11671,7 +11887,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":55.5,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11683,7 +11899,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":57.2,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11695,7 +11911,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11707,7 +11923,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11719,7 +11935,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11731,7 +11947,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11743,7 +11959,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":87.6,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11755,7 +11971,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11767,7 +11983,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":34.5,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11779,7 +11995,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":38.5,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11791,7 +12007,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":18.6,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11803,7 +12019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -11815,7 +12031,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81.8,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -12075,11 +12291,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Grand Cape Mount",
+    "NewCases":9,
+    "NewDeaths":0,
+    "CumulativeCases":203,
+    "CumulativeDeaths":111,
+    "MortalityRate":54.7,
+    "PCodeAdmin1":"LBR05",
+    "PCodeUse":"LBR05"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Grand Cape Mount",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR05",
     "PCodeUse":"LBR05"
   },
@@ -12091,7 +12319,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12103,7 +12331,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12115,7 +12343,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12127,7 +12355,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":68.8,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12139,7 +12367,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12151,7 +12379,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.7,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12163,7 +12391,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12175,7 +12403,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12187,7 +12415,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":78.6,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12199,7 +12427,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12211,7 +12439,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12223,7 +12451,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12235,7 +12463,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12247,7 +12475,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12259,7 +12487,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":112.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12271,7 +12499,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":112.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12307,7 +12535,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12319,7 +12547,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12331,7 +12559,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12343,7 +12571,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12355,7 +12583,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.3,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12367,7 +12595,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.6,
+    "MortalityRate":81.8,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12379,7 +12607,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.6,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12391,7 +12619,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.6,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12403,7 +12631,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12415,7 +12643,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":62.5,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12427,7 +12655,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12439,7 +12667,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12463,7 +12691,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":74.1,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12475,7 +12703,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12713,9 +12941,21 @@ var data = [
     "Region":"Grand Gedeh",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":11,
+    "CumulativeDeaths":6,
+    "MortalityRate":54.5,
+    "PCodeAdmin1":"LBR06",
+    "PCodeUse":"LBR06"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Grand Gedeh",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -12727,7 +12967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.7,
+    "MortalityRate":62.5,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12739,7 +12979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.3,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12751,7 +12991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":65.4,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12763,7 +13003,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":41.5,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12775,7 +13015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.4,
+    "MortalityRate":74.1,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12787,7 +13027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.1,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12799,7 +13039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.8,
+    "MortalityRate":75.8,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12811,7 +13051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.1,
+    "MortalityRate":73.5,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12823,7 +13063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.4,
+    "MortalityRate":74.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12835,7 +13075,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39.4,
+    "MortalityRate":74.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12847,7 +13087,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39.7,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12859,7 +13099,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12871,7 +13111,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":75,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12883,7 +13123,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":43.2,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12895,7 +13135,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44,
+    "MortalityRate":null,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12907,7 +13147,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.2,
+    "MortalityRate":null,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12919,7 +13159,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":28.8,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12931,7 +13171,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":39,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12943,7 +13183,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":43.4,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12955,7 +13195,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12967,7 +13207,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.7,
+    "MortalityRate":49.6,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12979,7 +13219,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":49.1,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -12991,7 +13231,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":52.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13003,7 +13243,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.4,
+    "MortalityRate":51.8,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13015,7 +13255,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.6,
+    "MortalityRate":51,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13027,7 +13267,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":50.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13039,7 +13279,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.1,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13051,7 +13291,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39,
+    "MortalityRate":46,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13063,7 +13303,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":45.2,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13075,7 +13315,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13087,7 +13327,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":32.9,
+    "MortalityRate":44.2,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13099,7 +13339,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.1,
+    "MortalityRate":44.7,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13111,7 +13351,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.7,
+    "MortalityRate":44.3,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13123,7 +13363,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13135,7 +13375,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":43.5,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13147,7 +13387,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13159,7 +13399,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":14.6,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13171,7 +13411,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13183,7 +13423,7 @@ var data = [
     "NewDeaths":5,
     "CumulativeCases":0,
     "CumulativeDeaths":5,
-    "MortalityRate":100,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13349,9 +13589,21 @@ var data = [
     "Region":"Grand Kru",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":36,
+    "CumulativeDeaths":27,
+    "MortalityRate":75,
+    "PCodeAdmin1":"LBR07",
+    "PCodeUse":"LBR07"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Grand Kru",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.2,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR07",
     "PCodeUse":"LBR07"
   },
@@ -13363,7 +13615,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70,
+    "MortalityRate":71.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13387,7 +13639,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.3,
+    "MortalityRate":75.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13399,7 +13651,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.7,
+    "MortalityRate":77.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13411,7 +13663,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.4,
+    "MortalityRate":78.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13423,7 +13675,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.1,
+    "MortalityRate":83.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13435,7 +13687,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13447,7 +13699,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.6,
+    "MortalityRate":70,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13459,7 +13711,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.7,
+    "MortalityRate":85.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13471,7 +13723,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75.3,
+    "MortalityRate":71.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13483,7 +13735,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.2,
+    "MortalityRate":70.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13495,7 +13747,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":78.3,
+    "MortalityRate":72.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13507,7 +13759,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.1,
+    "MortalityRate":71.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13543,7 +13795,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":85.8,
+    "MortalityRate":73.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -13992,187 +14244,19 @@ var data = [
     "PCodeUse":"GIN008002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Guéckédou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008002"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":null,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":null,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":28.8,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":39,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":43.4,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"03/02/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.8,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"10/02/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":49.6,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"17/02/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":49.1,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"24/02/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52.3,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"03/03/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":51.8,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"10/03/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":51,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"17/03/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":50.3,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"24/03/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.2,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"31/03/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"07/04/2014",
-    "Country":"Sierra Leone",
-    "Region":"Kailahun",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":45.2,
-    "PCodeAdmin1":"SLE01",
-    "PCodeUse":"SLE0101"
-  },
-  {
-    "WeekDate":"14/04/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
     "NewCases":0,
@@ -14184,43 +14268,55 @@ var data = [
     "PCodeUse":"SLE0101"
   },
   {
-    "WeekDate":"21/04/2014",
+    "WeekDate":"06/01/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.2,
+    "MortalityRate":44,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
   {
-    "WeekDate":"28/04/2014",
+    "WeekDate":"13/01/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.7,
+    "MortalityRate":43.2,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
   {
-    "WeekDate":"05/05/2014",
+    "WeekDate":"20/01/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.3,
+    "MortalityRate":43.6,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
   {
-    "WeekDate":"12/05/2014",
+    "WeekDate":"27/01/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.8,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"03/02/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
     "NewCases":0,
@@ -14232,6 +14328,174 @@ var data = [
     "PCodeUse":"SLE0101"
   },
   {
+    "WeekDate":"10/02/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.8,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"17/02/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.7,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"24/02/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.6,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"03/03/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.6,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"10/03/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":43.4,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"17/03/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":41.1,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"24/03/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":41.1,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"31/03/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"07/04/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"14/04/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"21/04/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":2.9,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"28/04/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":7.7,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"05/05/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":6.4,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
+    "WeekDate":"12/05/2014",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":5.5,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
     "WeekDate":"19/05/2014",
     "Country":"Sierra Leone",
     "Region":"Kailahun",
@@ -14239,7 +14503,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.5,
+    "MortalityRate":5.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
@@ -14275,7 +14539,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":47.6,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
@@ -14347,7 +14611,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.3,
+    "MortalityRate":32.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
@@ -14359,7 +14623,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":29.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0101"
   },
@@ -14628,6 +14892,18 @@ var data = [
     "PCodeUse":"SLE0101"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":50.3,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Kambia",
@@ -14635,7 +14911,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14647,7 +14923,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":52,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14659,7 +14935,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14671,7 +14947,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14683,7 +14959,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":41.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14695,7 +14971,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":7.1,
+    "MortalityRate":40.6,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14707,7 +14983,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":11.8,
+    "MortalityRate":37.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14719,7 +14995,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":39,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14731,7 +15007,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":78,
+    "MortalityRate":36.6,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14743,7 +15019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60.9,
+    "MortalityRate":39.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14755,7 +15031,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.9,
+    "MortalityRate":5.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14767,7 +15043,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.3,
+    "MortalityRate":5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14779,7 +15055,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.6,
+    "MortalityRate":5.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14791,7 +15067,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.4,
+    "MortalityRate":29,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14803,7 +15079,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.3,
+    "MortalityRate":34.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14815,7 +15091,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.7,
+    "MortalityRate":30.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14827,7 +15103,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.8,
+    "MortalityRate":31.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14839,7 +15115,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.1,
+    "MortalityRate":27.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14851,7 +15127,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24,
+    "MortalityRate":26.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14863,7 +15139,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.2,
+    "MortalityRate":25.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14875,7 +15151,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":23.9,
+    "MortalityRate":25.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14887,7 +15163,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":25.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14899,7 +15175,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14911,7 +15187,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.7,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -14983,7 +15259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0202"
   },
@@ -15264,283 +15540,19 @@ var data = [
     "PCodeUse":"SLE0202"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kambia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":78,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0202"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":11.1,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":18.8,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":34.8,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":44.4,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":57.7,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"03/02/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":66.7,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"10/02/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":58.3,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"17/02/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":44.3,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"24/02/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":47.7,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"03/03/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.8,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"10/03/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"17/03/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"24/03/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":45.5,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"31/03/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":46.6,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"07/04/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"14/04/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":49.8,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"21/04/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":51,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"28/04/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52.6,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"05/05/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52.7,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"12/05/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":53.5,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"19/05/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":54.9,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"26/05/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":54.8,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"02/06/2014",
-    "Country":"Guinea",
-    "Region":"Kankan",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":55.3,
-    "PCodeAdmin1":"GIN004",
-    "PCodeUse":"GIN004001"
-  },
-  {
-    "WeekDate":"09/06/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15552,7 +15564,7 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
-    "WeekDate":"16/06/2014",
+    "WeekDate":"06/01/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15564,7 +15576,7 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
-    "WeekDate":"23/06/2014",
+    "WeekDate":"13/01/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15576,7 +15588,7 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
-    "WeekDate":"30/06/2014",
+    "WeekDate":"20/01/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15588,7 +15600,7 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
-    "WeekDate":"07/07/2014",
+    "WeekDate":"27/01/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15600,7 +15612,7 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
-    "WeekDate":"14/07/2014",
+    "WeekDate":"03/02/2014",
     "Country":"Guinea",
     "Region":"Kankan",
     "NewCases":0,
@@ -15608,6 +15620,282 @@ var data = [
     "CumulativeCases":0,
     "CumulativeDeaths":0,
     "MortalityRate":59.5,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"10/02/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":59.5,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"17/02/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":59.7,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"24/02/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"03/03/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":76.9,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"10/03/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":40.4,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"17/03/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":55.7,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"24/03/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":59.1,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"31/03/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":36.4,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"07/04/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":42.1,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"14/04/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":35.5,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"21/04/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":25,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"28/04/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":81,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"05/05/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":73.5,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"12/05/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"19/05/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"26/05/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"02/06/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":20,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"09/06/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":11.1,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"16/06/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":18.8,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"23/06/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":34.8,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"30/06/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":44.4,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"07/07/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":57.7,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
+    "WeekDate":"14/07/2014",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":57.1,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15619,7 +15907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.5,
+    "MortalityRate":56.7,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15631,7 +15919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.7,
+    "MortalityRate":34.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15655,7 +15943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":76.9,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15667,7 +15955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15679,7 +15967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.7,
+    "MortalityRate":76.9,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15691,7 +15979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.1,
+    "MortalityRate":85.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15703,7 +15991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":80.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15715,7 +16003,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":78.6,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15727,7 +16015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.5,
+    "MortalityRate":67.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15739,7 +16027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":87.6,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15751,7 +16039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81,
+    "MortalityRate":76.2,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15763,7 +16051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.5,
+    "MortalityRate":80.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004001"
   },
@@ -15900,6 +16188,18 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Kenema",
@@ -15907,7 +16207,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15919,7 +16219,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":46,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15931,7 +16231,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":45.2,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15943,7 +16243,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":2.9,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15955,7 +16255,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":7.7,
+    "MortalityRate":44.2,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15967,7 +16267,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":6.4,
+    "MortalityRate":44.7,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15979,7 +16279,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.5,
+    "MortalityRate":44.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -15991,7 +16291,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.3,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16003,7 +16303,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":4.8,
+    "MortalityRate":43.5,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16015,7 +16315,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16027,7 +16327,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.6,
+    "MortalityRate":42,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16039,7 +16339,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":41.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16051,7 +16351,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.1,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16063,7 +16363,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16075,7 +16375,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16087,7 +16387,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16099,7 +16399,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":32.9,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16111,7 +16411,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.1,
+    "MortalityRate":10,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16123,7 +16423,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.7,
+    "MortalityRate":5.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16135,7 +16435,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.4,
+    "MortalityRate":4,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16147,7 +16447,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":78,
+    "MortalityRate":85.7,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16159,7 +16459,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60.9,
+    "MortalityRate":80,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16183,7 +16483,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.3,
+    "MortalityRate":52,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16195,7 +16495,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.6,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16255,7 +16555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":20,
+    "MortalityRate":39,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16267,7 +16567,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":8.7,
+    "MortalityRate":27.4,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -16536,6 +16836,18 @@ var data = [
     "PCodeUse":"SLE0102"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kenema",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":47.6,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0102"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Kerouane",
@@ -16603,7 +16915,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":57.9,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16615,7 +16927,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":9.1,
+    "MortalityRate":90,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16627,7 +16939,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":10.5,
+    "MortalityRate":55.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16639,7 +16951,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.7,
+    "MortalityRate":82.1,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16651,7 +16963,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.7,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16663,7 +16975,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.2,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16675,7 +16987,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.6,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16687,7 +16999,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.9,
+    "MortalityRate":57.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16699,7 +17011,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16711,7 +17023,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":31.8,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16723,7 +17035,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":53.1,
+    "MortalityRate":58.8,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16735,7 +17047,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49,
+    "MortalityRate":25.6,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16747,7 +17059,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.3,
+    "MortalityRate":31.7,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16759,7 +17071,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16771,7 +17083,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.9,
+    "MortalityRate":22.2,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16783,7 +17095,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.9,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16795,7 +17107,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":90,
+    "MortalityRate":9.1,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16807,7 +17119,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.5,
+    "MortalityRate":10.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16819,7 +17131,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.1,
+    "MortalityRate":22.7,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16831,7 +17143,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":21.7,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16843,7 +17155,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":21.2,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16855,7 +17167,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":25.6,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16867,7 +17179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.4,
+    "MortalityRate":31.9,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16879,7 +17191,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16891,7 +17203,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.8,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16903,7 +17215,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.8,
+    "MortalityRate":53.1,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16915,7 +17227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.6,
+    "MortalityRate":49,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16927,7 +17239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.7,
+    "MortalityRate":55.3,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16939,7 +17251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":58.2,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -16951,7 +17263,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":58.9,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004002"
   },
@@ -17172,235 +17484,19 @@ var data = [
     "PCodeUse":"GIN004002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Kerouane",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":46.8,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004002"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"03/02/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":0,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"10/02/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":18.2,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"17/02/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":14.3,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"24/02/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":11.8,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"03/03/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":40,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"10/03/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":48,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"17/03/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":44.8,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"24/03/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":69.2,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"31/03/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":38.5,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"07/04/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":39.7,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"14/04/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"21/04/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":100,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"28/04/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":81.8,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"05/05/2014",
-    "Country":"Guinea",
-    "Region":"Kindia",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":61.3,
-    "PCodeAdmin1":"GIN005",
-    "PCodeUse":"GIN005005"
-  },
-  {
-    "WeekDate":"12/05/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17412,7 +17508,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"19/05/2014",
+    "WeekDate":"06/01/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17424,7 +17520,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"26/05/2014",
+    "WeekDate":"13/01/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17436,7 +17532,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"02/06/2014",
+    "WeekDate":"20/01/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17448,7 +17544,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"09/06/2014",
+    "WeekDate":"27/01/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17460,7 +17556,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"16/06/2014",
+    "WeekDate":"03/02/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17472,7 +17568,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"23/06/2014",
+    "WeekDate":"10/02/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17484,7 +17580,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"30/06/2014",
+    "WeekDate":"17/02/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17496,7 +17592,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"07/07/2014",
+    "WeekDate":"24/02/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17508,7 +17604,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"14/07/2014",
+    "WeekDate":"03/03/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17520,7 +17616,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"21/07/2014",
+    "WeekDate":"10/03/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17532,7 +17628,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"28/07/2014",
+    "WeekDate":"17/03/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17544,7 +17640,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"04/08/2014",
+    "WeekDate":"24/03/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17556,7 +17652,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"11/08/2014",
+    "WeekDate":"31/03/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17568,7 +17664,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"18/08/2014",
+    "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17580,7 +17676,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"25/08/2014",
+    "WeekDate":"14/04/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17592,7 +17688,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"01/09/2014",
+    "WeekDate":"21/04/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17604,7 +17700,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"08/09/2014",
+    "WeekDate":"28/04/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17616,7 +17712,7 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
-    "WeekDate":"15/09/2014",
+    "WeekDate":"05/05/2014",
     "Country":"Guinea",
     "Region":"Kindia",
     "NewCases":0,
@@ -17624,6 +17720,234 @@ var data = [
     "CumulativeCases":0,
     "CumulativeDeaths":0,
     "MortalityRate":81.2,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"12/05/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"19/05/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"26/05/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"02/06/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"09/06/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"16/06/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"23/06/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":18.2,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"30/06/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":14.3,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"07/07/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":11.8,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"14/07/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":40,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"21/07/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":48,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"28/07/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":44.8,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"04/08/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":69.2,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"11/08/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":64.6,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"18/08/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":61.7,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"25/08/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"01/09/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":37.5,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"08/09/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"15/09/2014",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":71.4,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005005"
   },
@@ -17808,6 +18132,18 @@ var data = [
     "PCodeUse":"GIN005005"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":40,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Kissidougou",
@@ -17851,7 +18187,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":83.3,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17863,7 +18199,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":83.3,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17887,7 +18223,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":71.4,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17899,7 +18235,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":71.4,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17911,7 +18247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17923,7 +18259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17935,7 +18271,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":83.3,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17947,7 +18283,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.4,
+    "MortalityRate":83.3,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17959,7 +18295,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.4,
+    "MortalityRate":83.3,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -17995,7 +18331,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":83.3,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN003",
     "PCodeUse":"GIN003004"
   },
@@ -18444,6 +18780,18 @@ var data = [
     "PCodeUse":"GIN003004"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Kissidougou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":72.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003004"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Koinadugu",
@@ -18451,7 +18799,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.1,
+    "MortalityRate":60.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18463,7 +18811,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5,
+    "MortalityRate":48.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18475,7 +18823,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.4,
+    "MortalityRate":42.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18487,7 +18835,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29,
+    "MortalityRate":42.6,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18499,7 +18847,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.1,
+    "MortalityRate":41.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18511,7 +18859,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30.1,
+    "MortalityRate":41.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18523,7 +18871,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.1,
+    "MortalityRate":42.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18535,7 +18883,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.4,
+    "MortalityRate":39.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18547,7 +18895,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.2,
+    "MortalityRate":37.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18559,7 +18907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.5,
+    "MortalityRate":5.6,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18571,7 +18919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.9,
+    "MortalityRate":37.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18583,7 +18931,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.4,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18595,7 +18943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":33.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18607,7 +18955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.7,
+    "MortalityRate":31,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18619,7 +18967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21,
+    "MortalityRate":29.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18631,7 +18979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.8,
+    "MortalityRate":25.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18643,7 +18991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.7,
+    "MortalityRate":24.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18655,7 +19003,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":23.7,
+    "MortalityRate":24,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18667,7 +19015,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":24.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18679,7 +19027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.7,
+    "MortalityRate":23.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18691,7 +19039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":26.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18703,7 +19051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":52.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18715,7 +19063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18727,7 +19075,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18739,7 +19087,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":35.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18823,7 +19171,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18883,7 +19231,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18907,7 +19255,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18919,7 +19267,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18931,7 +19279,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":20,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -18943,7 +19291,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":11.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0203"
   },
@@ -19080,6 +19428,18 @@ var data = [
     "PCodeUse":"SLE0203"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Koinadugu",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":27.4,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0203"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Kono",
@@ -19087,7 +19447,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19099,7 +19459,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":41.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19111,7 +19471,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":39,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19123,7 +19483,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19147,7 +19507,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":10,
+    "MortalityRate":32.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19159,7 +19519,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":5.3,
+    "MortalityRate":29.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19171,7 +19531,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":4,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19183,7 +19543,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":85.7,
+    "MortalityRate":31.4,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19195,7 +19555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":34.6,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19207,7 +19567,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":34.6,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19219,7 +19579,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52,
+    "MortalityRate":50,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19231,7 +19591,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":50,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19243,7 +19603,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19255,7 +19615,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.4,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19267,7 +19627,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.6,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19279,7 +19639,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.3,
+    "MortalityRate":7.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19291,7 +19651,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39,
+    "MortalityRate":11.8,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19303,7 +19663,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.4,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19315,7 +19675,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.2,
+    "MortalityRate":78,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19327,7 +19687,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.5,
+    "MortalityRate":60.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19339,7 +19699,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.9,
+    "MortalityRate":48.9,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19351,7 +19711,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.4,
+    "MortalityRate":42.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19363,7 +19723,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":42.6,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19387,7 +19747,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":41.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19399,7 +19759,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.7,
+    "MortalityRate":42.7,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19411,7 +19771,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.2,
+    "MortalityRate":25.8,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19423,7 +19783,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21,
+    "MortalityRate":24.1,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19435,7 +19795,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.8,
+    "MortalityRate":24,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19447,7 +19807,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":24.2,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0103"
   },
@@ -19716,6 +20076,18 @@ var data = [
     "PCodeUse":"SLE0103"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kono",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":80,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0103"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Kouroussa",
@@ -19807,7 +20179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19843,7 +20215,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19855,7 +20227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19867,7 +20239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19879,7 +20251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19903,7 +20275,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19939,7 +20311,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19951,7 +20323,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19963,7 +20335,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -19975,7 +20347,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":75,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004003"
   },
@@ -20352,6 +20724,18 @@ var data = [
     "PCodeUse":"GIN004003"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Kouroussa",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":50,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004003"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"Lofa",
@@ -20359,7 +20743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.6,
+    "MortalityRate":58.3,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20371,7 +20755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":44.3,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20383,7 +20767,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":47.7,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20395,7 +20779,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":46.8,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20407,7 +20791,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20419,7 +20803,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20431,7 +20815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20443,7 +20827,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20455,7 +20839,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":84,
+    "MortalityRate":52,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20467,7 +20851,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.8,
+    "MortalityRate":49.8,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20479,7 +20863,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.9,
+    "MortalityRate":51,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20491,7 +20875,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":52.6,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20503,7 +20887,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.1,
+    "MortalityRate":52.7,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20527,7 +20911,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.7,
+    "MortalityRate":54.9,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20635,7 +21019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":59.5,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20981,9 +21365,21 @@ var data = [
     "Region":"Lofa",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":649,
+    "CumulativeDeaths":387,
+    "MortalityRate":59.6,
+    "PCodeAdmin1":"LBR08",
+    "PCodeUse":"LBR08"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Lofa",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR08",
     "PCodeUse":"LBR08"
   },
@@ -20995,7 +21391,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21007,7 +21403,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":64.3,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21019,7 +21415,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.3,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21031,7 +21427,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.3,
+    "MortalityRate":52,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21043,7 +21439,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":49.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21055,7 +21451,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":51,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21067,7 +21463,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":48.3,
+    "MortalityRate":52.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21079,7 +21475,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21091,7 +21487,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":71.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21103,7 +21499,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":11.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21115,7 +21511,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":64.3,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21127,7 +21523,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":47.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21139,7 +21535,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.5,
+    "MortalityRate":52,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21151,7 +21547,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21163,7 +21559,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":9.1,
+    "MortalityRate":59.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21175,7 +21571,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":72.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21187,7 +21583,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58.3,
+    "MortalityRate":11.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21199,7 +21595,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.3,
+    "MortalityRate":18.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21211,7 +21607,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.7,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21223,7 +21619,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.8,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21235,7 +21631,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21247,7 +21643,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21259,7 +21655,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":64.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21271,7 +21667,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.6,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21283,7 +21679,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52,
+    "MortalityRate":73.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21295,7 +21691,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49.8,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21307,7 +21703,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21319,7 +21715,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.6,
+    "MortalityRate":48.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21331,7 +21727,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":70.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21343,7 +21739,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":71.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21355,7 +21751,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":63.6,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21367,7 +21763,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":57.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21379,7 +21775,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":47.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21391,7 +21787,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52,
+    "MortalityRate":47.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21403,7 +21799,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.3,
+    "MortalityRate":52,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21415,7 +21811,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.5,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21427,7 +21823,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.2,
+    "MortalityRate":59.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21439,7 +21835,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":11.1,
+    "MortalityRate":72.2,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21451,7 +21847,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":18.8,
+    "MortalityRate":75.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21463,7 +21859,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008002"
   },
@@ -21624,6 +22020,18 @@ var data = [
     "PCodeUse":"GIN008002"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Lola",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":51,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008002"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Macenta",
@@ -21643,7 +22051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":73.9,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21655,7 +22063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.3,
+    "MortalityRate":77.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21679,7 +22087,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.7,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21691,7 +22099,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.7,
+    "MortalityRate":60,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21703,7 +22111,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.7,
+    "MortalityRate":68.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21715,7 +22123,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.9,
+    "MortalityRate":0,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21727,7 +22135,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.3,
+    "MortalityRate":59.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21739,7 +22147,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":61.3,
+    "MortalityRate":73.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21751,7 +22159,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":72.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21763,7 +22171,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60,
+    "MortalityRate":72.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21775,7 +22183,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":68.3,
+    "MortalityRate":72.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -21811,7 +22219,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.7,
+    "MortalityRate":61.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008004"
   },
@@ -22260,67 +22668,19 @@ var data = [
     "PCodeUse":"GIN008004"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Macenta",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":73.2,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008004"
+  },
+  {
     "WeekDate":"30/12/2013",
-    "Country":"Liberia",
-    "Region":"Margibi",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":38.5,
-    "PCodeAdmin1":"LBR09",
-    "PCodeUse":"LBR09"
-  },
-  {
-    "WeekDate":"06/01/2014",
-    "Country":"Liberia",
-    "Region":"Margibi",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":58.8,
-    "PCodeAdmin1":"LBR09",
-    "PCodeUse":"LBR09"
-  },
-  {
-    "WeekDate":"13/01/2014",
-    "Country":"Liberia",
-    "Region":"Margibi",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":52.1,
-    "PCodeAdmin1":"LBR09",
-    "PCodeUse":"LBR09"
-  },
-  {
-    "WeekDate":"20/01/2014",
-    "Country":"Liberia",
-    "Region":"Margibi",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":65.1,
-    "PCodeAdmin1":"LBR09",
-    "PCodeUse":"LBR09"
-  },
-  {
-    "WeekDate":"27/01/2014",
-    "Country":"Liberia",
-    "Region":"Margibi",
-    "NewCases":0,
-    "NewDeaths":0,
-    "CumulativeCases":0,
-    "CumulativeDeaths":0,
-    "MortalityRate":67.3,
-    "PCodeAdmin1":"LBR09",
-    "PCodeUse":"LBR09"
-  },
-  {
-    "WeekDate":"03/02/2014",
     "Country":"Liberia",
     "Region":"Margibi",
     "NewCases":0,
@@ -22332,7 +22692,43 @@ var data = [
     "PCodeUse":"LBR09"
   },
   {
-    "WeekDate":"10/02/2014",
+    "WeekDate":"06/01/2014",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
+    "WeekDate":"13/01/2014",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
+    "WeekDate":"20/01/2014",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":66.7,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
+    "WeekDate":"27/01/2014",
     "Country":"Liberia",
     "Region":"Margibi",
     "NewCases":0,
@@ -22344,6 +22740,30 @@ var data = [
     "PCodeUse":"LBR09"
   },
   {
+    "WeekDate":"03/02/2014",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":38.5,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
+    "WeekDate":"10/02/2014",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":84,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
     "WeekDate":"17/02/2014",
     "Country":"Liberia",
     "Region":"Margibi",
@@ -22351,7 +22771,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.5,
+    "MortalityRate":51.8,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22363,7 +22783,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.1,
+    "MortalityRate":45.9,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22375,7 +22795,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.4,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22387,7 +22807,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":53.3,
+    "MortalityRate":43.1,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22399,7 +22819,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49.3,
+    "MortalityRate":40.3,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22411,7 +22831,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":11.1,
+    "MortalityRate":38.7,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22423,7 +22843,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":13.8,
+    "MortalityRate":44.5,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22435,7 +22855,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":14.8,
+    "MortalityRate":44.7,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22543,7 +22963,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.1,
+    "MortalityRate":44.9,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22887,11 +23307,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Margibi",
+    "NewCases":14,
+    "NewDeaths":7,
+    "CumulativeCases":1247,
+    "CumulativeDeaths":573,
+    "MortalityRate":46,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Margibi",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29,
+    "MortalityRate":58.8,
     "PCodeAdmin1":"LBR09",
     "PCodeUse":"LBR09"
   },
@@ -22903,7 +23335,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22915,7 +23347,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":32.9,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22927,7 +23359,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":112.5,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22939,7 +23371,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.6,
+    "MortalityRate":112.5,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22951,7 +23383,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":60.5,
+    "MortalityRate":125,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22963,7 +23395,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.7,
+    "MortalityRate":68.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22975,7 +23407,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":77.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22987,7 +23419,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":78,
+    "MortalityRate":77.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -22999,7 +23431,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":81,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23011,7 +23443,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":49.4,
+    "MortalityRate":81,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23023,7 +23455,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.8,
+    "MortalityRate":81,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23035,7 +23467,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":81,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23047,7 +23479,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":82.6,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23059,7 +23491,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":39.7,
+    "MortalityRate":82.6,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23071,7 +23503,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":62.5,
+    "MortalityRate":44.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23083,7 +23515,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":42.7,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23095,7 +23527,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23107,7 +23539,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.5,
+    "MortalityRate":26.3,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23119,7 +23551,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":74.1,
+    "MortalityRate":null,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23131,7 +23563,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.3,
+    "MortalityRate":43.4,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23143,7 +23575,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75.8,
+    "MortalityRate":45.1,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23155,7 +23587,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.5,
+    "MortalityRate":45.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23167,7 +23599,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":74.3,
+    "MortalityRate":45.1,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23179,7 +23611,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":74.3,
+    "MortalityRate":42.4,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23191,7 +23623,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":39.4,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23203,7 +23635,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":39.7,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23215,7 +23647,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50.3,
+    "MortalityRate":43,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23227,7 +23659,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23239,7 +23671,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23251,7 +23683,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.2,
+    "MortalityRate":44,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23263,7 +23695,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":43.2,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23275,7 +23707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.2,
+    "MortalityRate":43.6,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23287,7 +23719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.7,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23299,7 +23731,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.3,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23311,7 +23743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23323,7 +23755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.5,
+    "MortalityRate":43.7,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23525,9 +23957,21 @@ var data = [
     "Region":"Maryland",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":23,
+    "CumulativeDeaths":19,
+    "MortalityRate":82.6,
+    "PCodeAdmin1":"LBR10",
+    "PCodeUse":"LBR10"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Maryland",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.8,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR10",
     "PCodeUse":"LBR10"
   },
@@ -23539,7 +23983,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":76.9,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23551,7 +23995,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":85.4,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23563,7 +24007,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":10.5,
+    "MortalityRate":80.4,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23575,7 +24019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.5,
+    "MortalityRate":78.6,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23587,7 +24031,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.7,
+    "MortalityRate":67.4,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23599,7 +24043,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.1,
+    "MortalityRate":87.6,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23611,7 +24055,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.7,
+    "MortalityRate":76.2,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23623,7 +24067,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54,
+    "MortalityRate":80.5,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23635,7 +24079,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":63.5,
+    "MortalityRate":68.6,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23647,7 +24091,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.5,
+    "MortalityRate":75.4,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23659,7 +24103,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":67.1,
+    "MortalityRate":68.5,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23671,7 +24115,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.6,
+    "MortalityRate":60.9,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23683,7 +24127,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":79.3,
+    "MortalityRate":61.5,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23695,7 +24139,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.4,
+    "MortalityRate":64.5,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23707,7 +24151,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":68,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23767,7 +24211,7 @@ var data = [
     "NewDeaths":1,
     "CumulativeCases":0,
     "CumulativeDeaths":1,
-    "MortalityRate":100,
+    "MortalityRate":40.2,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23779,7 +24223,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":40.2,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23791,7 +24235,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":40.3,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23803,7 +24247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.6,
+    "MortalityRate":40.1,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -23815,7 +24259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":40.6,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -24159,11 +24603,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Montserrado",
+    "NewCases":57,
+    "NewDeaths":9,
+    "CumulativeCases":4335,
+    "CumulativeDeaths":1796,
+    "MortalityRate":41.4,
+    "PCodeAdmin1":"LBR11",
+    "PCodeUse":"LBR11"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Montserrado",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR11",
     "PCodeUse":"LBR11"
   },
@@ -24175,7 +24631,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":31.3,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24187,7 +24643,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.9,
+    "MortalityRate":29.5,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24199,7 +24655,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":30.2,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24463,7 +24919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24499,7 +24955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24511,7 +24967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24535,7 +24991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -24804,6 +25260,18 @@ var data = [
     "PCodeUse":"SLE0303"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Moyamba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":42.9,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0303"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"Nimba",
@@ -24811,7 +25279,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.2,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24823,7 +25291,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.5,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24835,7 +25303,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.7,
+    "MortalityRate":38.5,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24847,7 +25315,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29.1,
+    "MortalityRate":58.8,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24859,7 +25327,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":29,
+    "MortalityRate":52.1,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24871,7 +25339,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":28.6,
+    "MortalityRate":65.1,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24883,7 +25351,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.5,
+    "MortalityRate":67.3,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24895,7 +25363,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24907,7 +25375,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24919,7 +25387,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":52.5,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24931,7 +25399,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.1,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24943,7 +25411,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":54.4,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24955,7 +25423,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":53.3,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24967,7 +25435,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":49.3,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -24979,7 +25447,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":11.1,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -25075,7 +25543,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":10.5,
+    "MortalityRate":17.2,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -25087,7 +25555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":20.5,
+    "MortalityRate":82.4,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -25431,11 +25899,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Nimba",
+    "NewCases":4,
+    "NewDeaths":1,
+    "CumulativeCases":330,
+    "CumulativeDeaths":57,
+    "MortalityRate":17.3,
+    "PCodeAdmin1":"LBR12",
+    "PCodeUse":"LBR12"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Nimba",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":82.4,
+    "MortalityRate":10.5,
     "PCodeAdmin1":"LBR12",
     "PCodeUse":"LBR12"
   },
@@ -25555,7 +26035,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":59.8,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25567,7 +26047,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":63.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25579,7 +26059,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30,
+    "MortalityRate":61.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25591,7 +26071,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":69.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25603,7 +26083,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":65.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25615,7 +26095,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.9,
+    "MortalityRate":66.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25627,7 +26107,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":72.4,
+    "MortalityRate":69.1,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25639,7 +26119,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":70.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25651,7 +26131,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":58,
+    "MortalityRate":70,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25663,7 +26143,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":51.4,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25675,7 +26155,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.4,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25687,7 +26167,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":59.8,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25699,7 +26179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":63.5,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25711,7 +26191,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":61.1,
+    "MortalityRate":30,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25723,7 +26203,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":69.1,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25735,7 +26215,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.7,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25747,7 +26227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.1,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25759,7 +26239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":69.1,
+    "MortalityRate":72.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25771,7 +26251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70.3,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25783,7 +26263,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":70,
+    "MortalityRate":58,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25795,7 +26275,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":51.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -25807,7 +26287,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":57.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008005"
   },
@@ -26076,6 +26556,18 @@ var data = [
     "PCodeUse":"GIN008005"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Nzékékoré",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":36.4,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008005"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Pita",
@@ -26083,7 +26575,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":84.3,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26215,7 +26707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26227,7 +26719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26263,7 +26755,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26275,7 +26767,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26287,7 +26779,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26299,7 +26791,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":40,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26311,7 +26803,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":40,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26323,7 +26815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26335,7 +26827,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26347,7 +26839,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26383,7 +26875,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26395,7 +26887,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26407,7 +26899,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26419,7 +26911,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26431,7 +26923,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26443,7 +26935,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.4,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN007",
     "PCodeUse":"GIN007003"
   },
@@ -26712,6 +27204,18 @@ var data = [
     "PCodeUse":"GIN007003"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Pita",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":25,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007003"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Port Loko",
@@ -26719,7 +27223,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.3,
+    "MortalityRate":21.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26731,7 +27235,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.3,
+    "MortalityRate":22.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26743,7 +27247,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.3,
+    "MortalityRate":23.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26755,7 +27259,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.3,
+    "MortalityRate":27.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26767,7 +27271,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":52.5,
+    "MortalityRate":27.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26779,7 +27283,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.7,
+    "MortalityRate":27.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26791,7 +27295,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.7,
+    "MortalityRate":42.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26803,7 +27307,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26815,7 +27319,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":31.5,
+    "MortalityRate":34.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26827,7 +27331,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":35.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26839,7 +27343,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -26851,7 +27355,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":33.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -27079,7 +27583,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0204"
   },
@@ -27348,6 +27852,18 @@ var data = [
     "PCodeUse":"SLE0204"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Port Loko",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":52.5,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0204"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Pujehun",
@@ -27355,7 +27871,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.5,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27367,7 +27883,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27379,7 +27895,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.7,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27391,7 +27907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.2,
+    "MortalityRate":42,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27403,7 +27919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.3,
+    "MortalityRate":42,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27415,7 +27931,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.5,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27427,7 +27943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":31.8,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27439,7 +27955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":31.5,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27451,7 +27967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":31.3,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27679,7 +28195,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27691,7 +28207,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27715,7 +28231,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -27984,6 +28500,18 @@ var data = [
     "PCodeUse":"SLE0304"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Pujehun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":35.2,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0304"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"River Cess",
@@ -27991,7 +28519,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.1,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28003,7 +28531,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28015,7 +28543,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28027,7 +28555,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":87.6,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28039,7 +28567,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":55.6,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28051,7 +28579,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.5,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28063,7 +28591,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.5,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28075,7 +28603,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":18.6,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28087,7 +28615,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28099,7 +28627,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":80,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28111,7 +28639,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":81.8,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28123,7 +28651,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":87.5,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28135,7 +28663,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":79.3,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28147,7 +28675,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":77.8,
+    "MortalityRate":59.1,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28159,7 +28687,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":56.8,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28171,7 +28699,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":56.8,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28183,7 +28711,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":63.4,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28195,7 +28723,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":65,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28207,7 +28735,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":60.5,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28219,7 +28747,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":79.3,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28231,7 +28759,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28243,7 +28771,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28255,7 +28783,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28267,7 +28795,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":68.8,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28279,7 +28807,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28291,7 +28819,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":44.7,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28303,7 +28831,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":null,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28315,7 +28843,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":46.6,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28327,7 +28855,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":78.6,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28339,7 +28867,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28351,7 +28879,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28613,9 +29141,21 @@ var data = [
     "Region":"River Cess",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":43,
+    "CumulativeDeaths":26,
+    "MortalityRate":60.5,
+    "PCodeAdmin1":"LBR14",
+    "PCodeUse":"LBR14"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"River Cess",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":79.3,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR14",
     "PCodeUse":"LBR14"
   },
@@ -28639,7 +29179,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28651,7 +29191,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":55.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28663,7 +29203,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":80,
+    "MortalityRate":50,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28675,7 +29215,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":81.8,
+    "MortalityRate":35.3,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28687,7 +29227,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":31.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28699,7 +29239,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.3,
+    "MortalityRate":31.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28711,7 +29251,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":31.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28723,7 +29263,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":62.5,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28735,7 +29275,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28747,7 +29287,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28759,7 +29299,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.5,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28771,7 +29311,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":74.1,
+    "MortalityRate":44.4,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28783,7 +29323,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":73.3,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28795,7 +29335,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":75.8,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28807,7 +29347,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28819,7 +29359,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":42.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28831,7 +29371,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":74.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28843,7 +29383,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":50.3,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28855,7 +29395,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.2,
+    "MortalityRate":40.2,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28867,7 +29407,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":20,
+    "MortalityRate":43,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28879,7 +29419,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":12.5,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28891,7 +29431,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":16.7,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28903,7 +29443,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.7,
+    "MortalityRate":44,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28915,7 +29455,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37,
+    "MortalityRate":43.2,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28927,7 +29467,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37,
+    "MortalityRate":43.6,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28939,7 +29479,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.4,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28951,7 +29491,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.5,
+    "MortalityRate":43.9,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28963,7 +29503,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":38.9,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28975,7 +29515,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.8,
+    "MortalityRate":43.7,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28987,7 +29527,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.8,
+    "MortalityRate":50.3,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -28999,7 +29539,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":34.1,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -29011,7 +29551,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -29023,7 +29563,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -29249,9 +29789,21 @@ var data = [
     "Region":"River Gee",
     "NewCases":0,
     "NewDeaths":0,
+    "CumulativeCases":19,
+    "CumulativeDeaths":8,
+    "MortalityRate":42.1,
+    "PCodeAdmin1":"LBR13",
+    "PCodeUse":"LBR13"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"River Gee",
+    "NewCases":0,
+    "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":74.1,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR13",
     "PCodeUse":"LBR13"
   },
@@ -29263,7 +29815,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":56.9,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29275,7 +29827,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":84.7,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29395,7 +29947,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29407,7 +29959,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":16.7,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29431,7 +29983,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":57.1,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29443,7 +29995,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29455,7 +30007,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29467,7 +30019,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29479,7 +30031,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29491,7 +30043,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":40,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29503,7 +30055,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29515,7 +30067,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":16.7,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29539,7 +30091,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":57.1,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29551,7 +30103,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29563,7 +30115,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29575,7 +30127,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29587,7 +30139,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29599,7 +30151,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN004",
     "PCodeUse":"GIN004005"
   },
@@ -29892,6 +30444,18 @@ var data = [
     "PCodeUse":"GIN004005"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Siguiri",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":37.5,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004005"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Liberia",
     "Region":"Sinoe",
@@ -29899,7 +30463,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29911,7 +30475,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40.2,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29923,7 +30487,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43,
+    "MortalityRate":22.2,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29935,7 +30499,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":20,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29947,7 +30511,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44.1,
+    "MortalityRate":12.5,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29959,7 +30523,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":44,
+    "MortalityRate":16.7,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29971,7 +30535,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.2,
+    "MortalityRate":21.7,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29983,7 +30547,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.6,
+    "MortalityRate":37,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -29995,7 +30559,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":37,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30007,7 +30571,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.9,
+    "MortalityRate":34.4,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30019,7 +30583,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.8,
+    "MortalityRate":35.5,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30031,7 +30595,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":43.7,
+    "MortalityRate":38.9,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30043,7 +30607,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50.3,
+    "MortalityRate":36.8,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30055,7 +30619,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":46.2,
+    "MortalityRate":37.8,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30067,7 +30631,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":34.1,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30079,7 +30643,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":35.6,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30091,7 +30655,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":50.3,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30103,7 +30667,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":46.2,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30115,7 +30679,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":46,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30127,7 +30691,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":0,
+    "MortalityRate":45.2,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30139,7 +30703,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":44.1,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30151,7 +30715,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":30,
+    "MortalityRate":44.2,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30163,7 +30727,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":44.7,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30175,7 +30739,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":44.3,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30187,7 +30751,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":47.6,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30199,7 +30763,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30211,7 +30775,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":41.1,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30223,7 +30787,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":25,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30235,7 +30799,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":26.3,
+    "MortalityRate":14.6,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30247,7 +30811,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30259,7 +30823,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.7,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30271,7 +30835,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":62.5,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30283,7 +30847,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30295,7 +30859,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":65.4,
+    "MortalityRate":100,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30519,11 +31083,23 @@ var data = [
     "WeekDate":"29/12/2014",
     "Country":"Liberia",
     "Region":"Sinoe",
+    "NewCases":7,
+    "NewDeaths":2,
+    "CumulativeCases":52,
+    "CumulativeDeaths":18,
+    "MortalityRate":34.6,
+    "PCodeAdmin1":"LBR15",
+    "PCodeUse":"LBR15"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Liberia",
+    "Region":"Sinoe",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50.3,
+    "MortalityRate":0,
     "PCodeAdmin1":"LBR15",
     "PCodeUse":"LBR15"
   },
@@ -30619,7 +31195,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005006"
   },
@@ -30763,7 +31339,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":42.9,
+    "MortalityRate":22.7,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005006"
   },
@@ -30775,7 +31351,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.7,
+    "MortalityRate":42.9,
     "PCodeAdmin1":"GIN005",
     "PCodeUse":"GIN005006"
   },
@@ -31164,6 +31740,18 @@ var data = [
     "PCodeUse":"GIN005006"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Télimélé",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":0,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005006"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Tonkolili",
@@ -31171,7 +31759,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25.1,
+    "MortalityRate":24.1,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31183,7 +31771,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.8,
+    "MortalityRate":24,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31195,7 +31783,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24.8,
+    "MortalityRate":24.2,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31207,7 +31795,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":23.9,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31219,7 +31807,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":24,
+    "MortalityRate":26.4,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31231,7 +31819,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21,
+    "MortalityRate":26.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31243,7 +31831,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":21.8,
+    "MortalityRate":27.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31255,7 +31843,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":22.7,
+    "MortalityRate":54.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31267,7 +31855,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":23.7,
+    "MortalityRate":55.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31279,7 +31867,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":27.9,
+    "MortalityRate":55.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31291,7 +31879,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.2,
+    "MortalityRate":55.3,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31303,7 +31891,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":35.3,
+    "MortalityRate":52.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31315,7 +31903,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31327,7 +31915,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.7,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31339,7 +31927,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":43.8,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31351,7 +31939,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":31.5,
     "PCodeAdmin1":"SLE02",
     "PCodeUse":"SLE0205"
   },
@@ -31800,6 +32388,18 @@ var data = [
     "PCodeUse":"SLE0205"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Tonkolili",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":21,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0205"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Western Area Rural",
@@ -32095,7 +32695,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":34.7,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0401"
   },
@@ -32107,7 +32707,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":45.2,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0401"
   },
@@ -32119,7 +32719,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":41.1,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0401"
   },
@@ -32131,7 +32731,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":25.9,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0401"
   },
@@ -32143,7 +32743,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":null,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0401"
   },
@@ -32436,6 +33036,18 @@ var data = [
     "PCodeUse":"SLE0401"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Western Area Rural",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"SLE04",
+    "PCodeUse":"SLE0401"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Sierra Leone",
     "Region":"Western Area Urban",
@@ -32443,7 +33055,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":22.6,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0402"
   },
@@ -32791,7 +33403,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":null,
+    "MortalityRate":100,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0402"
   },
@@ -32935,7 +33547,7 @@ var data = [
     "NewDeaths":139,
     "CumulativeCases":0,
     "CumulativeDeaths":150,
-    "MortalityRate":null,
+    "MortalityRate":2.2,
     "PCodeAdmin1":"SLE04",
     "PCodeUse":"SLE0402"
   },
@@ -33072,6 +33684,18 @@ var data = [
     "PCodeUse":"SLE0402"
   },
   {
+    "WeekDate":"05/01/2015",
+    "Country":"Sierra Leone",
+    "Region":"Western Area Urban",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":27,
+    "PCodeAdmin1":"SLE04",
+    "PCodeUse":"SLE0402"
+  },
+  {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
     "Region":"Yomou",
@@ -33175,7 +33799,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":100,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33187,7 +33811,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":40,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33199,7 +33823,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":25,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33211,7 +33835,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":36.4,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33223,7 +33847,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":41.7,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33259,7 +33883,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33271,7 +33895,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":50,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33283,7 +33907,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":37.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33295,7 +33919,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":66.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33307,7 +33931,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33319,7 +33943,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":100,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33331,7 +33955,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":40,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33343,7 +33967,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":25,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33355,7 +33979,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":54.5,
+    "MortalityRate":36.4,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33367,7 +33991,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":41.7,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33403,7 +34027,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":33.3,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33415,7 +34039,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":50,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33427,7 +34051,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":37.5,
+    "MortalityRate":45.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33439,7 +34063,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":66.7,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33451,7 +34075,7 @@ var data = [
     "NewDeaths":0,
     "CumulativeCases":0,
     "CumulativeDeaths":0,
-    "MortalityRate":45.5,
+    "MortalityRate":54.5,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   },
@@ -33704,6 +34328,18 @@ var data = [
     "CumulativeCases":11,
     "CumulativeDeaths":5,
     "MortalityRate":45.5,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008006"
+  },
+  {
+    "WeekDate":"05/01/2015",
+    "Country":"Guinea",
+    "Region":"Yomou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"GIN008",
     "PCodeUse":"GIN008006"
   }
