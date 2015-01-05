@@ -1,5 +1,5 @@
 function generateLineChart(){
-    var margin = {top: 20, right: 20, bottom: 25, left: 50},
+    var margin = {top: 20, right: 20, bottom: 25, left: 55},
         width = $("#line_total").width() - margin.left - margin.right,
         height = $("#line_total").height() - margin.top - margin.bottom;
 
@@ -363,7 +363,7 @@ function transitionLineChart(filter,region){
         var deathsdata = deaths[filter];       
     }
 
-    var margin = {top: 20, right: 20, bottom: 25, left: 50},
+    var margin = {top: 20, right: 20, bottom: 25, left: 55},
         width = $("#line_total").width() - margin.left - margin.right,
         height = $("#line_total").height() - margin.top - margin.bottom;
 
@@ -614,7 +614,7 @@ var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeC
 //var totalCasesByDate = byDate.group();
 var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
-var lastWeeks = [parseDate("15/12/2014").valueOf(),parseDate("08/12/2014").valueOf()];
+var lastWeeks = [parseDate("29/12/2014").valueOf(),parseDate("22/12/2014").valueOf()];
 
 $('#update_date').html(cases['Total'][cases['Total'].length-1]['key'].toDateString()); 
 generateLineChart();
