@@ -9722,7 +9722,7 @@ var data = [
   {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9734,7 +9734,7 @@ var data = [
   {
     "WeekDate":"06/01/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9746,7 +9746,7 @@ var data = [
   {
     "WeekDate":"13/01/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9758,7 +9758,7 @@ var data = [
   {
     "WeekDate":"20/01/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9770,7 +9770,7 @@ var data = [
   {
     "WeekDate":"27/01/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9782,7 +9782,7 @@ var data = [
   {
     "WeekDate":"03/02/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9794,7 +9794,7 @@ var data = [
   {
     "WeekDate":"10/02/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9806,7 +9806,7 @@ var data = [
   {
     "WeekDate":"17/02/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9818,7 +9818,7 @@ var data = [
   {
     "WeekDate":"24/02/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9830,7 +9830,7 @@ var data = [
   {
     "WeekDate":"03/03/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9842,7 +9842,7 @@ var data = [
   {
     "WeekDate":"10/03/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9854,7 +9854,7 @@ var data = [
   {
     "WeekDate":"17/03/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9866,7 +9866,7 @@ var data = [
   {
     "WeekDate":"24/03/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9878,7 +9878,7 @@ var data = [
   {
     "WeekDate":"31/03/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9890,7 +9890,7 @@ var data = [
   {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9902,7 +9902,7 @@ var data = [
   {
     "WeekDate":"14/04/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9914,7 +9914,7 @@ var data = [
   {
     "WeekDate":"21/04/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9926,7 +9926,7 @@ var data = [
   {
     "WeekDate":"28/04/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9938,7 +9938,7 @@ var data = [
   {
     "WeekDate":"05/05/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9950,7 +9950,7 @@ var data = [
   {
     "WeekDate":"12/05/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9962,7 +9962,7 @@ var data = [
   {
     "WeekDate":"19/05/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -9974,7 +9974,7 @@ var data = [
   {
     "WeekDate":"26/05/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":7,
     "NewDeaths":3,
     "CumulativeCases":7,
@@ -9986,7 +9986,7 @@ var data = [
   {
     "WeekDate":"02/06/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":15,
     "NewDeaths":2,
     "CumulativeCases":22,
@@ -9998,7 +9998,7 @@ var data = [
   {
     "WeekDate":"09/06/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":3,
     "NewDeaths":2,
     "CumulativeCases":25,
@@ -10010,7 +10010,7 @@ var data = [
   {
     "WeekDate":"16/06/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":5,
     "NewDeaths":2,
     "CumulativeCases":30,
@@ -10022,7 +10022,7 @@ var data = [
   {
     "WeekDate":"23/06/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":25,
@@ -10034,7 +10034,7 @@ var data = [
   {
     "WeekDate":"30/06/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":2,
     "NewDeaths":1,
     "CumulativeCases":27,
@@ -10046,7 +10046,7 @@ var data = [
   {
     "WeekDate":"07/07/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10058,7 +10058,7 @@ var data = [
   {
     "WeekDate":"14/07/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10070,7 +10070,7 @@ var data = [
   {
     "WeekDate":"21/07/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10082,7 +10082,7 @@ var data = [
   {
     "WeekDate":"28/07/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10094,7 +10094,7 @@ var data = [
   {
     "WeekDate":"04/08/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10106,7 +10106,7 @@ var data = [
   {
     "WeekDate":"11/08/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10118,7 +10118,7 @@ var data = [
   {
     "WeekDate":"18/08/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10130,7 +10130,7 @@ var data = [
   {
     "WeekDate":"25/08/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10142,7 +10142,7 @@ var data = [
   {
     "WeekDate":"01/09/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10154,7 +10154,7 @@ var data = [
   {
     "WeekDate":"08/09/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10166,7 +10166,7 @@ var data = [
   {
     "WeekDate":"15/09/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10178,7 +10178,7 @@ var data = [
   {
     "WeekDate":"22/09/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10190,7 +10190,7 @@ var data = [
   {
     "WeekDate":"29/09/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10202,7 +10202,7 @@ var data = [
   {
     "WeekDate":"06/10/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10214,7 +10214,7 @@ var data = [
   {
     "WeekDate":"13/10/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10226,7 +10226,7 @@ var data = [
   {
     "WeekDate":"20/10/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10238,7 +10238,7 @@ var data = [
   {
     "WeekDate":"27/10/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10250,7 +10250,7 @@ var data = [
   {
     "WeekDate":"03/11/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10262,7 +10262,7 @@ var data = [
   {
     "WeekDate":"10/11/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10274,7 +10274,7 @@ var data = [
   {
     "WeekDate":"17/11/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10286,7 +10286,7 @@ var data = [
   {
     "WeekDate":"24/11/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10298,7 +10298,7 @@ var data = [
   {
     "WeekDate":"01/12/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":26,
@@ -10310,7 +10310,7 @@ var data = [
   {
     "WeekDate":"08/12/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":6,
     "NewDeaths":2,
     "CumulativeCases":32,
@@ -10322,7 +10322,7 @@ var data = [
   {
     "WeekDate":"15/12/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":2,
     "NewDeaths":1,
     "CumulativeCases":34,
@@ -10334,7 +10334,7 @@ var data = [
   {
     "WeekDate":"22/12/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":5,
     "NewDeaths":2,
     "CumulativeCases":39,
@@ -10346,7 +10346,7 @@ var data = [
   {
     "WeekDate":"29/12/2014",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":3,
     "NewDeaths":2,
     "CumulativeCases":42,
@@ -10358,7 +10358,7 @@ var data = [
   {
     "WeekDate":"05/01/2015",
     "Country":"Guinea",
-    "Region":"T�lim�l�",
+    "Region":"Télimélé",
     "NewCases":1,
     "NewDeaths":3,
     "CumulativeCases":43,
@@ -12314,7 +12314,7 @@ var data = [
   {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12326,7 +12326,7 @@ var data = [
   {
     "WeekDate":"06/01/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12338,7 +12338,7 @@ var data = [
   {
     "WeekDate":"13/01/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12350,7 +12350,7 @@ var data = [
   {
     "WeekDate":"20/01/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12362,7 +12362,7 @@ var data = [
   {
     "WeekDate":"27/01/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12374,7 +12374,7 @@ var data = [
   {
     "WeekDate":"03/02/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12386,7 +12386,7 @@ var data = [
   {
     "WeekDate":"10/02/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12398,7 +12398,7 @@ var data = [
   {
     "WeekDate":"17/02/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12410,7 +12410,7 @@ var data = [
   {
     "WeekDate":"24/02/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12422,7 +12422,7 @@ var data = [
   {
     "WeekDate":"03/03/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12434,7 +12434,7 @@ var data = [
   {
     "WeekDate":"10/03/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12446,7 +12446,7 @@ var data = [
   {
     "WeekDate":"17/03/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12458,7 +12458,7 @@ var data = [
   {
     "WeekDate":"24/03/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12470,7 +12470,7 @@ var data = [
   {
     "WeekDate":"31/03/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":77,
     "NewDeaths":0,
     "CumulativeCases":77,
@@ -12482,7 +12482,7 @@ var data = [
   {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":13,
     "NewDeaths":63,
     "CumulativeCases":90,
@@ -12494,7 +12494,7 @@ var data = [
   {
     "WeekDate":"14/04/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -12506,7 +12506,7 @@ var data = [
   {
     "WeekDate":"21/04/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":122,
     "NewDeaths":87,
     "CumulativeCases":122,
@@ -12518,7 +12518,7 @@ var data = [
   {
     "WeekDate":"28/04/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":18,
     "NewDeaths":12,
     "CumulativeCases":140,
@@ -12530,7 +12530,7 @@ var data = [
   {
     "WeekDate":"05/05/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":5,
     "NewDeaths":6,
     "CumulativeCases":145,
@@ -12542,7 +12542,7 @@ var data = [
   {
     "WeekDate":"12/05/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":4,
     "NewDeaths":1,
     "CumulativeCases":149,
@@ -12554,7 +12554,7 @@ var data = [
   {
     "WeekDate":"19/05/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":19,
     "NewDeaths":17,
     "CumulativeCases":168,
@@ -12566,7 +12566,7 @@ var data = [
   {
     "WeekDate":"26/05/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":8,
     "NewDeaths":3,
     "CumulativeCases":176,
@@ -12578,7 +12578,7 @@ var data = [
   {
     "WeekDate":"02/06/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":14,
     "NewDeaths":14,
     "CumulativeCases":190,
@@ -12590,7 +12590,7 @@ var data = [
   {
     "WeekDate":"09/06/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":4,
     "NewDeaths":6,
     "CumulativeCases":194,
@@ -12602,7 +12602,7 @@ var data = [
   {
     "WeekDate":"16/06/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":30,
     "NewDeaths":27,
     "CumulativeCases":224,
@@ -12614,7 +12614,7 @@ var data = [
   {
     "WeekDate":"23/06/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":2,
     "NewDeaths":4,
     "CumulativeCases":226,
@@ -12626,7 +12626,7 @@ var data = [
   {
     "WeekDate":"30/06/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":17,
     "NewDeaths":25,
     "CumulativeCases":243,
@@ -12638,7 +12638,7 @@ var data = [
   {
     "WeekDate":"07/07/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":3,
     "CumulativeCases":239,
@@ -12650,7 +12650,7 @@ var data = [
   {
     "WeekDate":"14/07/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":3,
     "CumulativeCases":240,
@@ -12662,7 +12662,7 @@ var data = [
   {
     "WeekDate":"21/07/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":6,
     "NewDeaths":3,
     "CumulativeCases":246,
@@ -12674,7 +12674,7 @@ var data = [
   {
     "WeekDate":"28/07/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":19,
     "NewDeaths":16,
     "CumulativeCases":265,
@@ -12686,7 +12686,7 @@ var data = [
   {
     "WeekDate":"04/08/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":20,
     "NewDeaths":20,
     "CumulativeCases":285,
@@ -12698,7 +12698,7 @@ var data = [
   {
     "WeekDate":"11/08/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":10,
     "NewDeaths":8,
     "CumulativeCases":295,
@@ -12710,7 +12710,7 @@ var data = [
   {
     "WeekDate":"18/08/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":15,
     "NewDeaths":10,
     "CumulativeCases":310,
@@ -12722,7 +12722,7 @@ var data = [
   {
     "WeekDate":"25/08/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":2,
     "CumulativeCases":311,
@@ -12734,7 +12734,7 @@ var data = [
   {
     "WeekDate":"01/09/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":23,
     "NewDeaths":16,
     "CumulativeCases":334,
@@ -12746,7 +12746,7 @@ var data = [
   {
     "WeekDate":"08/09/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":9,
     "NewDeaths":6,
     "CumulativeCases":343,
@@ -12758,7 +12758,7 @@ var data = [
   {
     "WeekDate":"15/09/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":7,
     "NewDeaths":3,
     "CumulativeCases":350,
@@ -12770,7 +12770,7 @@ var data = [
   {
     "WeekDate":"22/09/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":6,
     "NewDeaths":3,
     "CumulativeCases":356,
@@ -12782,7 +12782,7 @@ var data = [
   {
     "WeekDate":"29/09/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":5,
     "NewDeaths":5,
     "CumulativeCases":361,
@@ -12794,7 +12794,7 @@ var data = [
   {
     "WeekDate":"06/10/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":6,
     "NewDeaths":1,
     "CumulativeCases":367,
@@ -12806,7 +12806,7 @@ var data = [
   {
     "WeekDate":"13/10/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":1,
     "CumulativeCases":368,
@@ -12818,7 +12818,7 @@ var data = [
   {
     "WeekDate":"20/10/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":2,
     "CumulativeCases":364,
@@ -12830,7 +12830,7 @@ var data = [
   {
     "WeekDate":"27/10/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":2,
     "NewDeaths":2,
     "CumulativeCases":366,
@@ -12842,7 +12842,7 @@ var data = [
   {
     "WeekDate":"03/11/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":4,
     "NewDeaths":0,
     "CumulativeCases":370,
@@ -12854,7 +12854,7 @@ var data = [
   {
     "WeekDate":"10/11/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":1,
     "CumulativeCases":370,
@@ -12866,7 +12866,7 @@ var data = [
   {
     "WeekDate":"17/11/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":2,
     "CumulativeCases":371,
@@ -12878,7 +12878,7 @@ var data = [
   {
     "WeekDate":"24/11/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":1,
     "CumulativeCases":372,
@@ -12890,7 +12890,7 @@ var data = [
   {
     "WeekDate":"01/12/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":1,
     "NewDeaths":1,
     "CumulativeCases":373,
@@ -12902,7 +12902,7 @@ var data = [
   {
     "WeekDate":"08/12/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":5,
     "NewDeaths":0,
     "CumulativeCases":378,
@@ -12914,7 +12914,7 @@ var data = [
   {
     "WeekDate":"15/12/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":2,
     "CumulativeCases":378,
@@ -12926,7 +12926,7 @@ var data = [
   {
     "WeekDate":"22/12/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":3,
     "NewDeaths":1,
     "CumulativeCases":381,
@@ -12938,7 +12938,7 @@ var data = [
   {
     "WeekDate":"29/12/2014",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":2,
     "NewDeaths":2,
     "CumulativeCases":383,
@@ -12950,7 +12950,7 @@ var data = [
   {
     "WeekDate":"05/01/2015",
     "Country":"Guinea",
-    "Region":"Gu�ck�dou",
+    "Region":"Guéckédou",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":382,
@@ -14258,7 +14258,7 @@ var data = [
   {
     "WeekDate":"30/12/2013",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14270,7 +14270,7 @@ var data = [
   {
     "WeekDate":"06/01/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14282,7 +14282,7 @@ var data = [
   {
     "WeekDate":"13/01/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14294,7 +14294,7 @@ var data = [
   {
     "WeekDate":"20/01/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14306,7 +14306,7 @@ var data = [
   {
     "WeekDate":"27/01/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14318,7 +14318,7 @@ var data = [
   {
     "WeekDate":"03/02/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14330,7 +14330,7 @@ var data = [
   {
     "WeekDate":"10/02/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14342,7 +14342,7 @@ var data = [
   {
     "WeekDate":"17/02/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14354,7 +14354,7 @@ var data = [
   {
     "WeekDate":"24/02/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14366,7 +14366,7 @@ var data = [
   {
     "WeekDate":"03/03/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14378,7 +14378,7 @@ var data = [
   {
     "WeekDate":"10/03/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14390,7 +14390,7 @@ var data = [
   {
     "WeekDate":"17/03/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14402,7 +14402,7 @@ var data = [
   {
     "WeekDate":"24/03/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14414,7 +14414,7 @@ var data = [
   {
     "WeekDate":"31/03/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14426,7 +14426,7 @@ var data = [
   {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14438,7 +14438,7 @@ var data = [
   {
     "WeekDate":"14/04/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14450,7 +14450,7 @@ var data = [
   {
     "WeekDate":"21/04/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14462,7 +14462,7 @@ var data = [
   {
     "WeekDate":"28/04/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14474,7 +14474,7 @@ var data = [
   {
     "WeekDate":"05/05/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14486,7 +14486,7 @@ var data = [
   {
     "WeekDate":"12/05/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14498,7 +14498,7 @@ var data = [
   {
     "WeekDate":"19/05/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14510,7 +14510,7 @@ var data = [
   {
     "WeekDate":"26/05/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14522,7 +14522,7 @@ var data = [
   {
     "WeekDate":"02/06/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14534,7 +14534,7 @@ var data = [
   {
     "WeekDate":"09/06/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14546,7 +14546,7 @@ var data = [
   {
     "WeekDate":"16/06/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14558,7 +14558,7 @@ var data = [
   {
     "WeekDate":"23/06/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14570,7 +14570,7 @@ var data = [
   {
     "WeekDate":"30/06/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14582,7 +14582,7 @@ var data = [
   {
     "WeekDate":"07/07/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14594,7 +14594,7 @@ var data = [
   {
     "WeekDate":"14/07/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14606,7 +14606,7 @@ var data = [
   {
     "WeekDate":"21/07/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14618,7 +14618,7 @@ var data = [
   {
     "WeekDate":"28/07/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":0,
@@ -14630,7 +14630,7 @@ var data = [
   {
     "WeekDate":"04/08/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":4,
     "NewDeaths":1,
     "CumulativeCases":4,
@@ -14642,7 +14642,7 @@ var data = [
   {
     "WeekDate":"11/08/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":4,
@@ -14654,7 +14654,7 @@ var data = [
   {
     "WeekDate":"18/08/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":6,
     "NewDeaths":2,
     "CumulativeCases":10,
@@ -14666,7 +14666,7 @@ var data = [
   {
     "WeekDate":"25/08/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":2,
     "NewDeaths":3,
     "CumulativeCases":12,
@@ -14678,7 +14678,7 @@ var data = [
   {
     "WeekDate":"01/09/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":11,
@@ -14690,7 +14690,7 @@ var data = [
   {
     "WeekDate":"08/09/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":3,
     "NewDeaths":0,
     "CumulativeCases":14,
@@ -14702,7 +14702,7 @@ var data = [
   {
     "WeekDate":"15/09/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":15,
     "NewDeaths":15,
     "CumulativeCases":29,
@@ -14714,7 +14714,7 @@ var data = [
   {
     "WeekDate":"22/09/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":1,
     "NewDeaths":0,
     "CumulativeCases":30,
@@ -14726,7 +14726,7 @@ var data = [
   {
     "WeekDate":"29/09/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":20,
     "NewDeaths":9,
     "CumulativeCases":50,
@@ -14738,7 +14738,7 @@ var data = [
   {
     "WeekDate":"06/10/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":20,
     "NewDeaths":7,
     "CumulativeCases":70,
@@ -14750,7 +14750,7 @@ var data = [
   {
     "WeekDate":"13/10/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":24,
     "NewDeaths":18,
     "CumulativeCases":94,
@@ -14762,7 +14762,7 @@ var data = [
   {
     "WeekDate":"20/10/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":23,
     "NewDeaths":16,
     "CumulativeCases":117,
@@ -14774,7 +14774,7 @@ var data = [
   {
     "WeekDate":"27/10/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":20,
     "NewDeaths":17,
     "CumulativeCases":137,
@@ -14786,7 +14786,7 @@ var data = [
   {
     "WeekDate":"03/11/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":25,
     "NewDeaths":12,
     "CumulativeCases":162,
@@ -14798,7 +14798,7 @@ var data = [
   {
     "WeekDate":"10/11/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":13,
     "NewDeaths":22,
     "CumulativeCases":175,
@@ -14810,7 +14810,7 @@ var data = [
   {
     "WeekDate":"17/11/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":29,
     "NewDeaths":13,
     "CumulativeCases":204,
@@ -14822,7 +14822,7 @@ var data = [
   {
     "WeekDate":"24/11/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":17,
     "NewDeaths":12,
     "CumulativeCases":221,
@@ -14834,7 +14834,7 @@ var data = [
   {
     "WeekDate":"01/12/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":2,
     "NewDeaths":8,
     "CumulativeCases":223,
@@ -14846,7 +14846,7 @@ var data = [
   {
     "WeekDate":"08/12/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":9,
     "NewDeaths":9,
     "CumulativeCases":232,
@@ -14858,7 +14858,7 @@ var data = [
   {
     "WeekDate":"15/12/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":8,
     "NewDeaths":5,
     "CumulativeCases":240,
@@ -14870,7 +14870,7 @@ var data = [
   {
     "WeekDate":"22/12/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":5,
     "NewDeaths":4,
     "CumulativeCases":245,
@@ -14882,7 +14882,7 @@ var data = [
   {
     "WeekDate":"29/12/2014",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":3,
     "NewDeaths":3,
     "CumulativeCases":248,
@@ -14894,7 +14894,7 @@ var data = [
   {
     "WeekDate":"05/01/2015",
     "Country":"Guinea",
-    "Region":"Nz�k�kor�",
+    "Region":"Nzékékoré",
     "NewCases":4,
     "NewDeaths":3,
     "CumulativeCases":252,
