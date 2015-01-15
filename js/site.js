@@ -584,6 +584,7 @@ var color = {"Sierra Leone":"#f36c60","Liberia":"#b0120a","Guinea":"#dd191d"};
 var duration = 1500;
 var parseDate = d3.time.format("%d/%m/%Y").parse;
 var i;
+
 for(i=0;i<cases["Total"].length;i++){
     cases["Total"][i].key = parseDate(cases["Total"][i].key);
     cases["Liberia"][i].key = parseDate(cases["Liberia"][i].key);
@@ -596,7 +597,7 @@ for(i=0;i<cases["Total"].length;i++){
 }
 
 for(i=0;i<data.length;i++){
-    data[i].WeekDate=parseDate(data[i].WeekDate)
+    data[i].WeekDate=parseDate(data[i].WeekDate);
 }
 
 var cf = crossfilter(data);
