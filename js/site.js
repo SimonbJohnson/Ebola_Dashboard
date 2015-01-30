@@ -92,10 +92,10 @@ function generateLineChart(){
 function generateKeyStats(id,keystats,cases,deaths){
     
     var html = '<div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+cases[cases.length-1]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+formatComma(cases[cases.length-1]["value"]) + '<p>';
     html = html + '<p class="stat_title">Population</p><p class="stat">'+keystats["population"] + '<p>';   
     html = html + '</div><div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+deaths[deaths.length-1]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+formatComma(deaths[deaths.length-1]["value"]) + '<p>';
     html = html + '<p  class="stat_title">Crude Mortality Rate</p><p class="stat">'+Math.round(deaths[deaths.length-1]["value"]/cases[cases.length-1]["value"]*100) + '%<p>';
     html=html+'</div>';
     $(id).html(html);
@@ -616,6 +616,9 @@ var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeC
 var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
 var lastWeeks = [parseDate("19/01/2015").valueOf(),parseDate("26/01/2015").valueOf()];
+
+//helper function for formatting numbers with comma separator for thousands
+var formatComma = d3.format(",");
 
 $('#update_date').html(cases['Total'][cases['Total'].length-1]['key'].toDateString()); 
 generateLineChart();
