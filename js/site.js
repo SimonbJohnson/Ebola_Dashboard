@@ -142,13 +142,13 @@ function generateMap(){
         .attr("stroke",'#aaaaaa')
         .attr("stroke-width","0px")
         .attr("fill",'#ffffff')
-        .attr("id",function(d){return d.properties.PCODE_REF;})
+        .attr("id",function(d){return d.properties.PCODEUSE;})
         .attr("class","region")
         .on("mouseover",function(d){
             d3.select(this).attr("stroke-width",7);
             d3.select(this).attr("stroke","steelblue");
-            transitionLineChart(d.properties.PCODE_REF,true);
-            transitionTitles(d.properties.NAME_REF,true);
+            transitionLineChart(d.properties.PCODEUSE,true);
+            transitionTitles(d.properties.NAMEUSE,true);
         })
         .on("mouseout",function(d){
             d3.select(this).attr("stroke","#aaaaaa");
@@ -161,7 +161,7 @@ function generateMap(){
             }
         })        
         .append("svg:title")
-        .text(function(d) { return d.properties.NAME_REF; });   
+        .text(function(d) { return d.properties.NAMEUSE; });   
     sumNewCasesByRegion.all().forEach(function(e) {  
     if(e.value==0){
                 d3.select("#"+e.key).attr("fill",color[0]);
