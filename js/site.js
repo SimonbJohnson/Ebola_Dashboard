@@ -92,10 +92,10 @@ function generateLineChart(){
 function generateKeyStats(id,keystats,cases,deaths){
     
     var html = '<div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+cases[cases.length-1]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Cases</p><p class="stat">'+formatComma(cases[cases.length-1]["value"]) + '<p>';
     html = html + '<p class="stat_title">Population</p><p class="stat">'+keystats["population"] + '<p>';   
     html = html + '</div><div class="col-xs-6">';
-    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+deaths[deaths.length-1]["value"] + '<p>';
+    html = html + '<p  class="stat_title">Deaths</p><p class="stat">'+formatComma(deaths[deaths.length-1]["value"]) + '<p>';
     html = html + '<p  class="stat_title">Crude Mortality Rate</p><p class="stat">'+Math.round(deaths[deaths.length-1]["value"]/cases[cases.length-1]["value"]*100) + '%<p>';
     html=html+'</div>';
     $(id).html(html);
@@ -142,13 +142,13 @@ function generateMap(){
         .attr("stroke",'#aaaaaa')
         .attr("stroke-width","0px")
         .attr("fill",'#ffffff')
-        .attr("id",function(d){return d.properties.PCODE_REF;})
+        .attr("id",function(d){return d.properties.PCODEUSE;})
         .attr("class","region")
         .on("mouseover",function(d){
             d3.select(this).attr("stroke-width",7);
             d3.select(this).attr("stroke","steelblue");
-            transitionLineChart(d.properties.PCODE_REF,true);
-            transitionTitles(d.properties.NAME_REF,true);
+            transitionLineChart(d.properties.PCODEUSE,true);
+            transitionTitles(d.properties.NAMEUSE,true);
         })
         .on("mouseout",function(d){
             d3.select(this).attr("stroke","#aaaaaa");
@@ -161,7 +161,7 @@ function generateMap(){
             }
         })        
         .append("svg:title")
-        .text(function(d) { return d.properties.NAME_REF; });   
+        .text(function(d) { return d.properties.NAMEUSE; });   
     sumNewCasesByRegion.all().forEach(function(e) {  
     if(e.value==0){
                 d3.select("#"+e.key).attr("fill",color[0]);
@@ -615,7 +615,10 @@ var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeC
 //var totalCasesByDate = byDate.group();
 var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
-var lastWeeks = [parseDate("29/12/2014").valueOf(),parseDate("05/01/2014").valueOf()];
+var lastWeeks = [parseDate("02/02/2015").valueOf(),parseDate("26/01/2015").valueOf()];
+
+//helper function for formatting numbers with comma separator for thousands
+var formatComma = d3.format(",");
 
 $('#update_date').html(cases['Total'][cases['Total'].length-1]['key'].toDateString()); 
 generateLineChart();
