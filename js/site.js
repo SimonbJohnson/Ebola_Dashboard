@@ -620,7 +620,7 @@ var totalCasesByDate = byDate.group().reduceSum(function(d){return d.CumulativeC
 //var totalCasesByDate = byDate.group();
 var totalDeathsByDate = byDate.group().reduceSum(function(d){return d.CumulativeDeaths;});
 
-var lastWeeks = [parseDate("25/05/2015").valueOf(),parseDate("18/05/2015").valueOf()];
+var lastWeeks = [parseDate("01/06/2015").valueOf(),parseDate("25/05/2015").valueOf()];
 
 //helper function for formatting numbers with comma separator for thousands
 var formatComma = d3.format(",");
