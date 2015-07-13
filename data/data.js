@@ -910,6 +910,20 @@ var data = [
     "PCodeUse":"GIN001001"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Boffa",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":53,
+    "CumulativeDeaths":43,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":36,
+    "MortalityRate":81.1,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001001"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Télimélé",
@@ -1807,6 +1821,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Télimélé",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":43,
+    "CumulativeDeaths":20,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":40,
+    "MortalityRate":46.5,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005005"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Télimélé",
     "NewCases":0,
@@ -2730,6 +2758,20 @@ var data = [
     "PCodeUse":"GIN002001"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Conakry",
+    "NewCases":6,
+    "NewDeaths":4,
+    "CumulativeCases":575,
+    "CumulativeDeaths":305,
+    "NewConfirmedCases":4,
+    "CumulativeConfirmedCases":538,
+    "MortalityRate":53,
+    "PCodeAdmin1":"GIN002",
+    "PCodeUse":"GIN002001"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Dabola",
@@ -3640,6 +3682,20 @@ var data = [
     "PCodeUse":"GIN003001"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Dabola",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":13,
+    "CumulativeDeaths":13,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":8,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003001"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Dinguiraye",
@@ -4537,6 +4593,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Dinguiraye",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":1,
+    "CumulativeDeaths":1,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":100,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003002"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Dinguiraye",
     "NewCases":0,
@@ -5460,6 +5530,20 @@ var data = [
     "PCodeUse":"GIN003004"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Kissidougou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":136,
+    "CumulativeDeaths":107,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":100,
+    "MortalityRate":78.7,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003004"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Macenta",
@@ -6357,6 +6441,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Macenta",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":745,
+    "CumulativeDeaths":502,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":718,
+    "MortalityRate":67.4,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008004"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Macenta",
     "NewCases":0,
@@ -7280,6 +7378,20 @@ var data = [
     "PCodeUse":"GIN008002"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Guéckédou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":381,
+    "CumulativeDeaths":315,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":269,
+    "MortalityRate":82.7,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008002"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Kouroussa",
@@ -8177,6 +8289,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Kouroussa",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":20,
+    "CumulativeDeaths":13,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":18,
+    "MortalityRate":65,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004003"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Kouroussa",
     "NewCases":0,
@@ -9100,6 +9226,20 @@ var data = [
     "PCodeUse":"GIN004005"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Siguiri",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":34,
+    "CumulativeDeaths":24,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":26,
+    "MortalityRate":70.6,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004005"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Pita",
@@ -9997,6 +10137,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Pita",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":8,
+    "CumulativeDeaths":4,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":7,
+    "MortalityRate":50,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007003"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Pita",
     "NewCases":0,
@@ -10920,6 +11074,20 @@ var data = [
     "PCodeUse":"GIN008005"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Nzékékoré",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":256,
+    "CumulativeDeaths":181,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":213,
+    "MortalityRate":70.7,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008005"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Yomou",
@@ -11817,6 +11985,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Yomou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":11,
+    "CumulativeDeaths":5,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":11,
+    "MortalityRate":45.5,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008006"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Yomou",
     "NewCases":0,
@@ -12740,6 +12922,20 @@ var data = [
     "PCodeUse":"GIN005002"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Dubreka",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":160,
+    "CumulativeDeaths":100,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":147,
+    "MortalityRate":62.5,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005002"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Forecariah",
@@ -13650,6 +13846,20 @@ var data = [
     "PCodeUse":"GIN005003"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Forecariah",
+    "NewCases":10,
+    "NewDeaths":14,
+    "CumulativeCases":465,
+    "CumulativeDeaths":326,
+    "NewConfirmedCases":10,
+    "CumulativeConfirmedCases":412,
+    "MortalityRate":70.1,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005003"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Kerouane",
@@ -14547,6 +14757,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Kerouane",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":161,
+    "CumulativeDeaths":98,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":160,
+    "MortalityRate":60.9,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004002"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Kerouane",
     "NewCases":0,
@@ -15470,6 +15694,20 @@ var data = [
     "PCodeUse":"GIN005001"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Coyah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":241,
+    "CumulativeDeaths":137,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":234,
+    "MortalityRate":56.8,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005001"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Boke",
@@ -16380,6 +16618,20 @@ var data = [
     "PCodeUse":"GIN001002"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Boke",
+    "NewCases":0,
+    "NewDeaths":4,
+    "CumulativeCases":38,
+    "CumulativeDeaths":21,
+    "NewConfirmedCases":2,
+    "CumulativeConfirmedCases":32,
+    "MortalityRate":55.3,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001002"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Dalaba",
@@ -17277,6 +17529,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Dalaba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":9,
+    "CumulativeDeaths":2,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":9,
+    "MortalityRate":22.2,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007001"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Dalaba",
     "NewCases":0,
@@ -18200,6 +18466,20 @@ var data = [
     "PCodeUse":"GIN005004"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Kindia",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":113,
+    "CumulativeDeaths":85,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":78,
+    "MortalityRate":75.2,
+    "PCodeAdmin1":"GIN005",
+    "PCodeUse":"GIN005004"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Beyla",
@@ -19097,6 +19377,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Beyla",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":46,
+    "CumulativeDeaths":27,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":46,
+    "MortalityRate":58.7,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008001"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Beyla",
     "NewCases":0,
@@ -20020,6 +20314,20 @@ var data = [
     "PCodeUse":"GIN008003"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Lola",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":111,
+    "CumulativeDeaths":84,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":93,
+    "MortalityRate":75.7,
+    "PCodeAdmin1":"GIN008",
+    "PCodeUse":"GIN008003"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Faranah",
@@ -20917,6 +21225,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Faranah",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":70,
+    "CumulativeDeaths":55,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":46,
+    "MortalityRate":78.6,
+    "PCodeAdmin1":"GIN003",
+    "PCodeUse":"GIN003003"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Faranah",
     "NewCases":0,
@@ -21840,6 +22162,20 @@ var data = [
     "PCodeUse":"GIN004001"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Kankan",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":32,
+    "CumulativeDeaths":21,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":31,
+    "MortalityRate":65.6,
+    "PCodeAdmin1":"GIN004",
+    "PCodeUse":"GIN004001"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Mamou",
@@ -22737,6 +23073,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Mamou",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"GIN007",
+    "PCodeUse":"GIN007002"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Mamou",
     "NewCases":0,
@@ -23660,6 +24010,20 @@ var data = [
     "PCodeUse":"GIN001005"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Fria",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":16,
+    "CumulativeDeaths":10,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":11,
+    "MortalityRate":62.5,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001005"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Mali",
@@ -24557,6 +24921,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Mali",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":5,
+    "CumulativeDeaths":3,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":5,
+    "MortalityRate":60,
+    "PCodeAdmin1":"GIN006",
+    "PCodeUse":"GIN006004"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Mali",
     "NewCases":0,
@@ -25480,6 +25858,20 @@ var data = [
     "PCodeUse":"GIN006003"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Lelouma",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"GIN006",
+    "PCodeUse":"GIN006003"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Tougue",
@@ -26390,6 +26782,20 @@ var data = [
     "PCodeUse":"GIN006005"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Tougue",
+    "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":3,
+    "CumulativeDeaths":1,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":2,
+    "MortalityRate":33.3,
+    "PCodeAdmin1":"GIN006",
+    "PCodeUse":"GIN006005"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Labe",
@@ -27300,6 +27706,20 @@ var data = [
     "PCodeUse":"GIN006002"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Guinea",
+    "Region":"Labe",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"GIN006",
+    "PCodeUse":"GIN006002"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Guinea",
     "Region":"Koundara",
@@ -28197,6 +28617,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Guinea",
+    "Region":"Koundara",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":0,
+    "CumulativeDeaths":0,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":null,
+    "PCodeAdmin1":"GIN001",
+    "PCodeUse":"GIN001004"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Guinea",
     "Region":"Koundara",
     "NewCases":0,
@@ -29120,6 +29554,20 @@ var data = [
     "PCodeUse":"LBR21"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Lofa",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":774,
+    "CumulativeDeaths":499,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":332,
+    "MortalityRate":64.5,
+    "PCodeAdmin1":"LBR21",
+    "PCodeUse":"LBR21"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Montserrado",
@@ -30017,6 +30465,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Montserrado",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":5816,
+    "CumulativeDeaths":2382,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":1797,
+    "MortalityRate":41,
+    "PCodeAdmin1":"LBR30",
+    "PCodeUse":"LBR30"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Montserrado",
     "NewCases":0,
@@ -30940,6 +31402,20 @@ var data = [
     "PCodeUse":"LBR24"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Margibi",
+    "NewCases":4,
+    "NewDeaths":1,
+    "CumulativeCases":1379,
+    "CumulativeDeaths":592,
+    "NewConfirmedCases":3,
+    "CumulativeConfirmedCases":396,
+    "MortalityRate":42.9,
+    "PCodeAdmin1":"LBR24",
+    "PCodeUse":"LBR24"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Bomi",
@@ -31837,6 +32313,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Bomi",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":332,
+    "CumulativeDeaths":175,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":139,
+    "MortalityRate":52.7,
+    "PCodeAdmin1":"LBR03",
+    "PCodeUse":"LBR03"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Bomi",
     "NewCases":0,
@@ -32760,6 +33250,20 @@ var data = [
     "PCodeUse":"LBR33"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Nimba",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":362,
+    "CumulativeDeaths":71,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":116,
+    "MortalityRate":19.6,
+    "PCodeAdmin1":"LBR33",
+    "PCodeUse":"LBR33"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Bong",
@@ -33666,6 +34170,20 @@ var data = [
     "NewConfirmedCases":0,
     "CumulativeConfirmedCases":150,
     "MortalityRate":24.6,
+    "PCodeAdmin1":"LBR06",
+    "PCodeUse":"LBR06"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Bong",
+    "NewCases":2,
+    "NewDeaths":1,
+    "CumulativeCases":750,
+    "CumulativeDeaths":185,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":150,
+    "MortalityRate":24.7,
     "PCodeAdmin1":"LBR06",
     "PCodeUse":"LBR06"
   },
@@ -34580,6 +35098,20 @@ var data = [
     "PCodeUse":"LBR09"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Grand Bassa",
+    "NewCases":9,
+    "NewDeaths":0,
+    "CumulativeCases":190,
+    "CumulativeDeaths":81,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":54,
+    "MortalityRate":42.6,
+    "PCodeAdmin1":"LBR09",
+    "PCodeUse":"LBR09"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Grand Cape Mount",
@@ -35477,6 +36009,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Grand Cape Mount",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":445,
+    "CumulativeDeaths":315,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":94,
+    "MortalityRate":70.8,
+    "PCodeAdmin1":"LBR12",
+    "PCodeUse":"LBR12"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Grand Cape Mount",
     "NewCases":0,
@@ -36400,6 +36946,20 @@ var data = [
     "PCodeUse":"LBR36"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"River Cess",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":44,
+    "CumulativeDeaths":27,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":24,
+    "MortalityRate":61.4,
+    "PCodeAdmin1":"LBR36",
+    "PCodeUse":"LBR36"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Grand Gedeh",
@@ -37297,6 +37857,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Grand Gedeh",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":14,
+    "CumulativeDeaths":9,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":3,
+    "MortalityRate":64.3,
+    "PCodeAdmin1":"LBR15",
+    "PCodeUse":"LBR15"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Grand Gedeh",
     "NewCases":0,
@@ -38220,6 +38794,20 @@ var data = [
     "PCodeUse":"LBR42"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"River Gee",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":44,
+    "CumulativeDeaths":22,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":8,
+    "MortalityRate":50,
+    "PCodeAdmin1":"LBR42",
+    "PCodeUse":"LBR42"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Sinoe",
@@ -39130,6 +39718,20 @@ var data = [
     "PCodeUse":"LBR39"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Sinoe",
+    "NewCases":5,
+    "NewDeaths":3,
+    "CumulativeCases":73,
+    "CumulativeDeaths":33,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":18,
+    "MortalityRate":45.2,
+    "PCodeAdmin1":"LBR39",
+    "PCodeUse":"LBR39"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Gbarpolu",
@@ -40027,6 +40629,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Gbarpolu",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":35,
+    "CumulativeDeaths":14,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":16,
+    "MortalityRate":40,
+    "PCodeAdmin1":"LBR45",
+    "PCodeUse":"LBR45"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Gbarpolu",
     "NewCases":0,
@@ -40950,6 +41566,20 @@ var data = [
     "PCodeUse":"LBR27"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Liberia",
+    "Region":"Maryland",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":84,
+    "CumulativeDeaths":59,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":4,
+    "MortalityRate":70.2,
+    "PCodeAdmin1":"LBR27",
+    "PCodeUse":"LBR27"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Liberia",
     "Region":"Grand Kru",
@@ -41847,6 +42477,20 @@ var data = [
   },
   {
     "WeekDate":"29/06/2015",
+    "Country":"Liberia",
+    "Region":"Grand Kru",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":86,
+    "CumulativeDeaths":28,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":4,
+    "MortalityRate":32.6,
+    "PCodeAdmin1":"LBR18",
+    "PCodeUse":"LBR18"
+  },
+  {
+    "WeekDate":"06/07/2015",
     "Country":"Liberia",
     "Region":"Grand Kru",
     "NewCases":0,
@@ -42770,6 +43414,20 @@ var data = [
     "PCodeUse":"SLE0101"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kailahun",
+    "NewCases":0,
+    "NewDeaths":0,
+    "CumulativeCases":674,
+    "CumulativeDeaths":267,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":0,
+    "MortalityRate":39.6,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0101"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Kenema",
@@ -43676,6 +44334,20 @@ var data = [
     "NewConfirmedCases":0,
     "CumulativeConfirmedCases":503,
     "MortalityRate":33.5,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0102"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kenema",
+    "NewCases":3,
+    "NewDeaths":0,
+    "CumulativeCases":810,
+    "CumulativeDeaths":270,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":503,
+    "MortalityRate":33.3,
     "PCodeAdmin1":"SLE01",
     "PCodeUse":"SLE0102"
   },
@@ -44590,6 +45262,20 @@ var data = [
     "PCodeUse":"SLE0103"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kono",
+    "NewCases":4,
+    "NewDeaths":0,
+    "CumulativeCases":656,
+    "CumulativeDeaths":207,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":254,
+    "MortalityRate":31.6,
+    "PCodeAdmin1":"SLE01",
+    "PCodeUse":"SLE0103"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Kambia",
@@ -45500,6 +46186,20 @@ var data = [
     "PCodeUse":"SLE0202"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Kambia",
+    "NewCases":5,
+    "NewDeaths":5,
+    "CumulativeCases":452,
+    "CumulativeDeaths":170,
+    "NewConfirmedCases":4,
+    "CumulativeConfirmedCases":250,
+    "MortalityRate":37.6,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0202"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Koinadugu",
@@ -46400,6 +47100,20 @@ var data = [
     "Country":"Sierra Leone",
     "Region":"Koinadugu",
     "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":228,
+    "CumulativeDeaths":89,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":109,
+    "MortalityRate":39,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0203"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Koinadugu",
+    "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":228,
     "CumulativeDeaths":89,
@@ -47320,6 +48034,20 @@ var data = [
     "PCodeUse":"SLE0201"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bombali",
+    "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":1259,
+    "CumulativeDeaths":431,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":1049,
+    "MortalityRate":34.2,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0201"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Tonkolili",
@@ -48222,6 +48950,20 @@ var data = [
     "NewCases":1,
     "NewDeaths":0,
     "CumulativeCases":629,
+    "CumulativeDeaths":185,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":454,
+    "MortalityRate":29.4,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0205"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Tonkolili",
+    "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":630,
     "CumulativeDeaths":185,
     "NewConfirmedCases":0,
     "CumulativeConfirmedCases":454,
@@ -49140,6 +49882,20 @@ var data = [
     "PCodeUse":"SLE0204"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Port Loko",
+    "NewCases":2,
+    "NewDeaths":2,
+    "CumulativeCases":2110,
+    "CumulativeDeaths":660,
+    "NewConfirmedCases":2,
+    "CumulativeConfirmedCases":1483,
+    "MortalityRate":31.3,
+    "PCodeAdmin1":"SLE02",
+    "PCodeUse":"SLE0204"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Pujehun",
@@ -50046,6 +50802,20 @@ var data = [
     "NewConfirmedCases":0,
     "CumulativeConfirmedCases":31,
     "MortalityRate":23.6,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0304"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Pujehun",
+    "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":90,
+    "CumulativeDeaths":21,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":31,
+    "MortalityRate":23.3,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0304"
   },
@@ -50960,6 +51730,20 @@ var data = [
     "PCodeUse":"SLE0301"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bo",
+    "NewCases":7,
+    "NewDeaths":0,
+    "CumulativeCases":615,
+    "CumulativeDeaths":165,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":314,
+    "MortalityRate":26.8,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0301"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Moyamba",
@@ -51866,6 +52650,20 @@ var data = [
     "NewConfirmedCases":0,
     "CumulativeConfirmedCases":209,
     "MortalityRate":26.2,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0303"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Moyamba",
+    "NewCases":6,
+    "NewDeaths":0,
+    "CumulativeCases":414,
+    "CumulativeDeaths":107,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":209,
+    "MortalityRate":25.8,
     "PCodeAdmin1":"SLE03",
     "PCodeUse":"SLE0303"
   },
@@ -52780,6 +53578,20 @@ var data = [
     "PCodeUse":"SLE0302"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Bonthe",
+    "NewCases":1,
+    "NewDeaths":0,
+    "CumulativeCases":90,
+    "CumulativeDeaths":7,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":5,
+    "MortalityRate":7.8,
+    "PCodeAdmin1":"SLE03",
+    "PCodeUse":"SLE0302"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Western Area Urban",
@@ -53690,6 +54502,20 @@ var data = [
     "PCodeUse":"SLE0402"
   },
   {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Western Area Urban",
+    "NewCases":5,
+    "NewDeaths":1,
+    "CumulativeCases":3466,
+    "CumulativeDeaths":818,
+    "NewConfirmedCases":3,
+    "CumulativeConfirmedCases":2268,
+    "MortalityRate":23.6,
+    "PCodeAdmin1":"SLE04",
+    "PCodeUse":"SLE0402"
+  },
+  {
     "WeekDate":"07/04/2014",
     "Country":"Sierra Leone",
     "Region":"Western Area Rural",
@@ -54590,6 +55416,20 @@ var data = [
     "Country":"Sierra Leone",
     "Region":"Western Area Rural",
     "NewCases":6,
+    "NewDeaths":0,
+    "CumulativeCases":1634,
+    "CumulativeDeaths":542,
+    "NewConfirmedCases":0,
+    "CumulativeConfirmedCases":1166,
+    "MortalityRate":33.2,
+    "PCodeAdmin1":"SLE04",
+    "PCodeUse":"SLE0401"
+  },
+  {
+    "WeekDate":"06/07/2015",
+    "Country":"Sierra Leone",
+    "Region":"Western Area Rural",
+    "NewCases":0,
     "NewDeaths":0,
     "CumulativeCases":1634,
     "CumulativeDeaths":542,
