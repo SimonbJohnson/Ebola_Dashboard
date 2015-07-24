@@ -394,7 +394,7 @@ var cases = {
   },
   {
     "key":"19/07/2015",
-    "value":27835
+    "value":27710
   }
 ],
 "Guinea":[
@@ -1190,7 +1190,7 @@ var cases = {
   },
   {
     "key":"19/07/2015",
-    "value":10798
+    "value":10673
   }
 ],
 "Sierra Leone":[
@@ -1987,7 +1987,7 @@ var deaths =
   },
   {
     "key":"19/07/2015",
-    "value":11359
+    "value":11270
   }
 ],
 "Guinea":[
@@ -2783,7 +2783,7 @@ var deaths =
   },
   {
     "key":"19/07/2015",
-    "value":4897
+    "value":4808
   }
 ],
 "Sierra Leone":[
